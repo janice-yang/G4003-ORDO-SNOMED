@@ -141,7 +141,6 @@ Pulmonary nodular lymphoid hyperplasia	C1334969
 Mycophenolate mofetil embryopathy	C4509879
 Autosomal recessive limb-girdle muscular dystrophy type 2N	C4511966
 Hyperinsulinism due to HNF1A deficiency	C4303475
-Torsade-de-pointes syndrome with short coupling interval	C3150851
 Primary Sjogren syndrome	C0151449
 Progressive symmetric erythrokeratodermia	C0265961
 Adenoid cystic carcinoma of the cervix uteri	C1332911
