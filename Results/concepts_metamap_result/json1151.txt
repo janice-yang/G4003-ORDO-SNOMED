@@ -1,0 +1,1011 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome",
+         "UttStartPos": "0",
+         "UttLength": "87",
+         "Phrases": [
+           {
+             "PhraseText": "Cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "cerebellar ataxia",
+                 "InputMatch": "Cerebellar ataxia",
+                 "LexCat": "noun",
+                 "Tokens": ["cerebellar","ataxia"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "areflexia",
+                 "InputMatch": "areflexia",
+                 "LexCat": "noun",
+                 "Tokens": ["areflexia"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "pes cavus",
+                 "InputMatch": "pes cavus",
+                 "LexCat": "noun",
+                 "Tokens": ["pes","cavus"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "optic atrophy",
+                 "InputMatch": "optic atrophy",
+                 "LexCat": "noun",
+                 "Tokens": ["optic","atrophy"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "sensorineural hearing loss",
+                 "InputMatch": "sensorineural hearing loss",
+                 "LexCat": "noun",
+                 "Tokens": ["sensorineural","hearing","loss"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "syndrome",
+                 "InputMatch": "syndrome",
+                 "LexCat": "noun",
+                 "Tokens": ["syndrome"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "87",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-820",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-890",
+                     "CandidateCUI": "C0007760",
+                     "CandidateMatched": "Cerebellar disease",
+                     "CandidatePreferred": "Cerebellar Diseases",
+                     "MatchedWords": ["cerebellar","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "10"
+                       },
+                       {
+                         "StartPos": "79",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0007758",
+                     "CandidateMatched": "Cerebellar ataxia NOS",
+                     "CandidatePreferred": "Cerebellar Ataxia",
+                     "MatchedWords": ["ataxia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "11",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0234146",
+                     "CandidateMatched": "Absent reflex",
+                     "CandidatePreferred": "Absent reflex",
+                     "MatchedWords": ["areflexia"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "18",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0728829",
+                     "CandidateMatched": "Congenital pes cavus",
+                     "CandidatePreferred": "Congenital pes cavus",
+                     "MatchedWords": ["pes","cavus"],
+                     "SemTypes": ["cgab"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "28",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0029124",
+                     "CandidateMatched": "Optic atrophy NOS",
+                     "CandidatePreferred": "Optic Atrophy",
+                     "MatchedWords": ["optic","atrophy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "38",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-649",
+                     "CandidateCUI": "C0018784",
+                     "CandidateMatched": "Sensorineural deafness",
+                     "CandidatePreferred": "Sensorineural Hearing Loss (disorder)",
+                     "MatchedWords": ["sensorineural","hearing","loss"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "52",
+                         "Length": "26"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-820",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0007758",
+                     "CandidateMatched": "Cerebellar ataxia NOS",
+                     "CandidatePreferred": "Cerebellar Ataxia",
+                     "MatchedWords": ["cerebellar","ataxia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "17"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0234146",
+                     "CandidateMatched": "Absent reflex",
+                     "CandidatePreferred": "Absent reflex",
+                     "MatchedWords": ["areflexia"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "18",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0728829",
+                     "CandidateMatched": "Congenital pes cavus",
+                     "CandidatePreferred": "Congenital pes cavus",
+                     "MatchedWords": ["pes","cavus"],
+                     "SemTypes": ["cgab"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "28",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0029124",
+                     "CandidateMatched": "Optic atrophy NOS",
+                     "CandidatePreferred": "Optic Atrophy",
+                     "MatchedWords": ["optic","atrophy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "38",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-649",
+                     "CandidateCUI": "C0018784",
+                     "CandidateMatched": "Sensorineural deafness",
+                     "CandidatePreferred": "Sensorineural Hearing Loss (disorder)",
+                     "MatchedWords": ["sensorineural","hearing","loss"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "52",
+                         "Length": "26"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-788",
+                     "CandidateCUI": "C0039082",
+                     "CandidateMatched": "Syndrome",
+                     "CandidatePreferred": "Syndrome",
+                     "MatchedWords": ["syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "79",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-790",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-890",
+                     "CandidateCUI": "C0007760",
+                     "CandidateMatched": "Cerebellar disease",
+                     "CandidatePreferred": "Cerebellar Diseases",
+                     "MatchedWords": ["cerebellar","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "10"
+                       },
+                       {
+                         "StartPos": "79",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0234146",
+                     "CandidateMatched": "Absent reflex",
+                     "CandidatePreferred": "Absent reflex",
+                     "MatchedWords": ["areflexia"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "18",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0728829",
+                     "CandidateMatched": "Congenital pes cavus",
+                     "CandidatePreferred": "Congenital pes cavus",
+                     "MatchedWords": ["pes","cavus"],
+                     "SemTypes": ["cgab"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "28",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0029124",
+                     "CandidateMatched": "Optic atrophy NOS",
+                     "CandidatePreferred": "Optic Atrophy",
+                     "MatchedWords": ["optic","atrophy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "38",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-649",
+                     "CandidateCUI": "C0018784",
+                     "CandidateMatched": "Sensorineural deafness",
+                     "CandidatePreferred": "Sensorineural Hearing Loss (disorder)",
+                     "MatchedWords": ["sensorineural","hearing","loss"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "52",
+                         "Length": "26"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-764",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-890",
+                     "CandidateCUI": "C0007760",
+                     "CandidateMatched": "Cerebellar disease",
+                     "CandidatePreferred": "Cerebellar Diseases",
+                     "MatchedWords": ["cerebellar","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "10"
+                       },
+                       {
+                         "StartPos": "79",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0234146",
+                     "CandidateMatched": "Absent reflex",
+                     "CandidatePreferred": "Absent reflex",
+                     "MatchedWords": ["areflexia"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "18",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0029124",
+                     "CandidateMatched": "Optic atrophy NOS",
+                     "CandidatePreferred": "Optic Atrophy",
+                     "MatchedWords": ["optic","atrophy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "38",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-649",
+                     "CandidateCUI": "C0018784",
+                     "CandidateMatched": "Sensorineural deafness",
+                     "CandidatePreferred": "Sensorineural Hearing Loss (disorder)",
+                     "MatchedWords": ["sensorineural","hearing","loss"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "52",
+                         "Length": "26"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-760",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-890",
+                     "CandidateCUI": "C0007760",
+                     "CandidateMatched": "Cerebellar disease",
+                     "CandidatePreferred": "Cerebellar Diseases",
+                     "MatchedWords": ["cerebellar","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "10"
+                       },
+                       {
+                         "StartPos": "79",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0007758",
+                     "CandidateMatched": "Cerebellar ataxia NOS",
+                     "CandidatePreferred": "Cerebellar Ataxia",
+                     "MatchedWords": ["ataxia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "11",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0234146",
+                     "CandidateMatched": "Absent reflex",
+                     "CandidatePreferred": "Absent reflex",
+                     "MatchedWords": ["areflexia"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "18",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0029124",
+                     "CandidateMatched": "Optic atrophy NOS",
+                     "CandidatePreferred": "Optic Atrophy",
+                     "MatchedWords": ["optic","atrophy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "38",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-649",
+                     "CandidateCUI": "C0018784",
+                     "CandidateMatched": "Sensorineural deafness",
+                     "CandidatePreferred": "Sensorineural Hearing Loss (disorder)",
+                     "MatchedWords": ["sensorineural","hearing","loss"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "52",
+                         "Length": "26"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-760",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0007758",
+                     "CandidateMatched": "Cerebellar ataxia NOS",
+                     "CandidatePreferred": "Cerebellar Ataxia",
+                     "MatchedWords": ["cerebellar","ataxia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "17"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0234146",
+                     "CandidateMatched": "Absent reflex",
+                     "CandidatePreferred": "Absent reflex",
+                     "MatchedWords": ["areflexia"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "18",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0029124",
+                     "CandidateMatched": "Optic atrophy NOS",
+                     "CandidatePreferred": "Optic Atrophy",
+                     "MatchedWords": ["optic","atrophy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "38",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-649",
+                     "CandidateCUI": "C0018784",
+                     "CandidateMatched": "Sensorineural deafness",
+                     "CandidatePreferred": "Sensorineural Hearing Loss (disorder)",
+                     "MatchedWords": ["sensorineural","hearing","loss"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "52",
+                         "Length": "26"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-788",
+                     "CandidateCUI": "C0039082",
+                     "CandidateMatched": "Syndrome",
+                     "CandidatePreferred": "Syndrome",
+                     "MatchedWords": ["syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "79",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

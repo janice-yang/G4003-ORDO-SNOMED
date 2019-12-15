@@ -1,0 +1,981 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome",
+         "UttStartPos": "0",
+         "UttLength": "99",
+         "Phrases": [
+           {
+             "PhraseText": "Congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "congenital",
+                 "InputMatch": "Congenital",
+                 "LexCat": "adj",
+                 "Tokens": ["congenital"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "sideroblastic anemia",
+                 "InputMatch": "sideroblastic anemia",
+                 "LexCat": "noun",
+                 "Tokens": ["sideroblastic","anemia"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "b-cell",
+                 "InputMatch": "B - cell",
+                 "LexCat": "noun",
+                 "Tokens": ["b","cell"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "immunodeficiency",
+                 "InputMatch": "immunodeficiency",
+                 "LexCat": "noun",
+                 "Tokens": ["immunodeficiency"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "periodic fever",
+                 "InputMatch": "periodic fever",
+                 "LexCat": "noun",
+                 "Tokens": ["periodic","fever"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "developmental delay",
+                 "InputMatch": "developmental delay",
+                 "LexCat": "noun",
+                 "Tokens": ["developmental","delay"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "syndrome",
+                 "InputMatch": "syndrome",
+                 "LexCat": "noun",
+                 "Tokens": ["syndrome"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "99",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-760",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-891",
+                     "CandidateCUI": "C0272229",
+                     "CandidateMatched": "Congenital immunodeficiency disease",
+                     "CandidatePreferred": "Congenital immunodeficiency disease",
+                     "MatchedWords": ["congenital","immunodeficiency","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "10"
+                       },
+                       {
+                         "StartPos": "39",
+                         "Length": "16"
+                       },
+                       {
+                         "StartPos": "91",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0002896",
+                     "CandidateMatched": "Sideroblastic anemia",
+                     "CandidatePreferred": "Sideroblastic anemia",
+                     "MatchedWords": ["sideroblastic","anaemia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "11",
+                         "Length": "20"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0332182",
+                     "CandidateMatched": "Periodic",
+                     "CandidatePreferred": "Periodic",
+                     "MatchedWords": ["periodic"],
+                     "SemTypes": ["tmco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "56",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0424755",
+                     "CandidateMatched": "Fever symptoms (finding)",
+                     "CandidatePreferred": "Fever symptoms (finding)",
+                     "MatchedWords": ["fever"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "8",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "65",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0424605",
+                     "CandidateMatched": "Developmental delay (disorder)",
+                     "CandidatePreferred": "Developmental delay (disorder)",
+                     "MatchedWords": ["developmental","delay"],
+                     "SemTypes": ["mobd"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "9",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "71",
+                         "Length": "19"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-760",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-649",
+                     "CandidateCUI": "C0221018",
+                     "CandidateMatched": "Hereditary sideroblastic anemia",
+                     "CandidatePreferred": "Hereditary sideroblastic anemia",
+                     "MatchedWords": ["congenital","sideroblastic","anaemia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "31"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-840",
+                     "CandidateCUI": "C0021051",
+                     "CandidateMatched": "Unspecified immunity deficiency",
+                     "CandidatePreferred": "Immunologic Deficiency Syndromes",
+                     "MatchedWords": ["immunodeficiency","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "39",
+                         "Length": "16"
+                       },
+                       {
+                         "StartPos": "91",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0332182",
+                     "CandidateMatched": "Periodic",
+                     "CandidatePreferred": "Periodic",
+                     "MatchedWords": ["periodic"],
+                     "SemTypes": ["tmco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "56",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0424755",
+                     "CandidateMatched": "Fever symptoms (finding)",
+                     "CandidatePreferred": "Fever symptoms (finding)",
+                     "MatchedWords": ["fever"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "8",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "65",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0424605",
+                     "CandidateMatched": "Developmental delay (disorder)",
+                     "CandidatePreferred": "Developmental delay (disorder)",
+                     "MatchedWords": ["developmental","delay"],
+                     "SemTypes": ["mobd"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "9",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "71",
+                         "Length": "19"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-760",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-649",
+                     "CandidateCUI": "C0221018",
+                     "CandidateMatched": "Hereditary sideroblastic anemia",
+                     "CandidatePreferred": "Hereditary sideroblastic anemia",
+                     "MatchedWords": ["congenital","sideroblastic","anaemia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "31"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0021051",
+                     "CandidateMatched": "Unspecified immunity deficiency",
+                     "CandidatePreferred": "Immunologic Deficiency Syndromes",
+                     "MatchedWords": ["immunodeficiency"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "39",
+                         "Length": "16"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-830",
+                     "CandidateCUI": "C0585274",
+                     "CandidateMatched": "Periodic syndrome",
+                     "CandidatePreferred": "Periodic syndrome",
+                     "MatchedWords": ["periodic","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "56",
+                         "Length": "8"
+                       },
+                       {
+                         "StartPos": "91",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0424755",
+                     "CandidateMatched": "Fever symptoms (finding)",
+                     "CandidatePreferred": "Fever symptoms (finding)",
+                     "MatchedWords": ["fever"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "8",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "65",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0424605",
+                     "CandidateMatched": "Developmental delay (disorder)",
+                     "CandidatePreferred": "Developmental delay (disorder)",
+                     "MatchedWords": ["developmental","delay"],
+                     "SemTypes": ["mobd"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "9",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "71",
+                         "Length": "19"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-749",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-891",
+                     "CandidateCUI": "C0272229",
+                     "CandidateMatched": "Congenital immunodeficiency disease",
+                     "CandidatePreferred": "Congenital immunodeficiency disease",
+                     "MatchedWords": ["congenital","immunodeficiency","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "10"
+                       },
+                       {
+                         "StartPos": "39",
+                         "Length": "16"
+                       },
+                       {
+                         "StartPos": "91",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0002896",
+                     "CandidateMatched": "Sideroblastic anemia",
+                     "CandidatePreferred": "Sideroblastic anemia",
+                     "MatchedWords": ["sideroblastic","anaemia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "11",
+                         "Length": "20"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0332182",
+                     "CandidateMatched": "Periodic",
+                     "CandidatePreferred": "Periodic",
+                     "MatchedWords": ["periodic"],
+                     "SemTypes": ["tmco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "56",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0424605",
+                     "CandidateMatched": "Developmental delay (disorder)",
+                     "CandidatePreferred": "Developmental delay (disorder)",
+                     "MatchedWords": ["developmental","delay"],
+                     "SemTypes": ["mobd"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "9",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "71",
+                         "Length": "19"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-749",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-649",
+                     "CandidateCUI": "C0221018",
+                     "CandidateMatched": "Hereditary sideroblastic anemia",
+                     "CandidatePreferred": "Hereditary sideroblastic anemia",
+                     "MatchedWords": ["congenital","sideroblastic","anaemia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "31"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-840",
+                     "CandidateCUI": "C0021051",
+                     "CandidateMatched": "Unspecified immunity deficiency",
+                     "CandidatePreferred": "Immunologic Deficiency Syndromes",
+                     "MatchedWords": ["immunodeficiency","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "39",
+                         "Length": "16"
+                       },
+                       {
+                         "StartPos": "91",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0332182",
+                     "CandidateMatched": "Periodic",
+                     "CandidatePreferred": "Periodic",
+                     "MatchedWords": ["periodic"],
+                     "SemTypes": ["tmco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "56",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0424605",
+                     "CandidateMatched": "Developmental delay (disorder)",
+                     "CandidatePreferred": "Developmental delay (disorder)",
+                     "MatchedWords": ["developmental","delay"],
+                     "SemTypes": ["mobd"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "9",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "71",
+                         "Length": "19"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-749",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-649",
+                     "CandidateCUI": "C0221018",
+                     "CandidateMatched": "Hereditary sideroblastic anemia",
+                     "CandidatePreferred": "Hereditary sideroblastic anemia",
+                     "MatchedWords": ["congenital","sideroblastic","anaemia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "31"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-622",
+                     "CandidateCUI": "C0021051",
+                     "CandidateMatched": "Unspecified immunity deficiency",
+                     "CandidatePreferred": "Immunologic Deficiency Syndromes",
+                     "MatchedWords": ["immunodeficiency"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "39",
+                         "Length": "16"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-830",
+                     "CandidateCUI": "C0585274",
+                     "CandidateMatched": "Periodic syndrome",
+                     "CandidatePreferred": "Periodic syndrome",
+                     "MatchedWords": ["periodic","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "56",
+                         "Length": "8"
+                       },
+                       {
+                         "StartPos": "91",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-634",
+                     "CandidateCUI": "C0424605",
+                     "CandidateMatched": "Developmental delay (disorder)",
+                     "CandidatePreferred": "Developmental delay (disorder)",
+                     "MatchedWords": ["developmental","delay"],
+                     "SemTypes": ["mobd"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "9",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "71",
+                         "Length": "19"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

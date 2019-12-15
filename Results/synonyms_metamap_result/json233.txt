@@ -1,0 +1,216 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Infantile hypotonia-psychomotor retardation-characteristic facies syndrome",
+         "UttStartPos": "0",
+         "UttLength": "74",
+         "Phrases": [
+           {
+             "PhraseText": "Infantile hypotonia-psychomotor retardation-characteristic facies syndrome",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "infantile",
+                 "InputMatch": "Infantile",
+                 "LexCat": "adj",
+                 "Tokens": ["infantile"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "hypotonia",
+                 "InputMatch": "hypotonia",
+                 "LexCat": "noun",
+                 "Tokens": ["hypotonia"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "psychomotor retardation",
+                 "InputMatch": "psychomotor retardation",
+                 "LexCat": "noun",
+                 "Tokens": ["psychomotor","retardation"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "characteristic",
+                 "InputMatch": "characteristic",
+                 "LexCat": "adj",
+                 "Tokens": ["characteristic"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "facies",
+                 "InputMatch": "facies",
+                 "LexCat": "noun",
+                 "Tokens": ["facies"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "syndrome",
+                 "InputMatch": "syndrome",
+                 "LexCat": "noun",
+                 "Tokens": ["syndrome"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "74",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-785",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-651",
+                     "CandidateCUI": "C0270971",
+                     "CandidateMatched": "Floppy infant syndrome",
+                     "CandidatePreferred": "Floppy infant syndrome",
+                     "MatchedWords": ["infantile","hypotonia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "19"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-651",
+                     "CandidateCUI": "C0557874",
+                     "CandidateMatched": "Global developmental delay",
+                     "CandidatePreferred": "Global developmental delay",
+                     "MatchedWords": ["psychomotor","retardation"],
+                     "SemTypes": ["mobd"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "20",
+                         "Length": "23"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-795",
+                     "CandidateCUI": "C0039082",
+                     "CandidateMatched": "Syndrome",
+                     "CandidatePreferred": "Syndrome",
+                     "MatchedWords": ["syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "66",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

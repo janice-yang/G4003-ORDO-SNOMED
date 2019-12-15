@@ -1,0 +1,29 @@
+	ORDO-ID	Concept	Mapped_Term	SNOMED_ID	SNOMED_Term	Score
+0	529468	Monoclonal mast cell activation syndrome	Monoclonal mast cell activation syndrome	397007003	Mast cell disorder (disorder)	926.0
+1	276145	Malignant epithelial tumor of salivary glands	Malignant epithelial tumor of salivary glands	255072001	Malignant tumor of salivary gland (disorder)	905.0
+2	536471	Spondylodysplastic Ehlers-Danlos syndrome	Spondylodysplastic Ehlers-Danlos syndrome	398114001	Ehlers-Danlos syndrome (disorder)	909.0
+3	213600	Adenosarcoma of the corpus uteri	Adenosarcoma of the corpus uteri	447390000	Adenosarcoma of uterus (disorder)	922.0
+4	66518	Short fifth metacarpals-insulin resistance syndrome	Short fifth metacarpals-insulin resistance syndrome	721069005	Short fifth metacarpal insulin resistance syndrome (disorder)	991.0
+5	402026	Acute myeloid leukemia with NPM1 somatic mutations	Acute myeloid leukemia with NPM1 somatic mutations	763309005	Acute myeloid leukemia with nucleophosmin 1 somatic mutation (disorder)	991.0
+6	538574	Palmoplantar keratoderma-hereditary motor and sensory neuropathy syndrome	Palmoplantar keratoderma-Charcot-Marie-Tooth syndrome	706885006	Palmoplantar keratoderma (disorder)	901.0
+7	457406	Multiple mitochondrial dysfunctions syndrome type 4	Multiple mitochondrial dysfunctions syndrome type 4	720827002	Multiple mitochondrial dysfunctions syndrome (disorder)	901.0
+8	1018	X-linked Alport syndrome-diffuse leiomyomatosis	X-linked Alport syndrome-diffuse leiomyomatosis	726106004	X-linked diffuse leiomyomatosis with Alport syndrome (disorder)	1000.0
+9	276148	Benign epithelial tumor of salivary glands	Benign epithelial tumor of salivary glands	255154009	Benign tumor of salivary gland (disorder)	905.0
+10	423968	Squamous cell carcinoma of the small intestine	Squamous cell carcinoma of the small bowel	764735002	Squamous cell carcinoma of small intestine (disorder)	910.0
+11	86906	Hypothalamic hamartomas with gelastic seizures	Hypothalamic hamartomas with gelastic seizures	766932005	Hypothalamic hamartoma with gelastic seizure (disorder)	983.0
+12	163721	Rolandic epilepsy-speech dyspraxia syndrome	Rolandic epilepsy-speech dyspraxia syndrome	765093009	Rolandic epilepsy, speech dyspraxia syndrome (disorder)	1000.0
+13	319462	Inherited cancer-predisposing syndrome due to biallelic BRCA2 mutations	Inherited cancer-predisposing syndrome due to biallelic BRCA2 mutations	766707003	Inherited cancer-predisposing syndrome due to biallelic BRCA2 mutation (disorder)	995.0
+14	166421	Orgasm-induced seizures	Orgasm-induced seizures	763827002	Orgasm induced epilepsy (disorder)	988.0
+15	466682	Euthyroid Graves orbitopathy	Euthyroid Graves ophthalmopathy	264521008	Euthyroid (finding)	901.0
+16	213833	Glassy cell carcinoma of the cervix uteri	Glassy cell carcinoma of the cervix uteri	766930002	Glassy cell carcinoma of cervix uteri (disorder)	910.0
+17	213557	Salivary gland type cancer of the breast	Salivary gland type carcinoma of the breast	716593008	Carcinoma of salivary gland type of breast (disorder)	905.0
+18	440392	Interstitial lung disease due to SP-C deficiency	Interstitial lung disease due to surfactant protein C deficiency	328641000119109	Genetic disorder of surfactant dysfunction (disorder)	902.0
+19	100075	Neuroendocrine tumor of stomach	Gastric neuroendocrine tumor	721194008	Neuroendocrine neoplasm of stomach (disorder)	1000.0
+20	100082	Neuroendocrine tumor of anal canal	Neuroendocrine tumor of anal canal	126850006	Neoplasm of anal canal (disorder)	926.0
+21	449395	IgG4-related kidney disease	IgG4-related kidney disease	10743271000119103	Immunoglobulin G4 related disease (disorder)	916.0
+22	86893	Nodular lymphocyte predominant Hodgkin lymphoma	Nodular lymphocyte predominant Hodgkin lymphoma	70600005	Hodgkin lymphoma, nodular lymphocyte predominance (morphologic abnormality)	982.0
+23	2688	Adult idiopathic neutropenia	Adult chronic idiopathic neutropenia	248693006	Chronic idiopathic neutropenia (disorder)	909.0
+24	2085	Glaucoma-sleep apnea syndrome	Glaucoma-sleep apnea syndrome	23986001	Glaucoma (disorder)	916.0
+25	99915	Maligant granulosa cell tumor of the ovary	Granulosa cell malignant tumor	18861007	Granulosa cell tumor, malignant (morphologic abnormality)	1000.0
+26	247868	NLRP12-associated hereditary periodic fever syndrome	Familial cold autoinflammatory syndrome type 2	238687000	Familial cold urticaria (disorder)	901.0
+27	465	Congenital plasminogen activator inhibitor type 1 deficiency	Congenital plasminogen activator inhibitor type 1 deficiency	717407006	Congenital plasminogen activator inhibitor deficiency type 1 (disorder)	1000.0

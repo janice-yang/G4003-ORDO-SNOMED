@@ -1,0 +1,213 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Intrauterine growth restriction-short stature-early adult-onset diabetes syndrome",
+         "UttStartPos": "0",
+         "UttLength": "81",
+         "Phrases": [
+           {
+             "PhraseText": "Intrauterine growth restriction-short stature-early adult-onset diabetes syndrome",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "intrauterine growth restriction",
+                 "InputMatch": "Intrauterine growth restriction",
+                 "LexCat": "noun",
+                 "Tokens": ["intrauterine","growth","restriction"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "short stature",
+                 "InputMatch": "short stature",
+                 "LexCat": "noun",
+                 "Tokens": ["short","stature"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "early",
+                 "InputMatch": "early",
+                 "LexCat": "adj",
+                 "Tokens": ["early"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "adult-onset diabetes",
+                 "InputMatch": "adult - onset diabetes",
+                 "LexCat": "noun",
+                 "Tokens": ["adult","onset","diabetes"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "syndrome",
+                 "InputMatch": "syndrome",
+                 "LexCat": "noun",
+                 "Tokens": ["syndrome"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "81",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-773",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-861",
+                     "CandidateCUI": "C0018133",
+                     "CandidateMatched": "Graft versus host disease",
+                     "CandidatePreferred": "Graft-vs-Host Disease",
+                     "MatchedWords": ["short","stature","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "10",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "32",
+                         "Length": "13"
+                       },
+                       {
+                         "StartPos": "73",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-623",
+                     "CandidateCUI": "C1279919",
+                     "CandidateMatched": "Early",
+                     "CandidatePreferred": "Early",
+                     "MatchedWords": ["early"],
+                     "SemTypes": ["tmco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "46",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-654",
+                     "CandidateCUI": "C0011860",
+                     "CandidateMatched": "Non-insulin-dependent diabetes mellitus",
+                     "CandidatePreferred": "Diabetes Mellitus, Non-Insulin-Dependent",
+                     "MatchedWords": ["adult","onset","diabetes"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "9",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "52",
+                         "Length": "20"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

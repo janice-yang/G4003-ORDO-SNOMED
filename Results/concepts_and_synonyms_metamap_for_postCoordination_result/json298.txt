@@ -1,0 +1,215 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Acquired cystic disease-associated renal cell carcinoma",
+         "UttStartPos": "0",
+         "UttLength": "55",
+         "Phrases": [
+           {
+             "PhraseText": "Acquired cystic disease-associated renal cell carcinoma",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "acquired",
+                 "InputMatch": "Acquired",
+                 "LexCat": "adj",
+                 "Tokens": ["acquired"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "cystic disease",
+                 "InputMatch": "cystic disease",
+                 "LexCat": "noun",
+                 "Tokens": ["cystic","disease"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "associated",
+                 "InputMatch": "associated",
+                 "LexCat": "adj",
+                 "Tokens": ["associated"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "renal cell carcinoma",
+                 "InputMatch": "renal cell carcinoma",
+                 "LexCat": "noun",
+                 "Tokens": ["renal","cell","carcinoma"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "55",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-812",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-831",
+                     "CandidateCUI": "C0268799",
+                     "CandidateMatched": "Acquired renal cystic disease",
+                     "CandidatePreferred": "Acquired renal cystic disease",
+                     "MatchedWords": ["acquired","renal","cystic","disease"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "23"
+                       },
+                       {
+                         "StartPos": "35",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-581",
+                     "CandidateCUI": "C0332281",
+                     "CandidateMatched": "Associated with",
+                     "CandidatePreferred": "Associated with",
+                     "MatchedWords": ["associated"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "24",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-748",
+                     "CandidateCUI": "C0007097",
+                     "CandidateMatched": "Carcinoma",
+                     "CandidatePreferred": "Carcinoma",
+                     "MatchedWords": ["carcinoma"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "46",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

@@ -1,0 +1,218 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Neuropathy associated with monoclonal IgM antibodies to myelin-associated glycoprotein",
+         "UttStartPos": "0",
+         "UttLength": "86",
+         "Phrases": [
+           {
+             "PhraseText": "Neuropathy associated with monoclonal IgM antibodies",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "neuropathy associated",
+                 "InputMatch": "Neuropathy associated",
+                 "LexCat": "adj",
+                 "Tokens": ["neuropathy","associated"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "monoclonal",
+                 "InputMatch": "monoclonal",
+                 "LexCat": "adj",
+                 "Tokens": ["monoclonal"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "igm antibodies",
+                 "InputMatch": "IgM antibodies",
+                 "LexCat": "noun",
+                 "Tokens": ["igm","antibodies"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "52",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-734",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-753",
+                     "CandidateCUI": "C0442874",
+                     "CandidateMatched": "Neuropathy",
+                     "CandidatePreferred": "Neuropathy",
+                     "MatchedWords": ["neuropathy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-790",
+                     "CandidateCUI": "C0332281",
+                     "CandidateMatched": "Associated with",
+                     "CandidatePreferred": "Associated with",
+                     "MatchedWords": ["associated","with"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "11",
+                         "Length": "15"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "to myelin-associated glycoprotein",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "to",
+                 "InputMatch": "to",
+                 "LexCat": "prep",
+                 "Tokens": ["to"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "myelin-associated glycoprotein",
+                 "InputMatch": "myelin - associated glycoprotein",
+                 "LexCat": "noun",
+                 "Tokens": ["myelin","associated","glycoprotein"]
+               }],
+             "PhraseStartPos": "53",
+             "PhraseLength": "33",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-827",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-827",
+                     "CandidateCUI": "C0332281",
+                     "CandidateMatched": "Associated with",
+                     "CandidatePreferred": "Associated with",
+                     "MatchedWords": ["associated"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "63",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

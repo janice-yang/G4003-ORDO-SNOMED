@@ -1,0 +1,259 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Hypertrophic cardiomyopathy and renal tubular disease due to mtDNA mutation",
+         "UttStartPos": "0",
+         "UttLength": "75",
+         "Phrases": [
+           {
+             "PhraseText": "Hypertrophic cardiomyopathy",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "hypertrophic cardiomyopathy",
+                 "InputMatch": "Hypertrophic cardiomyopathy",
+                 "LexCat": "noun",
+                 "Tokens": ["hypertrophic","cardiomyopathy"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "27",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C0007194",
+                     "CandidateMatched": "Hypertrophic cardiomyopathy",
+                     "CandidatePreferred": "Hypertrophic Cardiomyopathy",
+                     "MatchedWords": ["hypertrophic","cardiomyopathy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "27"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "and",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "conj",
+                 "LexMatch": "and",
+                 "InputMatch": "and",
+                 "LexCat": "conj",
+                 "Tokens": ["and"]
+               }],
+             "PhraseStartPos": "28",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "renal tubular disease due to mtDNA mutation",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "renal tubular",
+                 "InputMatch": "renal tubular",
+                 "LexCat": "adj",
+                 "Tokens": ["renal","tubular"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "disease",
+                 "InputMatch": "disease",
+                 "LexCat": "noun",
+                 "Tokens": ["disease"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "due to",
+                 "InputMatch": "due to",
+                 "LexCat": "prep",
+                 "Tokens": ["due","to"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "mtdna",
+                 "InputMatch": "mtDNA",
+                 "LexCat": "noun",
+                 "Tokens": ["mtdna"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "mutation",
+                 "InputMatch": "mutation",
+                 "LexCat": "noun",
+                 "Tokens": ["mutation"]
+               }],
+             "PhraseStartPos": "32",
+             "PhraseLength": "43",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-788",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-814",
+                     "CandidateCUI": "C0151747",
+                     "CandidateMatched": "Renal tubular disorder",
+                     "CandidatePreferred": "Renal tubular disorder",
+                     "MatchedWords": ["renal","tubular","disease"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "32",
+                         "Length": "21"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-612",
+                     "CandidateCUI": "C0678226",
+                     "CandidateMatched": "Due to",
+                     "CandidatePreferred": "Due to",
+                     "MatchedWords": ["due","to"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "54",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-581",
+                     "CandidateCUI": "C0026882",
+                     "CandidateMatched": "Genetic mutation",
+                     "CandidatePreferred": "Mutation",
+                     "MatchedWords": ["mutation"],
+                     "SemTypes": ["genf"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "67",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

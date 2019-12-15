@@ -1,0 +1,355 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Acanthosis nigricans-insulin resistance-muscle cramps-acral enlargement syndrome",
+         "UttStartPos": "0",
+         "UttLength": "80",
+         "Phrases": [
+           {
+             "PhraseText": "Acanthosis nigricans-insulin resistance-muscle cramps-acral enlargement syndrome",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "acanthosis nigricans",
+                 "InputMatch": "Acanthosis nigricans",
+                 "LexCat": "noun",
+                 "Tokens": ["acanthosis","nigricans"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "insulin resistance",
+                 "InputMatch": "insulin resistance",
+                 "LexCat": "noun",
+                 "Tokens": ["insulin","resistance"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "muscle cramps",
+                 "InputMatch": "muscle cramps",
+                 "LexCat": "noun",
+                 "Tokens": ["muscle","cramps"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "acral",
+                 "InputMatch": "acral",
+                 "LexCat": "adj",
+                 "Tokens": ["acral"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "enlargement",
+                 "InputMatch": "enlargement",
+                 "LexCat": "noun",
+                 "Tokens": ["enlargement"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "syndrome",
+                 "InputMatch": "syndrome",
+                 "LexCat": "noun",
+                 "Tokens": ["syndrome"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "80",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-777",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-641",
+                     "CandidateCUI": "C0000889",
+                     "CandidateMatched": "Acanthosis nigricans",
+                     "CandidatePreferred": "Acanthosis Nigricans",
+                     "MatchedWords": ["acanthosis","nigricans"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "20"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-871",
+                     "CandidateCUI": "C0524620",
+                     "CandidateMatched": "Metabolic syndrome X",
+                     "CandidatePreferred": "Metabolic Syndrome X",
+                     "MatchedWords": ["insulin","resistance","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "9",
+                         "TextMatchEnd": "9",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "21",
+                         "Length": "18"
+                       },
+                       {
+                         "StartPos": "72",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-624",
+                     "CandidateCUI": "C0439746",
+                     "CandidateMatched": "Acral",
+                     "CandidatePreferred": "Acral",
+                     "MatchedWords": ["acral"],
+                     "SemTypes": ["spco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "54",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-775",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-641",
+                     "CandidateCUI": "C0000889",
+                     "CandidateMatched": "Acanthosis nigricans",
+                     "CandidatePreferred": "Acanthosis Nigricans",
+                     "MatchedWords": ["acanthosis","nigricans"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "20"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-871",
+                     "CandidateCUI": "C0524620",
+                     "CandidateMatched": "Metabolic syndrome X",
+                     "CandidatePreferred": "Metabolic Syndrome X",
+                     "MatchedWords": ["insulin","resistance","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "9",
+                         "TextMatchEnd": "9",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "21",
+                         "Length": "18"
+                       },
+                       {
+                         "StartPos": "72",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-663",
+                     "CandidateCUI": "C0236033",
+                     "CandidateMatched": "Muscle hypertrophy",
+                     "CandidatePreferred": "Muscle hypertrophy",
+                     "MatchedWords": ["muscle","enlargement"],
+                     "SemTypes": ["ortf"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "8",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "40",
+                         "Length": "6"
+                       },
+                       {
+                         "StartPos": "60",
+                         "Length": "11"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-624",
+                     "CandidateCUI": "C0439746",
+                     "CandidateMatched": "Acral",
+                     "CandidatePreferred": "Acral",
+                     "MatchedWords": ["acral"],
+                     "SemTypes": ["spco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "54",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

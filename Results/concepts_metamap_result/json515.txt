@@ -1,0 +1,404 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Childhood-onset motor and cognitive regression syndrome with extrapyramidal movement disorder",
+         "UttStartPos": "0",
+         "UttLength": "93",
+         "Phrases": [
+           {
+             "PhraseText": "Childhood-onset motor",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "childhood",
+                 "InputMatch": "Childhood",
+                 "LexCat": "noun",
+                 "Tokens": ["childhood"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "onset",
+                 "InputMatch": "onset",
+                 "LexCat": "noun",
+                 "Tokens": ["onset"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "motor",
+                 "InputMatch": "motor",
+                 "LexCat": "noun",
+                 "Tokens": ["motor"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "21",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-623",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-660",
+                     "CandidateCUI": "C0231335",
+                     "CandidateMatched": "Childhood",
+                     "CandidatePreferred": "Childhood",
+                     "MatchedWords": ["childhood"],
+                     "SemTypes": ["tmco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-660",
+                     "CandidateCUI": "C0332162",
+                     "CandidateMatched": "Onset of (contextual qualifier)",
+                     "CandidatePreferred": "Onset of (contextual qualifier)",
+                     "MatchedWords": ["onset"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "10",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "and",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "conj",
+                 "LexMatch": "and",
+                 "InputMatch": "and",
+                 "LexCat": "conj",
+                 "Tokens": ["and"]
+               }],
+             "PhraseStartPos": "22",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "cognitive regression syndrome with extrapyramidal movement disorder",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "cognitive",
+                 "InputMatch": "cognitive",
+                 "LexCat": "adj",
+                 "Tokens": ["cognitive"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "regression",
+                 "InputMatch": "regression",
+                 "LexCat": "noun",
+                 "Tokens": ["regression"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "syndrome",
+                 "InputMatch": "syndrome",
+                 "LexCat": "noun",
+                 "Tokens": ["syndrome"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "extrapyramidal",
+                 "InputMatch": "extrapyramidal",
+                 "LexCat": "adj",
+                 "Tokens": ["extrapyramidal"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "movement disorder",
+                 "InputMatch": "movement disorder",
+                 "LexCat": "noun",
+                 "Tokens": ["movement","disorder"]
+               }],
+             "PhraseStartPos": "26",
+             "PhraseLength": "67",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-723",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-607",
+                     "CandidateCUI": "C0009241",
+                     "CandidateMatched": "Cognitive disorder",
+                     "CandidatePreferred": "Cognition Disorders",
+                     "MatchedWords": ["cognitive","disorder"],
+                     "SemTypes": ["mobd"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "26",
+                         "Length": "9"
+                       },
+                       {
+                         "StartPos": "85",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-581",
+                     "CandidateCUI": "C1836830",
+                     "CandidateMatched": "Developmental regression",
+                     "CandidatePreferred": "Developmental regression",
+                     "MatchedWords": ["regression"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "36",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-774",
+                     "CandidateCUI": "C0015371",
+                     "CandidateMatched": "Extrapyramidal disorder",
+                     "CandidatePreferred": "Extrapyramidal Disorders",
+                     "MatchedWords": ["extrapyramidal","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "47",
+                         "Length": "8"
+                       },
+                       {
+                         "StartPos": "61",
+                         "Length": "14"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-715",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-607",
+                     "CandidateCUI": "C0009241",
+                     "CandidateMatched": "Cognitive disorder",
+                     "CandidatePreferred": "Cognition Disorders",
+                     "MatchedWords": ["cognitive","disorder"],
+                     "SemTypes": ["mobd"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "26",
+                         "Length": "9"
+                       },
+                       {
+                         "StartPos": "85",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-774",
+                     "CandidateCUI": "C0015371",
+                     "CandidateMatched": "Extrapyramidal disorder",
+                     "CandidatePreferred": "Extrapyramidal Disorders",
+                     "MatchedWords": ["extrapyramidal","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "47",
+                         "Length": "8"
+                       },
+                       {
+                         "StartPos": "61",
+                         "Length": "14"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

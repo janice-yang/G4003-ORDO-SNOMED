@@ -1,0 +1,217 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Phyllodes type of atypical prostatic hyperplasia",
+         "UttStartPos": "0",
+         "UttLength": "48",
+         "Phrases": [
+           {
+             "PhraseText": "Phyllodes type of atypical prostatic hyperplasia",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "phyllodes",
+                 "InputMatch": "Phyllodes",
+                 "LexCat": "noun",
+                 "Tokens": ["phyllodes"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "type",
+                 "InputMatch": "type",
+                 "LexCat": "noun",
+                 "Tokens": ["type"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "of",
+                 "InputMatch": "of",
+                 "LexCat": "prep",
+                 "Tokens": ["of"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "atypical",
+                 "InputMatch": "atypical",
+                 "LexCat": "adj",
+                 "Tokens": ["atypical"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "prostatic hyperplasia",
+                 "InputMatch": "prostatic hyperplasia",
+                 "LexCat": "noun",
+                 "Tokens": ["prostatic","hyperplasia"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "48",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-799",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-753",
+                     "CandidateCUI": "C0332307",
+                     "CandidateMatched": "Type - attribute",
+                     "CandidatePreferred": "Type - attribute",
+                     "MatchedWords": ["type"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "10",
+                         "Length": "4"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-586",
+                     "CandidateCUI": "C0205182",
+                     "CandidateMatched": "Atypical",
+                     "CandidatePreferred": "Atypical",
+                     "MatchedWords": ["atypical"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "18",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-624",
+                     "CandidateCUI": "C2937421",
+                     "CandidateMatched": "Prostatic hyperplasia NOS",
+                     "CandidatePreferred": "Prostatic Hyperplasia",
+                     "MatchedWords": ["hyperplasia","of","prostate"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "3"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "15",
+                         "Length": "2"
+                       },
+                       {
+                         "StartPos": "27",
+                         "Length": "21"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

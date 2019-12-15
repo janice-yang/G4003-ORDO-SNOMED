@@ -1,0 +1,274 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Theca (steroid-producing) cell cancer, not further specified",
+         "UttStartPos": "0",
+         "UttLength": "60",
+         "Phrases": [
+           {
+             "PhraseText": "Theca",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "theca",
+                 "InputMatch": "Theca",
+                 "LexCat": "noun",
+                 "Tokens": ["theca"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "5",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "(steroid-",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "(",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "steroid",
+                 "InputMatch": "steroid",
+                 "LexCat": "noun",
+                 "Tokens": ["steroid"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "6",
+             "PhraseLength": "9",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "producing",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "verb",
+                 "LexMatch": "producing",
+                 "InputMatch": "producing",
+                 "LexCat": "verb",
+                 "Tokens": ["producing"]
+               }],
+             "PhraseStartPos": "15",
+             "PhraseLength": "9",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ")",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ")",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "24",
+             "PhraseLength": "1",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "cell cancer,",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "cell",
+                 "InputMatch": "cell",
+                 "LexCat": "noun",
+                 "Tokens": ["cell"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "cancer",
+                 "InputMatch": "cancer",
+                 "LexCat": "noun",
+                 "Tokens": ["cancer"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ",",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "26",
+             "PhraseLength": "12",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "not",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "adv",
+                 "LexMatch": "not",
+                 "InputMatch": "not",
+                 "LexCat": "adv",
+                 "Tokens": ["not"]
+               }],
+             "PhraseStartPos": "39",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "further",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "adv",
+                 "LexMatch": "further",
+                 "InputMatch": "further",
+                 "LexCat": "adv",
+                 "Tokens": ["further"]
+               }],
+             "PhraseStartPos": "43",
+             "PhraseLength": "7",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-966",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-966",
+                     "CandidateCUI": "C0205108",
+                     "CandidateMatched": "Distal (qualifier value)",
+                     "CandidatePreferred": "Distal (qualifier value)",
+                     "MatchedWords": ["far"],
+                     "SemTypes": ["spco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "1"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "43",
+                         "Length": "7"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "specified",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "verb",
+                 "LexMatch": "specified",
+                 "InputMatch": "specified",
+                 "LexCat": "verb",
+                 "Tokens": ["specified"]
+               }],
+             "PhraseStartPos": "51",
+             "PhraseLength": "9",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C0205369",
+                     "CandidateMatched": "Specific",
+                     "CandidatePreferred": "Specific qualifier value",
+                     "MatchedWords": ["specified"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "51",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

@@ -1,0 +1,207 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Gastric adenocarcinoma and proximal polyposis of the stomach",
+         "UttStartPos": "0",
+         "UttLength": "60",
+         "Phrases": [
+           {
+             "PhraseText": "Gastric adenocarcinoma",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "gastric adenocarcinoma",
+                 "InputMatch": "Gastric adenocarcinoma",
+                 "LexCat": "noun",
+                 "Tokens": ["gastric","adenocarcinoma"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "22",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C0278701",
+                     "CandidateMatched": "Adenocarcinoma of stomach",
+                     "CandidatePreferred": "Gastric Adenocarcinoma",
+                     "MatchedWords": ["gastric","adenocarcinoma"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "22"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "and",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "conj",
+                 "LexMatch": "and",
+                 "InputMatch": "and",
+                 "LexCat": "conj",
+                 "Tokens": ["and"]
+               }],
+             "PhraseStartPos": "23",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "proximal polyposis of the stomach",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "proximal",
+                 "InputMatch": "proximal",
+                 "LexCat": "adj",
+                 "Tokens": ["proximal"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "polyposis",
+                 "InputMatch": "polyposis",
+                 "LexCat": "noun",
+                 "Tokens": ["polyposis"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "of",
+                 "InputMatch": "of",
+                 "LexCat": "prep",
+                 "Tokens": ["of"]
+               },
+               {
+                 "SyntaxType": "det",
+                 "LexMatch": "the",
+                 "InputMatch": "the",
+                 "LexCat": "det",
+                 "Tokens": ["the"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "stomach",
+                 "InputMatch": "stomach",
+                 "LexCat": "noun",
+                 "Tokens": ["stomach"]
+               }],
+             "PhraseStartPos": "27",
+             "PhraseLength": "33",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-760",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-760",
+                     "CandidateCUI": "C0334108",
+                     "CandidateMatched": "Multiple polyps",
+                     "CandidatePreferred": "Multiple polyps",
+                     "MatchedWords": ["polyposis"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "36",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

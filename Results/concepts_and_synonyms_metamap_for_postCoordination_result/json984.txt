@@ -1,0 +1,262 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Cervical malignant peripheral neuroectodermal tumor",
+         "UttStartPos": "0",
+         "UttLength": "51",
+         "Phrases": [
+           {
+             "PhraseText": "Cervical malignant peripheral neuroectodermal tumor",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "cervical",
+                 "InputMatch": "Cervical",
+                 "LexCat": "adj",
+                 "Tokens": ["cervical"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "malignant",
+                 "InputMatch": "malignant",
+                 "LexCat": "adj",
+                 "Tokens": ["malignant"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "peripheral",
+                 "InputMatch": "peripheral",
+                 "LexCat": "adj",
+                 "Tokens": ["peripheral"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "neuroectodermal tumor",
+                 "InputMatch": "neuroectodermal tumor",
+                 "LexCat": "noun",
+                 "Tokens": ["neuroectodermal","tumor"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "51",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-875",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-593",
+                     "CandidateCUI": "C0205064",
+                     "CandidateMatched": "Cervical",
+                     "CandidatePreferred": "Cervical",
+                     "MatchedWords": ["cervical"],
+                     "SemTypes": ["spco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-593",
+                     "CandidateCUI": "C0205282",
+                     "CandidateMatched": "Malignant",
+                     "CandidatePreferred": "Malignant - descriptor",
+                     "MatchedWords": ["malignant"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "9",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-862",
+                     "CandidateCUI": "C0684337",
+                     "CandidateMatched": "Peripheral neuroectodermal tumor",
+                     "CandidatePreferred": "Ewings sarcoma-primitive neuroectodermal tumor (PNET)",
+                     "MatchedWords": ["peripheral","neuroectodermal","tumour"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "19",
+                         "Length": "32"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-843",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-593",
+                     "CandidateCUI": "C0205282",
+                     "CandidateMatched": "Malignant",
+                     "CandidatePreferred": "Malignant - descriptor",
+                     "MatchedWords": ["malignant"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "9",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-862",
+                     "CandidateCUI": "C0684337",
+                     "CandidateMatched": "Peripheral neuroectodermal tumor",
+                     "CandidatePreferred": "Ewings sarcoma-primitive neuroectodermal tumor (PNET)",
+                     "MatchedWords": ["peripheral","neuroectodermal","tumour"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "19",
+                         "Length": "32"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

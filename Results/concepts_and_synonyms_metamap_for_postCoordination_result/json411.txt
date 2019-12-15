@@ -1,0 +1,294 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "AML and myelodysplastic syndromes related to alkylating agent",
+         "UttStartPos": "0",
+         "UttLength": "61",
+         "Phrases": [
+           {
+             "PhraseText": "AML",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "aml",
+                 "InputMatch": "AML",
+                 "LexCat": "noun",
+                 "Tokens": ["aml"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C0023467",
+                     "CandidateMatched": "Acute myelocytic leukemia",
+                     "CandidatePreferred": "Leukemia, Myelocytic, Acute",
+                     "MatchedWords": ["aml"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "3"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "and",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "conj",
+                 "LexMatch": "and",
+                 "InputMatch": "and",
+                 "LexCat": "conj",
+                 "Tokens": ["and"]
+               }],
+             "PhraseStartPos": "4",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "myelodysplastic syndromes",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "myelodysplastic syndromes",
+                 "InputMatch": "myelodysplastic syndromes",
+                 "LexCat": "noun",
+                 "Tokens": ["myelodysplastic","syndromes"]
+               }],
+             "PhraseStartPos": "8",
+             "PhraseLength": "25",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C3463824",
+                     "CandidateMatched": "Myelodysplastic syndrome, NOS",
+                     "CandidatePreferred": "MYELODYSPLASTIC SYNDROME",
+                     "MatchedWords": ["myelodysplastic","syndromes"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "8",
+                         "Length": "25"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "related to alkylating agent",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "verb",
+                 "LexMatch": "related",
+                 "InputMatch": "related",
+                 "LexCat": "verb",
+                 "Tokens": ["related"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "to",
+                 "InputMatch": "to",
+                 "LexCat": "prep",
+                 "Tokens": ["to"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "alkylating agent",
+                 "InputMatch": "alkylating agent",
+                 "LexCat": "noun",
+                 "Tokens": ["alkylating","agent"]
+               }],
+             "PhraseStartPos": "34",
+             "PhraseLength": "27",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-783",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-770",
+                     "CandidateCUI": "C0439849",
+                     "CandidateMatched": "Relationships",
+                     "CandidatePreferred": "Relationships",
+                     "MatchedWords": ["related"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "34",
+                         "Length": "7"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-833",
+                     "CandidateCUI": "C4521977",
+                     "CandidateMatched": "Alkylating agent (disposition)",
+                     "CandidatePreferred": "Alkylating agent (disposition)",
+                     "MatchedWords": ["alkylating","agent"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "45",
+                         "Length": "16"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-770",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-770",
+                     "CandidateCUI": "C0439849",
+                     "CandidateMatched": "Relationships",
+                     "CandidatePreferred": "Relationships",
+                     "MatchedWords": ["related"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "34",
+                         "Length": "7"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

@@ -1,0 +1,161 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Acute myeloid leukemia with NPM1 somatic mutations",
+         "UttStartPos": "0",
+         "UttLength": "50",
+         "Phrases": [
+           {
+             "PhraseText": "Acute myeloid leukemia with NPM1 somatic mutations",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "acute myeloid leukemia",
+                 "InputMatch": "Acute myeloid leukemia",
+                 "LexCat": "noun",
+                 "Tokens": ["acute","myeloid","leukemia"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "npm1",
+                 "InputMatch": "NPM1",
+                 "LexCat": "noun",
+                 "Tokens": ["npm1"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "somatic mutations",
+                 "InputMatch": "somatic mutations",
+                 "LexCat": "noun",
+                 "Tokens": ["somatic","mutations"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "50",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-991",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-991",
+                     "CandidateCUI": "C4706386",
+                     "CandidateMatched": "Acute myeloid leukemia with NPM1 somatic mutation",
+                     "CandidatePreferred": "Acute myeloid leukemia with NPM1 somatic mutation",
+                     "MatchedWords": ["acute","myeloid","leukemia","with","npm1","somatic","mutation"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "4",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "5",
+                         "ConcMatchEnd": "5",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "6",
+                         "ConcMatchEnd": "7",
+                         "LexVariation": "1"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "50"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

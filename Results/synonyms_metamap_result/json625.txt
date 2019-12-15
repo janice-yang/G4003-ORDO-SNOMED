@@ -1,0 +1,217 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Tumor susceptibility linked to germline BAP1 mutations",
+         "UttStartPos": "0",
+         "UttLength": "54",
+         "Phrases": [
+           {
+             "PhraseText": "Tumor susceptibility",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "tumor",
+                 "InputMatch": "Tumor",
+                 "LexCat": "noun",
+                 "Tokens": ["tumor"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "susceptibility",
+                 "InputMatch": "susceptibility",
+                 "LexCat": "noun",
+                 "Tokens": ["susceptibility"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "20",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-888",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-694",
+                     "CandidateCUI": "C0027651",
+                     "CandidateMatched": "Neoplasms",
+                     "CandidatePreferred": "Neoplasms",
+                     "MatchedWords": ["tumour"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-861",
+                     "CandidateCUI": "C1264642",
+                     "CandidateMatched": "Susceptibility (property) (qualifier value)",
+                     "CandidatePreferred": "Susceptibility (property) (qualifier value)",
+                     "MatchedWords": ["susceptibility"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "6",
+                         "Length": "14"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "linked to germline BAP1 mutations",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "verb",
+                 "LexMatch": "linked",
+                 "InputMatch": "linked",
+                 "LexCat": "verb",
+                 "Tokens": ["linked"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "to",
+                 "InputMatch": "to",
+                 "LexCat": "prep",
+                 "Tokens": ["to"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "germline",
+                 "InputMatch": "germline",
+                 "LexCat": "noun",
+                 "Tokens": ["germline"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "InputMatch": "BAP1",
+                 "LexCat": "noun",
+                 "Tokens": ["bap1"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "mutations",
+                 "InputMatch": "mutations",
+                 "LexCat": "noun",
+                 "Tokens": ["mutations"]
+               }],
+             "PhraseStartPos": "21",
+             "PhraseLength": "33",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-760",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-760",
+                     "CandidateCUI": "C0026882",
+                     "CandidateMatched": "Genetic mutation",
+                     "CandidatePreferred": "Mutation",
+                     "MatchedWords": ["mutations"],
+                     "SemTypes": ["genf"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "45",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

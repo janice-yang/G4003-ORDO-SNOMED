@@ -1,0 +1,332 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Short stature-pituitary and cerebellar defects-small sella turcica syndrome",
+         "UttStartPos": "0",
+         "UttLength": "75",
+         "Phrases": [
+           {
+             "PhraseText": "Short stature-pituitary",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "short stature",
+                 "InputMatch": "Short stature",
+                 "LexCat": "noun",
+                 "Tokens": ["short","stature"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "pituitary",
+                 "InputMatch": "pituitary",
+                 "LexCat": "noun",
+                 "Tokens": ["pituitary"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "23",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-901",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-734",
+                     "CandidateCUI": "C0349588",
+                     "CandidateMatched": "Short stature",
+                     "CandidatePreferred": "Short stature",
+                     "MatchedWords": ["short","stature"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-827",
+                     "CandidateCUI": "C0032002",
+                     "CandidateMatched": "Pituitary disease",
+                     "CandidatePreferred": "Pituitary Diseases",
+                     "MatchedWords": ["pituitary"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "14",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "and",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "conj",
+                 "LexMatch": "and",
+                 "InputMatch": "and",
+                 "LexCat": "conj",
+                 "Tokens": ["and"]
+               }],
+             "PhraseStartPos": "24",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "cerebellar defects-small sella turcica syndrome",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "cerebellar",
+                 "InputMatch": "cerebellar",
+                 "LexCat": "adj",
+                 "Tokens": ["cerebellar"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "defects",
+                 "InputMatch": "defects",
+                 "LexCat": "noun",
+                 "Tokens": ["defects"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "small",
+                 "InputMatch": "small",
+                 "LexCat": "adj",
+                 "Tokens": ["small"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "sella turcica",
+                 "InputMatch": "sella turcica",
+                 "LexCat": "noun",
+                 "Tokens": ["sella","turcica"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "syndrome",
+                 "InputMatch": "syndrome",
+                 "LexCat": "noun",
+                 "Tokens": ["syndrome"]
+               }],
+             "PhraseStartPos": "28",
+             "PhraseLength": "47",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-832",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-895",
+                     "CandidateCUI": "C0007760",
+                     "CandidateMatched": "Cerebellar disease",
+                     "CandidatePreferred": "Cerebellar Diseases",
+                     "MatchedWords": ["cerebellar","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "28",
+                         "Length": "10"
+                       },
+                       {
+                         "StartPos": "67",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-599",
+                     "CandidateCUI": "C1457869",
+                     "CandidateMatched": "Defect",
+                     "CandidatePreferred": "Defect",
+                     "MatchedWords": ["defect"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "1"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "39",
+                         "Length": "7"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-632",
+                     "CandidateCUI": "C0700321",
+                     "CandidateMatched": "Small",
+                     "CandidatePreferred": "Small",
+                     "MatchedWords": ["small"],
+                     "SemTypes": ["qnco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "47",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-660",
+                     "CandidateCUI": "C0036609",
+                     "CandidateMatched": "Structure of pituitary fossa",
+                     "CandidatePreferred": "Structure of pituitary fossa",
+                     "MatchedWords": ["sella","turcica"],
+                     "SemTypes": ["bpoc"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "53",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

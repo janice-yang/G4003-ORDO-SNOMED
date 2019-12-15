@@ -1,0 +1,152 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Familial cold urticaria with common variable immunodeficiency",
+         "UttStartPos": "0",
+         "UttLength": "61",
+         "Phrases": [
+           {
+             "PhraseText": "Familial cold urticaria with common variable immunodeficiency",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "familial cold urticaria",
+                 "InputMatch": "Familial cold urticaria",
+                 "LexCat": "noun",
+                 "Tokens": ["familial","cold","urticaria"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "common variable immunodeficiency",
+                 "InputMatch": "common variable immunodeficiency",
+                 "LexCat": "noun",
+                 "Tokens": ["common","variable","immunodeficiency"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "61",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-794",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-814",
+                     "CandidateCUI": "C0343068",
+                     "CandidateMatched": "Familial cold urticaria",
+                     "CandidatePreferred": "Familial cold urticaria",
+                     "MatchedWords": ["familial","cold","urticaria"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "23"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-647",
+                     "CandidateCUI": "C2936664",
+                     "CandidateMatched": "Acquired hypogammaglobulinemia",
+                     "CandidatePreferred": "Acquired Hypogammaglobulinemia",
+                     "MatchedWords": ["common","variable","immunodeficiency"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "29",
+                         "Length": "32"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

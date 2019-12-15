@@ -1,0 +1,263 @@
+Hypotrichosis-lymphedema-telangiectasia-renal defect syndrome	C4317151
+Hyperinsulinism due to HNF4A deficiency	C4274078
+Congenital Epstein-Barr virus infection	C4274357
+Autosomal recessive limb-girdle muscular dystrophy type 2Y	C4511482
+Posterior cortical atrophy	C4275079
+Erythroderma desquamativum	C0343047
+Neuropathy with hearing impairment	C4509933
+Central nervous system calcification-deafness-tubular acidosis-anemia syndrome	C4512024
+Squamous cell carcinoma of the oropharynx	C0280313
+Multicentric osteolysis-nodulosis-arthropathy spectrum	C4274222
+Ulerythema ophryogenesis	C0263428
+Autosomal recessive limb-girdle muscular dystrophy type 2O	C4510742
+Squamous cell carcinoma of the lip	C0280302
+Sex cord-stromal tumor of testis	C3840076
+Hinman syndrome	C1997362
+Thymic neuroendocrine carcinoma	C2210965
+Hyperinsulinism due to glucokinase deficiency	C4274019
+Cyclosporosis	C4274225
+Generalized eruptive keratoacanthoma	C0345985
+Grayson-Wilbrandt corneal dystrophy	C4305579
+Mooren ulcer	C0155072
+Clear cell sarcoma of kidney	C0334488
+Spinocerebellar ataxia with axonal neuropathy type 2	C1853761
+Butterfly-shaped pigment dystrophy	C4511237
+Pilomatrix carcinoma	C0585475
+Systemic Epstein-Barr virus-positive T-cell lymphoproliferative disease of childhood	C2699747
+RELA fusion-positive ependymoma	C4289581
+Hughes-Stovin syndrome	C4303478
+Estrogen resistance syndrome	C4510972
+Folinic acid-responsive seizures	C4273952
+Non-amyloid fibrillary glomerulopathy	C4273674
+Hereditary late-onset Parkinson disease	C4274355
+Familial primary localized cutaneous amyloidosis	C0268398
+Cavitary myiasis	C4707154
+Combined immunodeficiency due to CRAC channel dysfunction	C4303571
+Fatal infantile lactic acidosis with methylmalonic aciduria	C4275183
+Short stature due to primary acid-labile subunit deficiency	C4303612
+Acetazolamide-responsive myotonia	C4275008
+Autosomal recessive limb-girdle muscular dystrophy type 2R	C4518001
+Terrien marginal degeneration	C0271283
+Erythrokeratoderma ''en cocardes''	C0221011
+Familial  hyperprolactinemia	C4706551
+Multifocal pattern dystrophy simulating fundus flavimaculatus	C4509881
+Intermittent hydrarthrosis	C0149910
+Dissecting cellulitis of the scalp	C0263506
+Variably protease-sensitive prionopathy	C4303527
+Alymphoid cystic thymic dysgenesis	C1866426
+Verrucous hemangioma	C0334540
+Retinal arterial tortuosity	C0423401
+Infectious anterior uveitis	C0154911
+Ravine syndrome	C4275006
+Familial hypoaldosteronism	C4275180
+Epstein-Barr virus-associated gastric carcinoma	C4274414
+Autism spectrum disorder-epilepsy-arthrogryposis syndrome	C4518080
+NK-cell enteropathy	C4509932
+Elastofibroma dorsi	C0334460
+Laryngeal neuroendocrine tumor	C1334374
+Inherited Creutzfeldt-Jakob disease	C4275003
+Autosomal recessive limb-girdle muscular dystrophy type 2T	C4518000
+Graham Little-Piccardi-Lassueur syndrome	C4273658
+Biliary cystadenocarcinoma	C0334286
+Hyaline fibromatosis syndrome	C2745948
+Familial hyperaldosteronism type III	C3838758
+Young-onset Parkinson disease	C4275179
+Moyamoya disease with early-onset achalasia	C4305378
+X-linked sideroblastic anemia	C4551511
+Hemoglobin M disease	C0272087
+Staphylococcal scarlet fever	C3714602
+Non-seminomatous germ cell tumor of testis	C2057625
+Infantile apnea	C0745261
+Staphylococcal necrotizing pneumonia	C4706659
+Acute myeloid leukemia with CEBPA somatic mutations	C4707178
+Laryngotracheal angioma	C3839574
+Variant ABeta2M amyloidosis	C4302669
+Chapare hemorrhagic fever	C4274434
+Radiation myelitis	C4706614
+Primary peritoneal serous/papillary carcinoma	C1368918
+Corticosteroid-sensitive aseptic abscess syndrome	C4303863
+Familial short QT syndrome	C3697638
+Indeterminate cell histiocytosis	C2825741
+Transient neonatal multiple acyl-CoA dehydrogenase deficiency	C4509950
+Cogan syndrome	C0271270
+Autosomal dominant Charcot-Marie-Tooth disease type 2 due to KIF5A mutation	C4707173
+Lujo hemorrhagic fever	C4274433
+EDICT syndrome	C3280392
+Alacrimia-choreoathetosis-liver dysfunction syndrome	C3808991
+Familial cortical myoclonus	C3539916
+Familial avascular necrosis of femoral head	C4275066
+Severe combined immunodeficiency due to CTPS1 deficiency	C4706524
+Griscelli syndrome	C0398794
+Childhood apraxia of speech	C0750927
+Short chain acyl-CoA dehydrogenase deficiency	C0342783
+Epstein-Barr virus-positive diffuse large B-cell lymphoma of the elderly	C2700007
+Pseudotyphus of California	C4706680
+Adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency	C4518838
+Duane anomaly-myopathy-scoliosis syndrome	C4302550
+Panner disease	C0264088
+SURF1-related Charcot-Marie-Tooth disease type 4	C4225246
+Cushing syndrome due to macronodular adrenal hyperplasia	C2062388
+Rigid spine syndrome	C0410180
+Intravascular large B-cell lymphoma	C0334660
+Adenocarcinoma of the anal canal	C1332259
+Gangliocytoma	C0017075
+Beta-thalassemia-X-linked thrombocytopenia syndrome	C4273670
+Congenital temporomandibular joint ankylosis	C4706319
+Congenital alpha2-antiplasmin deficiency	C4274304
+Juvenile nasopharyngeal angiofibroma	C1367536
+Hemidystonia-hemiatrophy syndrome	C4510649
+Rosai-Dorfman disease	C0019625
+Hyperinsulinism due to UCP2 deficiency	C4303082
+ATTRV122I amyloidosis	C4275067
+Autosomal recessive limb-girdle muscular dystrophy type 2S	C4517996
+Squamous cell carcinoma of the stomach	C1333789
+Vitamin B12-responsive methylmalonic acidemia	C0342720
+Idiopathic avascular necrosis	C0029421
+Autosomal recessive limb-girdle muscular dystrophy type 2P	C4511963
+Primary Fanconi syndrome	C1857395
+Congenital enterovirus infection	C4274223
+Disseminated peritoneal leiomyomatosis	C0267785
+Vulvovaginal rhabdomyosarcoma	C4707823
+Cystoid macular dystrophy	C0024440
+Limbic encephalitis with LGI1 antibodies	C4706583
+Febrile infection-related epilepsy syndrome	C4049262
+Undetermined colitis	C0341332
+FADD-related immunodeficiency	C4509831
+Short stature due to GHSR deficiency	C4707848
+Squamous cell carcinoma of the larynx	C0280324
+Severe combined immunodeficiency due to DNA-PKcs deficiency	C4274221
+Squamous cell carcinoma of the oral cavity	C0585362
+CD4+/CD56+ hematodermic neoplasm	C1301363
+MEGDEL syndrome	C4040739
+Autosomal recessive limb-girdle muscular dystrophy type 2Q	C4511964
+Adult-onset non-insulinoma persistent hyperinsulinemic hypoglycemia	C4274082
+Carcinosarcoma of the corpus uteri	C1704376
+Mixed phenotype acute leukemia	C2826025
+Erythema multiforme major	C0038325
+Malignant teratoma of ovary	C0346182
+Severe early-onset axonal neuropathy due to MFN2 deficiency	C4707897
+Limbic encephalitis with caspr2 antibodies	C4706582
+Pulmonary nodular lymphoid hyperplasia	C1334969
+Mycophenolate mofetil embryopathy	C4509879
+Autosomal recessive limb-girdle muscular dystrophy type 2N	C4511966
+Hyperinsulinism due to HNF1A deficiency	C4303475
+Torsade-de-pointes syndrome with short coupling interval	C3150851
+Primary Sjogren syndrome	C0151449
+Progressive symmetric erythrokeratodermia	C0265961
+Adenoid cystic carcinoma of the cervix uteri	C1332911
+Resistance to thyrotropin-releasing hormone syndrome	C4511136
+Congenital tufting enteropathy	C4275062
+Bacterial myositis	C0263979
+Autosomal dominant dopa-responsive dystonia	C1851920
+Cernunnos-XLF deficiency	C4303792
+Thinking seizures	C4706523
+Postinfectious vasculitis	C4510302
+Congenital abducens nerve palsy	C1302994
+Gonadoblastoma	C0206661
+Ovarian fibrothecoma	C4707356
+ALK-positive large B-cell lymphoma	C1333294
+Bronchial neuroendocrine tumor	C1334452
+C1 inhibitor deficiency	C0019243
+Roch-Leri mesosomatous lipomatosis	C4274284
+Orbital leiomyoma	C4305000
+Cirrhotic cardiomyopathy	C4511053
+DITRA	C0343055
+Autosomal dominant hyperinsulinism due to SUR1 deficiency	C4274080
+Congenital herpes simplex virus infection	C0276225
+Primary cutaneous gamma/delta-positive T-cell lymphoma	C4518186
+Hemiparkinsonism-hemiatrophy syndrome	C4545231
+Squamous cell carcinoma of the colon	C1333100
+Enteric anendocrinosis	C1835888
+Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency	C4049241
+Autosomal recessive limb-girdle muscular dystrophy type 2J	C4510741
+Familial hyperaldosteronism type II	C3839212
+Autosomal recessive limb-girdle muscular dystrophy type 2B	C4273680
+Ameloblastic carcinoma	C1314678
+Blue cone monochromatism	C0339537
+Finnish upper limb-onset distal myopathy	C4706554
+Hemorrhagic fever-renal syndrome	C0019101
+Non-epidermolytic palmoplantar keratoderma	C4274840
+Lipodystrophy-intellectual disability-deafness syndrome	C4302920
+Amaurosis-hypertrichosis syndrome	C4303739
+Chilblain lupus	C4551515
+Spinocerebellar ataxia-dysmorphism syndrome	C0796166
+Beta-mannosidosis	C4048196
+Interstitial cystitis	C0600040
+Autosomal recessive limb-girdle muscular dystrophy type 2G	C4304020
+Citrullinemia type I	C0175683
+Primary mediastinal large B-cell lymphoma	C1292754
+HSD10 disease	C3266731
+Autosomal recessive limb-girdle muscular dystrophy type 2E	C4305132
+Pseudohypoaldosteronism type 1	C0268436
+Canavan disease	C0206307
+PFAPA syndrome	C4082167
+Peroxisomal acyl-CoA oxidase deficiency	C1849678
+X-linked hypophosphatemia	C3536984
+Autosomal dominant limb-girdle muscular dystrophy type 1A	C4304304
+Properdin deficiency	C0398762
+Loeffler endocarditis	C0206143
+T-B+ severe combined immunodeficiency due to gamma chain deficiency	C4707334
+Kennedy disease	C1839259
+Neuroepithelioma	C0206663
+Multiple acyl-CoA dehydrogenase deficiency	C0268596
+Severe combined immunodeficiency due to DCLRE1C deficiency	C1865371
+Autosomal recessive limb-girdle muscular dystrophy type 2I	C4273679
+Autoimmune polyendocrinopathy type 1	C0085859
+Virus-associated trichodysplasia spinulosa	C4509946
+Hereditary chronic pancreatitis	C0238339
+Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease	C4707402
+Autosomal dominant limb-girdle muscular dystrophy type 1F	C4304300
+Multiple symmetric lipomatosis	C0023804
+Autosomal dominant limb-girdle muscular dystrophy type 1B	C4273681
+Stargardt disease	C0271093
+Sebocystomatosis	C0259771
+Aland Islands eye disease	C4510939
+Prolidase deficiency	C0268532
+Glycogen storage disease due to hepatic glycogen synthase deficiency	C4510753
+DEND syndrome	C4303593
+Autosomal recessive limb-girdle muscular dystrophy type 2L	C4511965
+Angiostrongyliasis	C4316792
+Pituitary resistance to thyroid hormone	C0342198
+Strongyloidiasis	C0038463
+Congenital pulmonary lymphangiectasia	C1849554
+Adamantinoma	C0002448
+Mucopolysaccharidosis type 2	C0026705
+Autosomal dominant limb-girdle muscular dystrophy type 1C	C4304303
+Familial pancreatic carcinoma	C4255450
+Autosomal dominant limb-girdle muscular dystrophy type 1E	C4304301
+Polyneuropathy-hearing loss-ataxia-retinitis pigmentosa-cataract syndrome	C4509920
+Triose phosphate-isomerase deficiency	C0398562
+Pleural mesothelioma	C0812413
+Congenital intrinsic factor deficiency	C0340957
+Generalized resistance to thyroid hormone	C2940786
+Epilepsy-telangiectasia syndrome	C4518554
+Microscopic polyangiitis	C2347126
+Leukocyte adhesion deficiency	C0272187
+Acute inflammatory demyelinating polyradiculoneuropathy	C4551910
+Methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency	C4707328
+Carney complex-trismus-pseudocamptodactyly syndrome	C4553889
+Autosomal dominant limb-girdle muscular dystrophy type 1G	C4304299
+TMEM70-related mitochondrial encephalo-cardio-myopathy	C4273660
+Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency	C1969443
+Galactokinase deficiency	C0268155
+Wagner disease	C1840452
+Autosomal recessive limb-girdle muscular dystrophy type 2K	C4304019
+Aromatase deficiency	C1960539
+Autosomal recessive limb-girdle muscular dystrophy type 2M	C4511967
+Spastic paraplegia-neuropathy-poikiloderma syndrome	C4706448
+Severe early-childhood-onset retinal dystrophy	C4274354
+Hepatoerythropoietic porphyria	C0162569
+Spinocerebellar ataxia with epilepsy	C1843852
+3-hydroxy-3-methylglutaryl-CoA synthase deficiency	C4510940
+Ataxia-oculomotor apraxia type 1	C4275170
+Combined immunodeficiency due to partial RAG1 deficiency	C4510944
+Benign schwannoma	C0027809
+Paramyotonia congenita of Von Eulenburg	C0221055
+Spastic paraplegia type 2	C0751604
+Autosomal recessive limb-girdle muscular dystrophy type 2F	C4273682
+Familial melanoma	C0151779
+Alveolar echinococcosis	C0152069
+Charcot-Marie-Tooth disease type 1E	C2931686
+Hereditary diffuse gastric cancer	C1708349
+Steinert myotonic dystrophy	C0027126
+Autosomal recessive limb-girdle muscular dystrophy type 2D	C4275182

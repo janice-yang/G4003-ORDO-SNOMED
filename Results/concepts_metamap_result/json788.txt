@@ -1,0 +1,239 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Idiopathic malabsorption due to bile acid synthesis defects",
+         "UttStartPos": "0",
+         "UttLength": "59",
+         "Phrases": [
+           {
+             "PhraseText": "Idiopathic malabsorption due to bile acid synthesis defects",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "idiopathic",
+                 "InputMatch": "Idiopathic",
+                 "LexCat": "adj",
+                 "Tokens": ["idiopathic"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "malabsorption",
+                 "InputMatch": "malabsorption",
+                 "LexCat": "noun",
+                 "Tokens": ["malabsorption"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "due to",
+                 "InputMatch": "due to",
+                 "LexCat": "prep",
+                 "Tokens": ["due","to"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "bile acid",
+                 "InputMatch": "bile acid",
+                 "LexCat": "noun",
+                 "Tokens": ["bile","acid"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "synthesis",
+                 "InputMatch": "synthesis",
+                 "LexCat": "noun",
+                 "Tokens": ["synthesis"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "defects",
+                 "InputMatch": "defects",
+                 "LexCat": "noun",
+                 "Tokens": ["defects"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "59",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-836",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-578",
+                     "CandidateCUI": "C0332240",
+                     "CandidateMatched": "Unknown (origin) (qualifier value)",
+                     "CandidatePreferred": "Unknown (origin) (qualifier value)",
+                     "MatchedWords": ["idiopathic"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-744",
+                     "CandidateCUI": "C0024523",
+                     "CandidateMatched": "Malabsorption syndrome NOS",
+                     "CandidatePreferred": "Malabsorption Syndrome",
+                     "MatchedWords": ["malabsorption"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "11",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-604",
+                     "CandidateCUI": "C0678226",
+                     "CandidateMatched": "Due to",
+                     "CandidatePreferred": "Due to",
+                     "MatchedWords": ["due","to"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "25",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-631",
+                     "CandidateCUI": "C0400973",
+                     "CandidateMatched": "Synthetic defect of bile acids",
+                     "CandidatePreferred": "Synthetic defect of bile acids",
+                     "MatchedWords": ["bile","acid","synthetic","defect"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "3"
+                       },
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "8",
+                         "ConcMatchStart": "4",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "1"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "32",
+                         "Length": "27"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

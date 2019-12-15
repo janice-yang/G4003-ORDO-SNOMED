@@ -1,0 +1,187 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Epstein-Barr virus-positive diffuse large B-cell lymphoma of the elderly",
+         "UttStartPos": "0",
+         "UttLength": "72",
+         "Phrases": [
+           {
+             "PhraseText": "Epstein-Barr virus-positive diffuse large B-cell lymphoma of the elderly",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "epstein-barr virus",
+                 "InputMatch": "Epstein - Barr virus",
+                 "LexCat": "noun",
+                 "Tokens": ["epstein","barr","virus"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "positive",
+                 "InputMatch": "positive",
+                 "LexCat": "noun",
+                 "Tokens": ["positive"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "diffuse large b-cell lymphoma",
+                 "InputMatch": "diffuse large B - cell lymphoma",
+                 "LexCat": "noun",
+                 "Tokens": ["diffuse","large","b","cell","lymphoma"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "of",
+                 "InputMatch": "of",
+                 "LexCat": "prep",
+                 "Tokens": ["of"]
+               },
+               {
+                 "SyntaxType": "det",
+                 "LexMatch": "the",
+                 "InputMatch": "the",
+                 "LexCat": "det",
+                 "Tokens": ["the"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "elderly",
+                 "InputMatch": "elderly",
+                 "LexCat": "adj",
+                 "Tokens": ["elderly"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "72",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C2700007",
+                     "CandidateMatched": "Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly",
+                     "CandidatePreferred": "Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly",
+                     "MatchedWords": ["epstein","barr","virus","positive","diffuse","large","b","cell","lymphoma","of","the","elderly"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "4",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "9",
+                         "ConcMatchStart": "5",
+                         "ConcMatchEnd": "9",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "10",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "10",
+                         "ConcMatchEnd": "10",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "11",
+                         "ConcMatchEnd": "11",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "12",
+                         "TextMatchEnd": "12",
+                         "ConcMatchStart": "12",
+                         "ConcMatchEnd": "12",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "72"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

@@ -1,0 +1,216 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [
+       {
+         "NegType": "nega",
+         "NegTrigger": "non",
+         "NegTriggerPIs": [
+           {
+             "StartPos": "20",
+             "Length": "3"
+           }],
+         "NegConcepts": [
+           {
+             "NegConcCUI": "C0029124",
+             "NegConcMatched": "Optic atrophy NOS"
+           }],
+         "NegConcPIs": [
+           {
+             "StartPos": "34",
+             "Length": "13"
+           }]
+       },
+       {
+         "NegType": "nega",
+         "NegTrigger": "non",
+         "NegTriggerPIs": [
+           {
+             "StartPos": "20",
+             "Length": "3"
+           }],
+         "NegConcepts": [
+           {
+             "NegConcCUI": "C0039082",
+             "NegConcMatched": "Syndrome"
+           }],
+         "NegConcPIs": [
+           {
+             "StartPos": "24",
+             "Length": "9"
+           }]
+       }],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Autosomal recessive non-syndromic optic atrophy",
+         "UttStartPos": "0",
+         "UttLength": "47",
+         "Phrases": [
+           {
+             "PhraseText": "Autosomal recessive non-syndromic optic atrophy",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "autosomal recessive",
+                 "InputMatch": "Autosomal recessive",
+                 "LexCat": "noun",
+                 "Tokens": ["autosomal","recessive"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "non-syndromic",
+                 "InputMatch": "non - syndromic",
+                 "LexCat": "adj",
+                 "Tokens": ["non","syndromic"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "optic atrophy",
+                 "InputMatch": "optic atrophy",
+                 "LexCat": "noun",
+                 "Tokens": ["optic","atrophy"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "47",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-762",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-660",
+                     "CandidateCUI": "C0441748",
+                     "CandidateMatched": "Autosomal recessive inheritance",
+                     "CandidatePreferred": "Autosomal recessive inheritance",
+                     "MatchedWords": ["autosomal","recessive"],
+                     "SemTypes": ["genf"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "19"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-561",
+                     "CandidateCUI": "C0039082",
+                     "CandidateMatched": "Syndrome",
+                     "CandidatePreferred": "Syndrome",
+                     "MatchedWords": ["syndromes"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "3"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "24",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "1"
+                   },
+                   {
+                     "CandidateScore": "-827",
+                     "CandidateCUI": "C0029124",
+                     "CandidateMatched": "Optic atrophy NOS",
+                     "CandidatePreferred": "Optic Atrophy",
+                     "MatchedWords": ["optic","atrophy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "34",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "1"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

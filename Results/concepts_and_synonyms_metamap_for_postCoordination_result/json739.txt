@@ -1,0 +1,476 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Global developmental delay-visual anomalies-progressive cerebellar atrophy-truncal hypotonia syndrome",
+         "UttStartPos": "0",
+         "UttLength": "101",
+         "Phrases": [
+           {
+             "PhraseText": "Global developmental delay-visual anomalies-progressive cerebellar atrophy-truncal hypotonia syndrome",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "global developmental delay",
+                 "InputMatch": "Global developmental delay",
+                 "LexCat": "noun",
+                 "Tokens": ["global","developmental","delay"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "visual",
+                 "InputMatch": "visual",
+                 "LexCat": "adj",
+                 "Tokens": ["visual"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "anomalies",
+                 "InputMatch": "anomalies",
+                 "LexCat": "noun",
+                 "Tokens": ["anomalies"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "progressive",
+                 "InputMatch": "progressive",
+                 "LexCat": "adj",
+                 "Tokens": ["progressive"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "cerebellar",
+                 "InputMatch": "cerebellar",
+                 "LexCat": "adj",
+                 "Tokens": ["cerebellar"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "atrophy",
+                 "InputMatch": "atrophy",
+                 "LexCat": "noun",
+                 "Tokens": ["atrophy"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "truncal",
+                 "InputMatch": "truncal",
+                 "LexCat": "adj",
+                 "Tokens": ["truncal"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "hypotonia",
+                 "InputMatch": "hypotonia",
+                 "LexCat": "noun",
+                 "Tokens": ["hypotonia"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "syndrome",
+                 "InputMatch": "syndrome",
+                 "LexCat": "noun",
+                 "Tokens": ["syndrome"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "101",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-700",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-609",
+                     "CandidateCUI": "C0557874",
+                     "CandidateMatched": "Global developmental delay",
+                     "CandidatePreferred": "Global developmental delay",
+                     "MatchedWords": ["global","developmental","delay"],
+                     "SemTypes": ["mobd"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "26"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-571",
+                     "CandidateCUI": "C0234621",
+                     "CandidateMatched": "Visual",
+                     "CandidatePreferred": "Visual",
+                     "MatchedWords": ["visual"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "27",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-737",
+                     "CandidateCUI": "C1302790",
+                     "CandidateMatched": "Congenital malformation syndrome",
+                     "CandidatePreferred": "Congenital malformation syndrome",
+                     "MatchedWords": ["anomaly","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "1"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "34",
+                         "Length": "9"
+                       },
+                       {
+                         "StartPos": "93",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-571",
+                     "CandidateCUI": "C0007765",
+                     "CandidateMatched": "Cerebellum",
+                     "CandidatePreferred": "Cerebellum",
+                     "MatchedWords": ["cerebellar"],
+                     "SemTypes": ["bpoc"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "56",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-500",
+                     "CandidateCUI": "C0225442",
+                     "CandidateMatched": "Trunk of elephant",
+                     "CandidatePreferred": "Trunk of elephant",
+                     "MatchedWords": ["trunk"],
+                     "SemTypes": ["bpoc"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "9",
+                         "TextMatchEnd": "9",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "3"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "75",
+                         "Length": "7"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-571",
+                     "CandidateCUI": "C0026827",
+                     "CandidateMatched": "Muscle hypotonia",
+                     "CandidatePreferred": "Muscle hypotonia",
+                     "MatchedWords": ["hypotonia"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "10",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "83",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-698",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-609",
+                     "CandidateCUI": "C0557874",
+                     "CandidateMatched": "Global developmental delay",
+                     "CandidatePreferred": "Global developmental delay",
+                     "MatchedWords": ["global","developmental","delay"],
+                     "SemTypes": ["mobd"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "26"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-571",
+                     "CandidateCUI": "C0234621",
+                     "CandidateMatched": "Visual",
+                     "CandidatePreferred": "Visual",
+                     "MatchedWords": ["visual"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "27",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-737",
+                     "CandidateCUI": "C1302790",
+                     "CandidateMatched": "Congenital malformation syndrome",
+                     "CandidatePreferred": "Congenital malformation syndrome",
+                     "MatchedWords": ["anomaly","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "1"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "34",
+                         "Length": "9"
+                       },
+                       {
+                         "StartPos": "93",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-571",
+                     "CandidateCUI": "C0007765",
+                     "CandidateMatched": "Cerebellum",
+                     "CandidatePreferred": "Cerebellum",
+                     "MatchedWords": ["cerebellar"],
+                     "SemTypes": ["bpoc"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "56",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-571",
+                     "CandidateCUI": "C0026827",
+                     "CandidateMatched": "Muscle hypotonia",
+                     "CandidatePreferred": "Muscle hypotonia",
+                     "MatchedWords": ["hypotonia"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "10",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "83",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

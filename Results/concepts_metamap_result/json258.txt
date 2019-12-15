@@ -1,0 +1,184 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Limb-girdle muscular dystrophy due to POMK deficiency",
+         "UttStartPos": "0",
+         "UttLength": "53",
+         "Phrases": [
+           {
+             "PhraseText": "Limb-girdle muscular dystrophy due to POMK deficiency",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "limb-girdle muscular dystrophy",
+                 "InputMatch": "Limb - girdle muscular dystrophy",
+                 "LexCat": "noun",
+                 "Tokens": ["limb","girdle","muscular","dystrophy"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "due to",
+                 "InputMatch": "due to",
+                 "LexCat": "prep",
+                 "Tokens": ["due","to"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "InputMatch": "POMK",
+                 "LexCat": "noun",
+                 "Tokens": ["pomk"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "deficiency",
+                 "InputMatch": "deficiency",
+                 "LexCat": "noun",
+                 "Tokens": ["deficiency"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "53",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-805",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-833",
+                     "CandidateCUI": "C0686353",
+                     "CandidateMatched": "Limb-girdle muscular dystrophy",
+                     "CandidatePreferred": "Muscular Dystrophies, Limb-Girdle",
+                     "MatchedWords": ["limb","girdle","muscular","dystrophy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "30"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-604",
+                     "CandidateCUI": "C0678226",
+                     "CandidateMatched": "Due to",
+                     "CandidatePreferred": "Due to",
+                     "MatchedWords": ["due","to"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "31",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-578",
+                     "CandidateCUI": "C0011155",
+                     "CandidateMatched": "Deficiency",
+                     "CandidatePreferred": "Deficiency",
+                     "MatchedWords": ["deficiency"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "8",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "43",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

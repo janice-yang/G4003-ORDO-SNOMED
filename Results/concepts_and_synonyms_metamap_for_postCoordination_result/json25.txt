@@ -1,0 +1,158 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Primitive neuroectodermal tumor of the corpus uteri",
+         "UttStartPos": "0",
+         "UttLength": "51",
+         "Phrases": [
+           {
+             "PhraseText": "Primitive neuroectodermal tumor of the corpus uteri",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "primitive neuroectodermal tumor",
+                 "InputMatch": "Primitive neuroectodermal tumor",
+                 "LexCat": "noun",
+                 "Tokens": ["primitive","neuroectodermal","tumor"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "of",
+                 "InputMatch": "of",
+                 "LexCat": "prep",
+                 "Tokens": ["of"]
+               },
+               {
+                 "SyntaxType": "det",
+                 "LexMatch": "the",
+                 "InputMatch": "the",
+                 "LexCat": "det",
+                 "Tokens": ["the"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "corpus uteri",
+                 "InputMatch": "corpus uteri",
+                 "LexCat": "noun",
+                 "Tokens": ["corpus","uteri"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "51",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-910",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-910",
+                     "CandidateCUI": "C4707724",
+                     "CandidateMatched": "Primitive neuroectodermal tumor of corpus uteri",
+                     "CandidatePreferred": "Primitive neuroectodermal tumor of corpus uteri",
+                     "MatchedWords": ["primitive","neuroectodermal","tumour","of","corpus","uteri"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "4",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "5",
+                         "ConcMatchEnd": "6",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "34"
+                       },
+                       {
+                         "StartPos": "39",
+                         "Length": "12"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

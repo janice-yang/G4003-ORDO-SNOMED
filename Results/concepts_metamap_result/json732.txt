@@ -1,0 +1,305 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Childhood-onset progressive contractures-limb-girdle weakness-muscle dystrophy syndrome",
+         "UttStartPos": "0",
+         "UttLength": "87",
+         "Phrases": [
+           {
+             "PhraseText": "Childhood-onset progressive contractures-limb-girdle weakness-muscle dystrophy syndrome",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "childhood",
+                 "InputMatch": "Childhood",
+                 "LexCat": "noun",
+                 "Tokens": ["childhood"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "onset",
+                 "InputMatch": "onset",
+                 "LexCat": "noun",
+                 "Tokens": ["onset"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "progressive",
+                 "InputMatch": "progressive",
+                 "LexCat": "adj",
+                 "Tokens": ["progressive"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "contractures",
+                 "InputMatch": "contractures",
+                 "LexCat": "noun",
+                 "Tokens": ["contractures"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "limb girdle",
+                 "InputMatch": "limb - girdle",
+                 "LexCat": "noun",
+                 "Tokens": ["limb","girdle"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "weakness",
+                 "InputMatch": "weakness",
+                 "LexCat": "noun",
+                 "Tokens": ["weakness"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "muscle",
+                 "InputMatch": "muscle",
+                 "LexCat": "noun",
+                 "Tokens": ["muscle"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "dystrophy",
+                 "InputMatch": "dystrophy",
+                 "LexCat": "noun",
+                 "Tokens": ["dystrophy"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "syndrome",
+                 "InputMatch": "syndrome",
+                 "LexCat": "noun",
+                 "Tokens": ["syndrome"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "87",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-750",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-623",
+                     "CandidateCUI": "C0231335",
+                     "CandidateMatched": "Childhood",
+                     "CandidatePreferred": "Childhood",
+                     "MatchedWords": ["childhood"],
+                     "SemTypes": ["tmco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-623",
+                     "CandidateCUI": "C0332162",
+                     "CandidateMatched": "Onset of (contextual qualifier)",
+                     "CandidatePreferred": "Onset of (contextual qualifier)",
+                     "MatchedWords": ["onset"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "10",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-623",
+                     "CandidateCUI": "C0205329",
+                     "CandidateMatched": "Progressive",
+                     "CandidatePreferred": "Progressive",
+                     "MatchedWords": ["progressive"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "16",
+                         "Length": "11"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-651",
+                     "CandidateCUI": "C0686353",
+                     "CandidateMatched": "Limb-girdle muscular dystrophy",
+                     "CandidatePreferred": "Muscular Dystrophies, Limb-Girdle",
+                     "MatchedWords": ["limb","girdle","muscular","dystrophy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "8",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "3"
+                       },
+                       {
+                         "TextMatchStart": "9",
+                         "TextMatchEnd": "9",
+                         "ConcMatchStart": "4",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "41",
+                         "Length": "11"
+                       },
+                       {
+                         "StartPos": "62",
+                         "Length": "16"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-790",
+                     "CandidateCUI": "C0039082",
+                     "CandidateMatched": "Syndrome",
+                     "CandidatePreferred": "Syndrome",
+                     "MatchedWords": ["syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "10",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "79",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

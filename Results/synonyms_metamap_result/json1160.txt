@@ -1,0 +1,300 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Familial leiomyomatosis cutis et uteri",
+         "UttStartPos": "0",
+         "UttLength": "38",
+         "Phrases": [
+           {
+             "PhraseText": "Familial leiomyomatosis cutis et uteri",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "familial",
+                 "InputMatch": "Familial",
+                 "LexCat": "adj",
+                 "Tokens": ["familial"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "leiomyomatosis",
+                 "InputMatch": "leiomyomatosis",
+                 "LexCat": "noun",
+                 "Tokens": ["leiomyomatosis"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "cutis",
+                 "InputMatch": "cutis",
+                 "LexCat": "noun",
+                 "Tokens": ["cutis"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "et",
+                 "InputMatch": "et",
+                 "LexCat": "adj",
+                 "Tokens": ["et"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "uteri",
+                 "InputMatch": "uteri",
+                 "LexCat": "noun",
+                 "Tokens": ["uteri"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "38",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-757",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-637",
+                     "CandidateCUI": "C0241888",
+                     "CandidateMatched": "Familial",
+                     "CandidatePreferred": "Familial",
+                     "MatchedWords": ["familial"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-637",
+                     "CandidateCUI": "C0206654",
+                     "CandidateMatched": "Leiomyomatosis",
+                     "CandidatePreferred": "Leiomyomatosis",
+                     "MatchedWords": ["leiomyomatosis"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "9",
+                         "Length": "14"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-637",
+                     "CandidateCUI": "C0040028",
+                     "CandidateMatched": "Essential thrombocythemia",
+                     "CandidatePreferred": "Thrombocythemia, Essential",
+                     "MatchedWords": ["et"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "30",
+                         "Length": "2"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-804",
+                     "CandidateCUI": "C0042149",
+                     "CandidateMatched": "Uterus",
+                     "CandidatePreferred": "Uterus",
+                     "MatchedWords": ["uteri"],
+                     "SemTypes": ["bpoc"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "33",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-740",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-637",
+                     "CandidateCUI": "C0206654",
+                     "CandidateMatched": "Leiomyomatosis",
+                     "CandidatePreferred": "Leiomyomatosis",
+                     "MatchedWords": ["leiomyomatosis"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "9",
+                         "Length": "14"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-637",
+                     "CandidateCUI": "C0040028",
+                     "CandidateMatched": "Essential thrombocythemia",
+                     "CandidatePreferred": "Thrombocythemia, Essential",
+                     "MatchedWords": ["et"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "30",
+                         "Length": "2"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-804",
+                     "CandidateCUI": "C0042149",
+                     "CandidateMatched": "Uterus",
+                     "CandidatePreferred": "Uterus",
+                     "MatchedWords": ["uteri"],
+                     "SemTypes": ["bpoc"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "33",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

@@ -1,0 +1,345 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Acute myeloid leukemia with inv3(q21;q26.2) or t(3;3)(q21;q26.2)",
+         "UttStartPos": "0",
+         "UttLength": "64",
+         "Phrases": [
+           {
+             "PhraseText": "Acute myeloid leukemia with inv3",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "acute myeloid leukemia",
+                 "InputMatch": "Acute myeloid leukemia",
+                 "LexCat": "noun",
+                 "Tokens": ["acute","myeloid","leukemia"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "InputMatch": "inv3",
+                 "LexCat": "noun",
+                 "Tokens": ["inv3"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "32",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-862",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-862",
+                     "CandidateCUI": "C0023467",
+                     "CandidateMatched": "Acute myelocytic leukemia",
+                     "CandidatePreferred": "Leukemia, Myelocytic, Acute",
+                     "MatchedWords": ["acute","myeloid","leukaemia"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "22"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "(q21",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "(",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "head",
+                 "InputMatch": "q21",
+                 "LexCat": "noun",
+                 "Tokens": ["q21"]
+               }],
+             "PhraseStartPos": "32",
+             "PhraseLength": "4",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ";q26.2",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ";",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "InputMatch": "q26",
+                 "LexCat": "noun",
+                 "Tokens": ["q26"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ".",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "shapes",
+                 "InputMatch": "2",
+                 "Tokens": ["2"]
+               }],
+             "PhraseStartPos": "36",
+             "PhraseLength": "6",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ")",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ")",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "42",
+             "PhraseLength": "1",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "or",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "conj",
+                 "LexMatch": "or",
+                 "InputMatch": "or",
+                 "LexCat": "conj",
+                 "Tokens": ["or"]
+               }],
+             "PhraseStartPos": "44",
+             "PhraseLength": "2",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "t(3",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "t(3)",
+                 "InputMatch": "t ( 3",
+                 "LexCat": "noun",
+                 "Tokens": ["t","3"]
+               }],
+             "PhraseStartPos": "47",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ";3",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ";",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "shapes",
+                 "InputMatch": "3",
+                 "Tokens": ["3"]
+               }],
+             "PhraseStartPos": "50",
+             "PhraseLength": "2",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C0439086",
+                     "CandidateMatched": "<3 (qualifier value)",
+                     "CandidatePreferred": "<3 (qualifier value)",
+                     "MatchedWords": ["3"],
+                     "SemTypes": ["qnco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "51",
+                         "Length": "1"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": ")",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ")",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "52",
+             "PhraseLength": "1",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "(q21",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "(",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "head",
+                 "InputMatch": "q21",
+                 "LexCat": "noun",
+                 "Tokens": ["q21"]
+               }],
+             "PhraseStartPos": "53",
+             "PhraseLength": "4",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ";q26.2",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ";",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "InputMatch": "q26",
+                 "LexCat": "noun",
+                 "Tokens": ["q26"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ".",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "shapes",
+                 "InputMatch": "2",
+                 "Tokens": ["2"]
+               }],
+             "PhraseStartPos": "57",
+             "PhraseLength": "6",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ")",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ")",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "63",
+             "PhraseLength": "1",
+             "Candidates": [],
+             "Mappings": []
+           }]
+       }]
+   }
+ }
+]}

@@ -1,0 +1,188 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "46,XX ovarian dysgenesis-short stature syndrome",
+         "UttStartPos": "0",
+         "UttLength": "47",
+         "Phrases": [
+           {
+             "PhraseText": "46,",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "shapes",
+                 "InputMatch": "46",
+                 "Tokens": ["46"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ",",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "XX ovarian dysgenesis-short stature syndrome",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "InputMatch": "XX",
+                 "LexCat": "noun",
+                 "Tokens": ["xx"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "ovarian",
+                 "InputMatch": "ovarian",
+                 "LexCat": "adj",
+                 "Tokens": ["ovarian"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "dysgenesis",
+                 "InputMatch": "dysgenesis",
+                 "LexCat": "noun",
+                 "Tokens": ["dysgenesis"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "short stature syndrome",
+                 "InputMatch": "short stature syndrome",
+                 "LexCat": "noun",
+                 "Tokens": ["short","stature","syndrome"]
+               }],
+             "PhraseStartPos": "3",
+             "PhraseLength": "44",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-840",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-660",
+                     "CandidateCUI": "C0342510",
+                     "CandidateMatched": "Ovarian dysgenesis",
+                     "CandidatePreferred": "Ovarian dysgenesis",
+                     "MatchedWords": ["ovarian","dysgenesis"],
+                     "SemTypes": ["cgab"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "6",
+                         "Length": "18"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-861",
+                     "CandidateCUI": "C0018133",
+                     "CandidateMatched": "Graft versus host disease",
+                     "CandidatePreferred": "Graft-vs-Host Disease",
+                     "MatchedWords": ["short","stature","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "25",
+                         "Length": "22"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

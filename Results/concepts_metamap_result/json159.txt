@@ -1,0 +1,355 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Male infertility with azoospermia or oligozoospermia due to single gene mutation",
+         "UttStartPos": "0",
+         "UttLength": "80",
+         "Phrases": [
+           {
+             "PhraseText": "Male infertility with azoospermia",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "male",
+                 "InputMatch": "Male",
+                 "LexCat": "noun",
+                 "Tokens": ["male"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "infertility",
+                 "InputMatch": "infertility",
+                 "LexCat": "noun",
+                 "Tokens": ["infertility"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "azoospermia",
+                 "InputMatch": "azoospermia",
+                 "LexCat": "noun",
+                 "Tokens": ["azoospermia"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "33",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-783",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-833",
+                     "CandidateCUI": "C0021364",
+                     "CandidateMatched": "Male infertility",
+                     "CandidatePreferred": "Male infertility",
+                     "MatchedWords": ["male","infertility"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "16"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-604",
+                     "CandidateCUI": "C0004509",
+                     "CandidateMatched": "Azoospermia",
+                     "CandidatePreferred": "Azoospermia",
+                     "MatchedWords": ["azoospermia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "22",
+                         "Length": "11"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "or",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "conj",
+                 "LexMatch": "or",
+                 "InputMatch": "or",
+                 "LexCat": "conj",
+                 "Tokens": ["or"]
+               }],
+             "PhraseStartPos": "34",
+             "PhraseLength": "2",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "oligozoospermia due to single gene mutation",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "oligozoospermia",
+                 "InputMatch": "oligozoospermia",
+                 "LexCat": "noun",
+                 "Tokens": ["oligozoospermia"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "due to",
+                 "InputMatch": "due to",
+                 "LexCat": "prep",
+                 "Tokens": ["due","to"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "single",
+                 "InputMatch": "single",
+                 "LexCat": "adj",
+                 "Tokens": ["single"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "gene mutation",
+                 "InputMatch": "gene mutation",
+                 "LexCat": "noun",
+                 "Tokens": ["gene","mutation"]
+               }],
+             "PhraseStartPos": "37",
+             "PhraseLength": "43",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-558",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-623",
+                     "CandidateCUI": "C0678226",
+                     "CandidateMatched": "Due to",
+                     "CandidatePreferred": "Due to",
+                     "MatchedWords": ["due","to"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "53",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-586",
+                     "CandidateCUI": "C0205171",
+                     "CandidateMatched": "Singular",
+                     "CandidatePreferred": "Singular",
+                     "MatchedWords": ["single"],
+                     "SemTypes": ["qnco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "60",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-586",
+                     "CandidateCUI": "C0026882",
+                     "CandidateMatched": "Genetic mutation",
+                     "CandidatePreferred": "Mutation",
+                     "MatchedWords": ["mutation"],
+                     "SemTypes": ["genf"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "72",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-555",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-623",
+                     "CandidateCUI": "C0678226",
+                     "CandidateMatched": "Due to",
+                     "CandidatePreferred": "Due to",
+                     "MatchedWords": ["due","to"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "53",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-586",
+                     "CandidateCUI": "C0026882",
+                     "CandidateMatched": "Genetic mutation",
+                     "CandidatePreferred": "Mutation",
+                     "MatchedWords": ["mutation"],
+                     "SemTypes": ["genf"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "72",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

@@ -1,0 +1,362 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Sebaceous nevus-central nervous system malformations-aplasia cutis congenital-limbal dermoid-pigmented nevus syndrome",
+         "UttStartPos": "0",
+         "UttLength": "117",
+         "Phrases": [
+           {
+             "PhraseText": "Sebaceous nevus-central nervous system malformations-aplasia cutis congenital-limbal dermoid-pigmented nevus syndrome",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "sebaceous nevus",
+                 "InputMatch": "Sebaceous nevus",
+                 "LexCat": "noun",
+                 "Tokens": ["sebaceous","nevus"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "central nervous system",
+                 "InputMatch": "central nervous system",
+                 "LexCat": "noun",
+                 "Tokens": ["central","nervous","system"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "malformations",
+                 "InputMatch": "malformations",
+                 "LexCat": "noun",
+                 "Tokens": ["malformations"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "aplasia cutis",
+                 "InputMatch": "aplasia cutis",
+                 "LexCat": "noun",
+                 "Tokens": ["aplasia","cutis"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "congenital",
+                 "InputMatch": "congenital",
+                 "LexCat": "adj",
+                 "Tokens": ["congenital"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "limbal",
+                 "InputMatch": "limbal",
+                 "LexCat": "adj",
+                 "Tokens": ["limbal"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "dermoid",
+                 "InputMatch": "dermoid",
+                 "LexCat": "noun",
+                 "Tokens": ["dermoid"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "pigmented nevus",
+                 "InputMatch": "pigmented nevus",
+                 "LexCat": "noun",
+                 "Tokens": ["pigmented","nevus"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "syndrome",
+                 "InputMatch": "syndrome",
+                 "LexCat": "noun",
+                 "Tokens": ["syndrome"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "117",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-818",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-629",
+                     "CandidateCUI": "C4552097",
+                     "CandidateMatched": "Nevus sebaceus of Jadassohn",
+                     "CandidatePreferred": "Nevus Sebaceus of Jadassohn",
+                     "MatchedWords": ["sebaceous","nevus"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "15"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-651",
+                     "CandidateCUI": "C0151490",
+                     "CandidateMatched": "Congenital anomaly of central nervous system",
+                     "CandidatePreferred": "Congenital anomaly of central nervous system",
+                     "MatchedWords": ["central","nervous","system","malformations"],
+                     "SemTypes": ["cgab"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "4",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "16",
+                         "Length": "36"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-629",
+                     "CandidateCUI": "C0282160",
+                     "CandidateMatched": "Aplasia cutis congenita",
+                     "CandidatePreferred": "Aplasia Cutis Congenita",
+                     "MatchedWords": ["aplasia","cutis"],
+                     "SemTypes": ["cgab"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "8",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "53",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-653",
+                     "CandidateCUI": "C1318558",
+                     "CandidateMatched": "Congenital melanocytic nevus",
+                     "CandidatePreferred": "Congenital melanocytic nevus",
+                     "MatchedWords": ["congenital","pigmented","nevus"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "9",
+                         "TextMatchEnd": "9",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "12",
+                         "TextMatchEnd": "13",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "67",
+                         "Length": "10"
+                       },
+                       {
+                         "StartPos": "93",
+                         "Length": "15"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-619",
+                     "CandidateCUI": "C0443251",
+                     "CandidateMatched": "Limbal",
+                     "CandidatePreferred": "Limbal",
+                     "MatchedWords": ["limbal"],
+                     "SemTypes": ["spco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "10",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "78",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-619",
+                     "CandidateCUI": "C0011649",
+                     "CandidateMatched": "Dermoid cyst, NOS",
+                     "CandidatePreferred": "Dermoid Cyst",
+                     "MatchedWords": ["dermoid"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "85",
+                         "Length": "7"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-786",
+                     "CandidateCUI": "C0039082",
+                     "CandidateMatched": "Syndrome",
+                     "CandidatePreferred": "Syndrome",
+                     "MatchedWords": ["syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "14",
+                         "TextMatchEnd": "14",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "109",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

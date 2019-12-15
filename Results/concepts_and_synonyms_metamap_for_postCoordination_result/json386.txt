@@ -1,0 +1,230 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Cytosolic phospholipase-A2 alpha deficiency associated bleeding disorder",
+         "UttStartPos": "0",
+         "UttLength": "72",
+         "Phrases": [
+           {
+             "PhraseText": "Cytosolic phospholipase-A2 alpha deficiency",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "cytosolic phospholipase a2 alpha",
+                 "InputMatch": "Cytosolic phospholipase - A2 alpha",
+                 "LexCat": "noun",
+                 "Tokens": ["cytosolic","phospholipase","a2","alpha"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "deficiency",
+                 "InputMatch": "deficiency",
+                 "LexCat": "noun",
+                 "Tokens": ["deficiency"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "43",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-760",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-760",
+                     "CandidateCUI": "C0011155",
+                     "CandidateMatched": "Deficiency",
+                     "CandidatePreferred": "Deficiency",
+                     "MatchedWords": ["deficiency"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "33",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "associated",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "verb",
+                 "LexMatch": "associated",
+                 "InputMatch": "associated",
+                 "LexCat": "verb",
+                 "Tokens": ["associated"]
+               }],
+             "PhraseStartPos": "44",
+             "PhraseLength": "10",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C0332281",
+                     "CandidateMatched": "Associated with",
+                     "CandidatePreferred": "Associated with",
+                     "MatchedWords": ["associated"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "44",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "bleeding disorder",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "bleeding",
+                 "InputMatch": "bleeding",
+                 "LexCat": "adj",
+                 "Tokens": ["bleeding"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "disorder",
+                 "InputMatch": "disorder",
+                 "LexCat": "noun",
+                 "Tokens": ["disorder"]
+               }],
+             "PhraseStartPos": "55",
+             "PhraseLength": "17",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C0005779",
+                     "CandidateMatched": "Blood coagulation disorder",
+                     "CandidatePreferred": "Blood Coagulation Disorders",
+                     "MatchedWords": ["bleeding","disorder"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "55",
+                         "Length": "17"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

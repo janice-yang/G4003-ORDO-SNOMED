@@ -1,0 +1,182 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Autosomal dominant Charcot-Marie-Tooth disease type 2 due to KIF5A mutation",
+         "UttStartPos": "0",
+         "UttLength": "75",
+         "Phrases": [
+           {
+             "PhraseText": "Autosomal dominant Charcot-Marie-Tooth disease type 2 due to KIF5A mutation",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "autosomal dominant",
+                 "InputMatch": "Autosomal dominant",
+                 "LexCat": "adj",
+                 "Tokens": ["autosomal","dominant"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "charcot-marie-tooth disease type 2",
+                 "InputMatch": "Charcot - Marie - Tooth disease type 2",
+                 "LexCat": "noun",
+                 "Tokens": ["charcot","marie","tooth","disease","type","2"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "due to",
+                 "InputMatch": "due to",
+                 "LexCat": "prep",
+                 "Tokens": ["due","to"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "kif5a",
+                 "InputMatch": "KIF5A",
+                 "LexCat": "noun",
+                 "Tokens": ["kif5a"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "mutation",
+                 "InputMatch": "mutation",
+                 "LexCat": "noun",
+                 "Tokens": ["mutation"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "75",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C4707173",
+                     "CandidateMatched": "Autosomal dominant Charcot-Marie-Tooth disease type 2 due to KIF5A mutation",
+                     "CandidatePreferred": "Autosomal dominant Charcot-Marie-Tooth disease type 2 due to KIF5A mutation",
+                     "MatchedWords": ["autosomal","dominant","charcot","marie","tooth","disease","type","2","due","to","kif5a","mutation"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "6",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "7",
+                         "ConcMatchEnd": "7",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "8",
+                         "ConcMatchStart": "8",
+                         "ConcMatchEnd": "8",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "9",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "9",
+                         "ConcMatchEnd": "10",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "11",
+                         "ConcMatchEnd": "11",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "12",
+                         "TextMatchEnd": "12",
+                         "ConcMatchStart": "12",
+                         "ConcMatchEnd": "12",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "75"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

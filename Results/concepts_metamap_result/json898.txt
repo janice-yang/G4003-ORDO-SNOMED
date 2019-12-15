@@ -1,0 +1,194 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Isolated lissencephaly type 1 without known genetic defects",
+         "UttStartPos": "0",
+         "UttLength": "59",
+         "Phrases": [
+           {
+             "PhraseText": "Isolated lissencephaly type 1 without known genetic defects",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "isolated",
+                 "InputMatch": "Isolated",
+                 "LexCat": "adj",
+                 "Tokens": ["isolated"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "lissencephaly",
+                 "InputMatch": "lissencephaly",
+                 "LexCat": "noun",
+                 "Tokens": ["lissencephaly"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "type",
+                 "InputMatch": "type",
+                 "LexCat": "noun",
+                 "Tokens": ["type"]
+               },
+               {
+                 "SyntaxType": "shapes",
+                 "InputMatch": "1",
+                 "Tokens": ["1"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "without",
+                 "InputMatch": "without",
+                 "LexCat": "prep",
+                 "Tokens": ["without"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "known",
+                 "InputMatch": "known",
+                 "LexCat": "adj",
+                 "Tokens": ["known"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "genetic defects",
+                 "InputMatch": "genetic defects",
+                 "LexCat": "noun",
+                 "Tokens": ["genetic","defects"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "59",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-995",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-995",
+                     "CandidateCUI": "C4275151",
+                     "CandidateMatched": "Isolated lissencephaly type 1 without known genetic defect",
+                     "CandidatePreferred": "Isolated lissencephaly type 1 without known genetic defect",
+                     "MatchedWords": ["isolated","lissencephaly","type","1","without","known","genetic","defect"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "4",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "5",
+                         "ConcMatchEnd": "5",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "6",
+                         "ConcMatchEnd": "6",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "8",
+                         "ConcMatchStart": "7",
+                         "ConcMatchEnd": "8",
+                         "LexVariation": "1"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "59"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

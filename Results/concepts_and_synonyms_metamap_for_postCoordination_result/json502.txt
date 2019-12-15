@@ -1,0 +1,235 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Early-onset progressive encephalopathy with migrant continuous myoclonus",
+         "UttStartPos": "0",
+         "UttLength": "72",
+         "Phrases": [
+           {
+             "PhraseText": "Early-onset progressive encephalopathy with migrant continuous myoclonus",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "early-onset",
+                 "InputMatch": "Early - onset",
+                 "LexCat": "adj",
+                 "Tokens": ["early","onset"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "progressive",
+                 "InputMatch": "progressive",
+                 "LexCat": "adj",
+                 "Tokens": ["progressive"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "encephalopathy",
+                 "InputMatch": "encephalopathy",
+                 "LexCat": "noun",
+                 "Tokens": ["encephalopathy"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "migrant",
+                 "InputMatch": "migrant",
+                 "LexCat": "adj",
+                 "Tokens": ["migrant"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "continuous",
+                 "InputMatch": "continuous",
+                 "LexCat": "adj",
+                 "Tokens": ["continuous"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "myoclonus",
+                 "InputMatch": "myoclonus",
+                 "LexCat": "noun",
+                 "Tokens": ["myoclonus"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "72",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-717",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-766",
+                     "CandidateCUI": "C0270855",
+                     "CandidateMatched": "Early myoclonic encephalopathy",
+                     "CandidatePreferred": "Early myoclonic encephalopathy",
+                     "MatchedWords": ["early","myoclonic","encephalopathy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "8",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "3"
+                       },
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "5"
+                       },
+                       {
+                         "StartPos": "24",
+                         "Length": "14"
+                       },
+                       {
+                         "StartPos": "63",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-578",
+                     "CandidateCUI": "C0332162",
+                     "CandidateMatched": "Onset of (contextual qualifier)",
+                     "CandidatePreferred": "Onset of (contextual qualifier)",
+                     "MatchedWords": ["onset"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "6",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-578",
+                     "CandidateCUI": "C0205329",
+                     "CandidateMatched": "Progressive",
+                     "CandidatePreferred": "Progressive",
+                     "MatchedWords": ["progressive"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "12",
+                         "Length": "11"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

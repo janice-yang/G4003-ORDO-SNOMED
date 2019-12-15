@@ -1,0 +1,220 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [
+       {
+         "NegType": "nega",
+         "NegTrigger": "non",
+         "NegTriggerPIs": [
+           {
+             "StartPos": "0",
+             "Length": "3"
+           }],
+         "NegConcepts": [
+           {
+             "NegConcCUI": "C0002726",
+             "NegConcMatched": "Amyloidosis"
+           }],
+         "NegConcPIs": [
+           {
+             "StartPos": "4",
+             "Length": "7"
+           }]
+       },
+       {
+         "NegType": "nega",
+         "NegTrigger": "non",
+         "NegTriggerPIs": [
+           {
+             "StartPos": "0",
+             "Length": "3"
+           }],
+         "NegConcepts": [
+           {
+             "NegConcCUI": "C2939462",
+             "NegConcMatched": "Immunoglobulin deposition disease"
+           }],
+         "NegConcPIs": [
+           {
+             "StartPos": "12",
+             "Length": "44"
+           }]
+       }],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Non-amyloid monoclonal immunoglobulin deposition disease",
+         "UttStartPos": "0",
+         "UttLength": "56",
+         "Phrases": [
+           {
+             "PhraseText": "Non-amyloid monoclonal immunoglobulin deposition disease",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "non-amyloid",
+                 "InputMatch": "Non - amyloid",
+                 "LexCat": "adj",
+                 "Tokens": ["non","amyloid"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "monoclonal immunoglobulin deposition disease",
+                 "InputMatch": "monoclonal immunoglobulin deposition disease",
+                 "LexCat": "noun",
+                 "Tokens": ["monoclonal","immunoglobulin","deposition","disease"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "56",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-882",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-882",
+                     "CandidateCUI": "C2939462",
+                     "CandidateMatched": "Immunoglobulin deposition disease",
+                     "CandidatePreferred": "Immunoglobulin deposition disease",
+                     "MatchedWords": ["monoclonal","immunoglobulin","deposition","disease"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "12",
+                         "Length": "44"
+                       }],
+                     "Status": "0",
+                     "Negated": "1"
+                   }]
+               },
+               {
+                 "MappingScore": "-867",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-586",
+                     "CandidateCUI": "C0002726",
+                     "CandidateMatched": "Amyloidosis",
+                     "CandidatePreferred": "Amyloidosis",
+                     "MatchedWords": ["amyloid"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "4",
+                         "Length": "7"
+                       }],
+                     "Status": "0",
+                     "Negated": "1"
+                   },
+                   {
+                     "CandidateScore": "-882",
+                     "CandidateCUI": "C2939462",
+                     "CandidateMatched": "Immunoglobulin deposition disease",
+                     "CandidatePreferred": "Immunoglobulin deposition disease",
+                     "MatchedWords": ["monoclonal","immunoglobulin","deposition","disease"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "12",
+                         "Length": "44"
+                       }],
+                     "Status": "0",
+                     "Negated": "1"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

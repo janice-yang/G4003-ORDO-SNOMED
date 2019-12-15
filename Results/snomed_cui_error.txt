@@ -1,0 +1,8 @@
+Ameloblastic carcinoma	C1314678	773624006
+Hereditary diffuse gastric cancer	C1708349	716859000
+Loeffler endocarditis	C0206143	NaN
+Familial cerebral amyloid angiopathy	C0268393	NaN
+Familial Alzheimer disease	C0276496	NaN
+WDM	C0221054	NaN
+snomed_inactive = [801000000000,107691000000000,26261000000000,91521000000000]
+

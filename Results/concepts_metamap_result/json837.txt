@@ -1,0 +1,307 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Autosomal recessive primary immunodeficiency with defective spontaneous natural killer cell cytotoxicity",
+         "UttStartPos": "0",
+         "UttLength": "104",
+         "Phrases": [
+           {
+             "PhraseText": "Autosomal recessive primary immunodeficiency with defective spontaneous natural killer cell cytotoxicity",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "autosomal recessive",
+                 "InputMatch": "Autosomal recessive",
+                 "LexCat": "noun",
+                 "Tokens": ["autosomal","recessive"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "primary immunodeficiency",
+                 "InputMatch": "primary immunodeficiency",
+                 "LexCat": "noun",
+                 "Tokens": ["primary","immunodeficiency"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "defective",
+                 "InputMatch": "defective",
+                 "LexCat": "adj",
+                 "Tokens": ["defective"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "spontaneous",
+                 "InputMatch": "spontaneous",
+                 "LexCat": "adj",
+                 "Tokens": ["spontaneous"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "natural killer cell cytotoxicity",
+                 "InputMatch": "natural killer cell cytotoxicity",
+                 "LexCat": "noun",
+                 "Tokens": ["natural","killer","cell","cytotoxicity"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "104",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-671",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-589",
+                     "CandidateCUI": "C0441748",
+                     "CandidateMatched": "Autosomal recessive inheritance",
+                     "CandidatePreferred": "Autosomal recessive inheritance",
+                     "MatchedWords": ["autosomal","recessive"],
+                     "SemTypes": ["genf"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "19"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-756",
+                     "CandidateCUI": "C0398686",
+                     "CandidateMatched": "Primary immune deficiency disorder",
+                     "CandidatePreferred": "Primary immune deficiency disorder",
+                     "MatchedWords": ["primary","immunodeficiency"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "20",
+                         "Length": "24"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-571",
+                     "CandidateCUI": "C0205359",
+                     "CandidateMatched": "Spontaneous",
+                     "CandidatePreferred": "Spontaneous",
+                     "MatchedWords": ["spontaneous"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "60",
+                         "Length": "11"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-651",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-589",
+                     "CandidateCUI": "C0441748",
+                     "CandidateMatched": "Autosomal recessive inheritance",
+                     "CandidatePreferred": "Autosomal recessive inheritance",
+                     "MatchedWords": ["autosomal","recessive"],
+                     "SemTypes": ["genf"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "19"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-756",
+                     "CandidateCUI": "C0398686",
+                     "CandidateMatched": "Primary immune deficiency disorder",
+                     "CandidatePreferred": "Primary immune deficiency disorder",
+                     "MatchedWords": ["primary","immunodeficiency"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "20",
+                         "Length": "24"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-571",
+                     "CandidateCUI": "C0205359",
+                     "CandidateMatched": "Spontaneous",
+                     "CandidatePreferred": "Spontaneous",
+                     "MatchedWords": ["spontaneous"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "60",
+                         "Length": "11"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-500",
+                     "CandidateCUI": "C4521706",
+                     "CandidateMatched": "Cytotoxic (disposition)",
+                     "CandidatePreferred": "Cytotoxic (disposition)",
+                     "MatchedWords": ["cytotoxic"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "3"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "92",
+                         "Length": "12"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

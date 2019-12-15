@@ -1,0 +1,910 @@
+	ORDO-ID	Concept	Mapped_Term	SNOMED_ID	SNOMED_Term	Score
+0	251646	Anaplastic ependymoma	Anaplastic ependymoma	21589007	Ependymoma, anaplastic	1000
+1	424053	Mucinous cystadenocarcinoma of the pancreas	Mucinous cystadenocarcinoma of the pancreas	785879009	Mucinous cystadenocarcinoma of pancreas	1000
+2	293168	Infantile-onset ascending hereditary spastic paralysis	Infantile-onset ascending hereditary spastic paralysis	703543005	IAHSP - infantile onset ascending hereditary spastic paralysis	1000
+3	2698	Knuckle pads-leukonychia-sensorineural deafness-palmoplantar hyperkeratosis syndrome	Knuckle pads-leukonychia-sensorineural deafness-palmoplantar hyperkeratosis syndrome	1271009	Bart-Pumphrey syndrome	1000
+4	99828	Dengue fever	Dengue fever	409671005	Dengue shock syndrome	1000
+5	79333	COG7-CDG	COG7-CDG	717773005	COG7 (component of oligomeric golgi complex 7) congenital disorder of glycosylation	1000
+6	200421	Immunodeficiency with factor H anomaly	Immunodeficiency with factor H anomaly	234622003	Factor H deficiency	1000
+7	367	Glycogen storage disease due to glycogen branching enzyme deficiency	Glycogen storage disease due to glycogen branching enzyme deficiency	422348008	Andersen Tawil syndrome	1000
+8	163690	Hypotonia-cystinuria syndrome	Hypotonia-cystinuria syndrome	721173005	Hypotonia cystinuria syndrome	1000
+9	79323	MPDU1-CDG	MPDU1-CDG	724096007	Carbohydrate deficient glycoprotein syndrome type If	1000
+10	99027	Adult-onset autosomal dominant leukodystrophy	Adult-onset autosomal dominant leukodystrophy	448054001	Adult onset autosomal dominant leucodystrophy	1000
+11	99861	Precursor T-cell acute lymphoblastic leukemia	Precursor T-cell acute lymphoblastic leukemia	277575008	Acute T-cell lymphoblastic leukaemia	1000
+12	163	Hereditary hyperferritinemia-cataract syndrome	Hereditary hyperferritinemia-cataract syndrome	702398007	Bonneau-Beaumont syndrome	1000
+13	2045	FLOTCH syndrome	FLOTCH syndrome	774065001	FLOTCH syndrome	1000
+14	88639	Neurodegeneration due to 3-hydroxyisobutyryl-CoA hydrolase deficiency	Neurodegeneration due to 3-hydroxyisobutyryl-CoA hydrolase deficiency	124427009	Beta-hydroxyisobutyryl-coenzyme A deacylase deficiency	1000
+15	65	Leber congenital amaurosis	Leber congenital amaurosis	193413001	CRB - Congenital retinal blindness	1000
+16	538	Lymphangioleiomyomatosis	Lymphangioleiomyomatosis	73017001	Lymphangioleiomyomatosis	1000
+17	101084	Charcot-Marie-Tooth disease type 1D	Charcot-Marie-Tooth disease type 1D	719979008	Charcot-Marie-Tooth disease type 1D	1000
+18	275534	Myostatin-related muscle hypertrophy	Myostatin-related muscle hypertrophy	699185005	Muscle hypertrophy syndrome	1000
+19	52417	MALT lymphoma	MALT lymphoma	445269007	Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue	1000
+20	3466	WT limb-blood syndrome	WT limb-blood syndrome	719019000	WT limb blood syndrome	1000
+21	47612	Felty syndrome	Felty syndrome	57160007	Felty syndrome	1000
+22	1369	Congenital cataract-hypertrophic cardiomyopathy-mitochondrial myopathy syndrome	Congenital cataract-hypertrophic cardiomyopathy-mitochondrial myopathy syndrome	717812000	Congenital cataract, hypertrophic cardiomyopathy, mitochondrial myopathy syndrome	1000
+23	3052	X-linked intellectual disability-seizures-psoriasis syndrome	X-linked intellectual disability-seizures-psoriasis syndrome	719810000	Tranebjaerg Svejgaard syndrome	1000
+24	3198	Stiff person syndrome and related disorders	Stiff person syndrome and related disorders	5217008	Gamma neuron overactivity syndrome	1000
+25	99978	Klatskin tumor	Klatskin tumor	6492006	Klatskin tumor	1000
+26	621	Hereditary methemoglobinemia	Hereditary methemoglobinemia	267550008	Congenital methaemoglobinaemia	1000
+27	726	Alpers-Huttenlocher syndrome	Alpers-Huttenlocher syndrome	20415001	Alper's disease	1000
+28	494	Keratoderma hereditarium mutilans	Keratoderma hereditarium mutilans	24559001	Mutilating keratoderma	1000
+29	137820	Extrapelvic endometriosis	Extrapelvic endometriosis	396224008	Endometriosis	1000
+30	2843	Pentosuria	Pentosuria	190764000	Essential benign pentosuria	1000
+31	69077	Rhabdoid tumor	Rhabdoid tumor	83118000	Malignant rhabdoid tumor	1000
+32	79157	2-methylbutyryl-CoA dehydrogenase deficiency	2-methylbutyryl-CoA dehydrogenase deficiency	444838008	Deficiency of 2-methylbutyryl-CoA dehydrogenase	1000
+33	251931	Cerebellar liponeurocytoma	Cerebellar liponeurocytoma	716592003	Cerebellar liponeurocytoma	1000
+34	351	Galactosialidosis	Galactosialidosis	35691006	Combined deficiency of neuroaminidase and beta galactosidase	1000
+35	366	Glycogen storage disease due to glycogen debranching enzyme deficiency	Glycogen storage disease due to glycogen debranching enzyme deficiency	124472001	Deficiency of 6-alpha-D-glucosidase	1000
+36	3440	Waardenburg syndrome	Waardenburg syndrome	47434006	Waardenburg syndrome	1000
+37	1331	Familial prostate cancer	Familial prostate cancer	715412008	Familial malignant neoplasm of prostate	1000
+38	352540	Oncogenic osteomalacia	Oncogenic osteomalacia	392559009	Oncogenic osteomalacia	1000
+39	2348	Familial partial lipodystrophy, Dunnigan type	Familial partial lipodystrophy, Dunnigan type	715439000	Dunnigan syndrome	1000
+40	171866	Spondyloepimetaphyseal dysplasia, aggrecan type	Spondyloepimetaphyseal dysplasia, aggrecan type	719165004	Spondyloepimetaphyseal dysplasia aggrecan type	1000
+41	79105	Myxofibrosarcoma	Myxofibrosarcoma	6250003	Fibromyxosarcoma	1000
+42	641	Multifocal motor neuropathy	Multifocal motor neuropathy	230591002	MMN - Motor neuropathy with multiple conduction block	1000
+43	90795	Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency	Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency	124214007	11-beta-hydroxylase deficiency	1000
+44	243343	Dimethylglycine dehydrogenase deficiency	Dimethylglycine dehydrogenase deficiency	719449007	Deficiency of dimethylglycine dehydrogenase	1000
+45	221039	Hereditary sclerosing poikiloderma, Weary type	Hereditary sclerosing poikiloderma, Weary type	403774004	Hereditary sclerosing poikiloderma of Weary	1000
+46	101000	Autosomal recessive spastic paraplegia type 20	Autosomal recessive spastic paraplegia type 20	230264003	Troyer syndrome	1000
+47	213767	Squamous cell carcinoma of the cervix uteri	Squamous cell carcinoma of the cervix uteri	254886006	Squamous cell carcinoma of cervix	1000
+48	63999	IgG4-related mediastinitis	IgG4-related mediastinitis	7377003	Fibrosing mediastinitis	1000
+49	171695	Parkinsonian-pyramidal syndrome	Parkinsonian-pyramidal syndrome	783012006	Pallidopyramidal syndrome	1000
+50	35122	Congenital sucrase-isomaltase deficiency	Congenital sucrase-isomaltase deficiency	78373000	Congenital sucrose intolerance	1000
+51	90	Argininemia	Argininemia	23501004	ARGI deficiency	1000
+52	79411	Transient bullous dermolysis of the newborn	Transient bullous dermolysis of the newborn	723553000	Transient bullous dermolysis of newborn	1000
+53	227535	Hereditary breast cancer	Hereditary breast cancer	254843006	Familial cancer of breast	1000
+54	41	Dyschromatosis symmetrica hereditaria	Dyschromatosis symmetrica hereditaria	239085000	Acropigmentation of Dohi	1000
+55	51636	WHIM syndrome	WHIM syndrome	234571003	WHIM - Warts, hypogammaglobulinaemia, infections and myelokathexis	1000
+56	93314	Spondylometaphyseal dysplasia, Kozlowski type	Spondylometaphyseal dysplasia, Kozlowski type	111304003	Kozlowski spondylometaphyseal dysplasia	1000
+57	326	Congenital factor V deficiency	Congenital factor V deficiency	88776002	AC globulin deficiency	1000
+58	1115	Recessive aplasia cutis congenita of limbs	Recessive aplasia cutis congenita of limbs	723500009	Autosomal recessive aplasia cutis congenita of limb	1000
+59	158	Systemic primary carnitine deficiency	Systemic primary carnitine deficiency	21764004	Carnitine transporter deficiency	1000
+60	552	MODY	MODY	609561005	MODY - maturity onset diabetes of young	1000
+61	483	Congenital high-molecular-weight kininogen deficiency	Congenital high-molecular-weight kininogen deficiency	27312002	Fitzgerald factor deficiency	1000
+62	306674	Kufor-Rakeb syndrome	Kufor-Rakeb syndrome	723992000	Kufor Rakeb syndrome	1000
+63	43	X-linked adrenoleukodystrophy	X-linked adrenoleukodystrophy	65389002	ALD - adrenoleukodystrophy	1000
+64	3312	Thalidomide embryopathy	Thalidomide embryopathy	36193003	Congenital malformation due to thalidomide	1000
+65	111	Barth syndrome	Barth syndrome	297231002	3-Methylglutaconic aciduria type 2	1000
+66	93346	Spondyloepimetaphyseal dysplasia congenita, Strudwick type	Spondyloepimetaphyseal dysplasia congenita, Strudwick type	702350003	Dappled metaphysis syndrome	1000
+67	95702	Cytomegalic congenital adrenal hypoplasia	Cytomegalic congenital adrenal hypoplasia	237764004	Congenital adrenal hypoplasia, X-linked	1000
+68	172	Progressive familial intrahepatic cholestasis	Progressive familial intrahepatic cholestasis	74162007	Byler syndrome	1000
+69	54	X-linked recessive ocular albinism	X-linked recessive ocular albinism	78642008	Nettleship-Falls type ocular albinism	1000
+70	277	Severe combined immunodeficiency due to adenosine deaminase deficiency	Severe combined immunodeficiency due to adenosine deaminase deficiency	44940001	ADA - Adenosine aminohydrolase deficiency	1000
+71	137839	Lemierre syndrome	Lemierre syndrome	240444009	Fusobacterial necrotising tonsillitis	1000
+72	293381	Epithelial recurrent erosion dystrophy	Epithelial recurrent erosion dystrophy	715908008	Dystrophia Helsinglandica	1000
+73	86909	Myoclonic epilepsy of infancy	Myoclonic epilepsy of infancy	192990004	Benign myoclonic epilepsy in infancy	1000
+74	86815	Aplasia of lacrimal and salivary glands	Aplasia of lacrimal and salivary glands	715656004	Aplasia of lacrimal and salivary gland	1000
+75	252046	Meningeal melanocytoma	Meningeal melanocytoma	277527003	Melanocytoma of meninges	1000
+76	297	Tick-borne encephalitis	Tick-borne encephalitis	414093008	Encephalitis due to tick-borne encephalitis virus (navigational concept)	1000
+77	360	Glioblastoma	Glioblastoma	63634009	GBM - Glioblastoma multiforme	1000
+78	86884	Subcutaneous panniculitis-like T-cell lymphoma	Subcutaneous panniculitis-like T-cell lymphoma	103682005	Subcutaneous panniculitic T-cell lymphoma	1000
+79	584	Mucopolysaccharidosis type 7	Mucopolysaccharidosis type 7	43916004	Beta-glucuronidase deficiency	1000
+80	180261	Phyllodes tumor of the breast	Phyllodes tumor of the breast	71232009	Cystosarcoma phyllodes	1000
+81	98784	Autosomal dominant sleep-related hypermotor epilepsy	Autosomal dominant sleep-related hypermotor epilepsy	698021005	ADNFLE - Autosomal dominant nocturnal frontal lobe epilepsy	1000
+82	1159	Progressive pseudorheumatoid arthropathy of childhood	Progressive pseudorheumatoid arthropathy of childhood	254065005	Progressive pseudorheumatoid dysplasia	1000
+83	251663	Anaplastic oligoastrocytoma	Anaplastic oligoastrocytoma	253072003	Anaplastic oligoastrocytoma	1000
+84	98963	Granular corneal dystrophy type II	Granular corneal dystrophy type II	397568004	Avellino corneal dystrophy	1000
+85	269	Facioscapulohumeral dystrophy	Facioscapulohumeral dystrophy	399091004	FMD - Facioscapulohumeral muscular dystrophy	1000
+86	70573	Small cell lung cancer	Small cell lung cancer	254633006	Oat cell carcinoma of lung	1000
+87	740	Hutchinson-Gilford progeria syndrome	Hutchinson-Gilford progeria syndrome	238870004	Hutchinson-Gilford syndrome	1000
+88	65250	Perineural cyst	Perineural cyst	81634008	Nerve root cyst	1000
+89	2349	Muscular pseudohypertrophy-hypothyroidism syndrome	Muscular pseudohypertrophy-hypothyroidism syndrome	41505007	Debre-Semelaigne's syndrome	1000
+90	2298	Insulin-resistance syndrome type B	Insulin-resistance syndrome type B	237652003	Insulin resistance - type B	1000
+91	90348	Autosomal dominant cutis laxa	Autosomal dominant cutis laxa	111388003	Cutis laxa, autosomal dominant	1000
+92	75392	Periodontal Ehlers-Danlos syndrome	Periodontal Ehlers-Danlos syndrome	50869007	Ehlers-Danlos syndrome type 8	1000
+93	209959	Phacoanaphylactic uveitis	Phacoanaphylactic uveitis	32893002	Phacolytic glaucoma	1000
+94	454723	Endometrioid carcinoma of ovary	Endometrioid carcinoma of ovary	254852002	Endometrioid carcinoma ovary	1000
+95	263479	Fuchs heterochromic iridocyclitis	Fuchs heterochromic iridocyclitis	11226001	Fuchs uveitis syndrome	1000
+96	824	Primary myelofibrosis	Primary myelofibrosis	128843003	Agnogenic myeloid metaplasia	1000
+97	650	LCAT deficiency	LCAT deficiency	49227001	Familial lecithin-cholesterol acyltransferase deficiency	1000
+98	897	Waardenburg-Shah syndrome	Waardenburg-Shah syndrome	715952000	Shah Waardenburg syndrome	1000
+99	2612	Linear nevus sebaceus syndrome	Linear nevus sebaceus syndrome	707136009	Naevus sebaceous	1000
+100	2255	Pancreatic hypoplasia-diabetes-congenital heart disease syndrome	Pancreatic hypoplasia-diabetes-congenital heart disease syndrome	722206009	Pancreatic hypoplasia, diabetes mellitus, congenital heart disease syndrome	1000
+101	911	Combined immunodeficiency due to ZAP70 deficiency	Combined immunodeficiency due to ZAP70 deficiency	716716001	Deficiency of Zeta-chain associated protein kinase 70	1000
+102	85448	AGel amyloidosis	AGel amyloidosis	783160006	AGel amyloidosis	1000
+103	248111	Juvenile Huntington disease	Juvenile Huntington disease	230299004	Juvenile onset Huntington disease	1000
+104	370924	STT3B-CDG	STT3B-CDG	733112007	Carbohydrate deficient glycoprotein syndrome type Ix	1000
+105	129	Pseudopelade of Brocq	Pseudopelade of Brocq	400088006	Alopecia cicatrisata	1000
+106	228285	Acquired cutis laxa	Acquired cutis laxa	19726003	Acquired cutis laxa	1000
+107	123	Björnstad syndrome	Björnstad syndrome	67817003	Bjornstad's syndrome	1000
+108	330015	Lead poisoning	Lead poisoning	38342005	Lead - toxic effect	1000
+109	70472	Congenital lactic acidosis, Saguenay-Lac-Saint-Jean type	Congenital lactic acidosis, Saguenay-Lac-Saint-Jean type	718219002	Congenital lactic acidosis Saguenay-Lac-Saint-Jean type	1000
+110	281122	Self-improving collodion baby	Self-improving collodion baby	718632004	Self-healing collodion baby	1000
+111	79443	Pseudohypoparathyroidism type 1A	Pseudohypoparathyroidism type 1A	58833000	Albright hereditary osteodystrophy	1000
+112	75564	Acquired idiopathic sideroblastic anemia	Acquired idiopathic sideroblastic anemia	128846006	RARS	1000
+113	97	Familial paroxysmal ataxia	Familial paroxysmal ataxia	420932006	Episodic ataxia type 2	1000
+114	1217	Spinal atrophy-ophthalmoplegia-pyramidal syndrome	Spinal atrophy-ophthalmoplegia-pyramidal syndrome	771238004	Hamano Tsukamoto syndrome	1000
+115	79140	Cutaneous neuroendocrine carcinoma	Cutaneous neuroendocrine carcinoma	254729005	Apudoma of skin	1000
+116	1947	Progressive epilepsy-intellectual disability syndrome, Finnish type	Progressive epilepsy-intellectual disability syndrome, Finnish type	703526007	Neuronal ceroid lipofuscinosis 8	1000
+117	137898	Leukoencephalopathy with brain stem and spinal cord involvement-high lactate syndrome	Leukoencephalopathy with brain stem and spinal cord involvement-high lactate syndrome	703537008	LBSL - Leukoencephalopathy with brainstem and spinal cord involvement with lactate elevation	1000
+118	628	Diastrophic dwarfism	Diastrophic dwarfism	58561002	DD - Diastrophic dysplasia	1000
+119	98972	Central cloudy dystrophy of François	Central cloudy dystrophy of François	419074008	Central cloudy dystrophy of Francois	1000
+120	99860	Precursor B-cell acute lymphoblastic leukemia	Precursor B-cell acute lymphoblastic leukemia	277571004	B-cell acute lymphoblastic leukemia	1000
+121	86818	Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome	Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome	720982007	AMME complex	1000
+122	59	Allan-Herndon-Dudley syndrome	Allan-Herndon-Dudley syndrome	702327009	Allan-Herndon syndrome	1000
+123	90120	Hereditary motor and sensory neuropathy type 6	Hereditary motor and sensory neuropathy type 6	128203003	HMSN VI	1000
+124	93356	Spondyloepimetaphyseal dysplasia, Missouri type	Spondyloepimetaphyseal dysplasia, Missouri type	719171005	Spondyloepimetaphyseal dysplasia Missouri type	1000
+125	91349	Non-functioning pituitary adenoma	Non-functioning pituitary adenoma	254962005	Functionless pituitary adenoma	1000
+126	2056	Essential fructosuria	Essential fructosuria	40278002	Benign fructosaemia	1000
+127	355	Gaucher disease	Gaucher disease	62201009	Adult Gaucher disease	1000
+128	36386	Hereditary sensory and autonomic neuropathy type 1	Hereditary sensory and autonomic neuropathy type 1	397734008	Acrodystrophic neuropathy	1000
+129	579	Mucopolysaccharidosis type 1	Mucopolysaccharidosis type 1	75610003	Alpha-L-iduronidase deficiency	1000
+130	91500	Tubulointerstitial nephritis and uveitis syndrome	Tubulointerstitial nephritis and uveitis syndrome	418839003	TINU - Tubulointerstitial nephritis with uveitis syndrome	1000
+131	79394	Congenital non-bullous ichthyosiform erythroderma	Congenital non-bullous ichthyosiform erythroderma	205550003	Collodion baby	1000
+132	254905	Isolated cytochrome C oxidase deficiency	Isolated cytochrome C oxidase deficiency	67434000	COX - Cytochrome C oxidase deficiency	1000
+133	1416	Familial calcium pyrophosphate deposition	Familial calcium pyrophosphate deposition	239832006	CPDD - Calcium pyrophosphate deposition disease	1000
+134	363665	Acroosteolysis-keloid-like lesions-premature aging syndrome	Acroosteolysis-keloid-like lesions-premature aging syndrome	776417008	Acroosteolysis, keloid-like lesions, premature ageing syndrome	1000
+135	98904	Congenital myopathy with excess of thin filaments	Congenital myopathy with excess of thin filaments	702349003	Actin accumulation myopathy	1000
+136	77293	Niemann-Pick disease type B	Niemann-Pick disease type B	39390005	Niemann-Pick disease non-neuropathic type	1000
+137	50839	Cat-scratch disease	Cat-scratch disease	79974007	Benign inoculation lymphoreticulosis	1000
+138	581	Mucopolysaccharidosis type 3	Mucopolysaccharidosis type 3	88393000	Mucopolysaccharidosis type III	1000
+139	141179	Non-involuting congenital hemangioma	Non-involuting congenital hemangioma	399973007	NICH - non-involuting congenital haemangioma	1000
+140	65282	Carvajal syndrome	Carvajal syndrome	719835006	Carvajal syndrome	1000
+141	164736	Familial advanced sleep-phase syndrome	Familial advanced sleep-phase syndrome	715829003	Familial advanced sleep phase syndrome	1000
+142	280914	Idiopathic anterior uveitis	Idiopathic anterior uveitis	231947004	Anterior uveitis idiopathic	1000
+143	238455	Infantile dystonia-parkinsonism	Infantile dystonia-parkinsonism	722763000	Dopamine transporter deficiency syndrome	1000
+144	375	Anti-glomerular basement membrane disease	Anti-glomerular basement membrane disease	236506009	Anti GBM - Antiglomerular basement membrane disease	1000
+145	370348	Peripheral primitive neuroectodermal tumor	Peripheral primitive neuroectodermal tumor	703707001	Ewing sarcoma / PNET	1000
+146	99827	Crimean-Congo hemorrhagic fever	Crimean-Congo hemorrhagic fever	43489008	CCHF - Crimean-Congo haemorrhagic fever	1000
+147	520	Acute promyelocytic leukemia	Acute promyelocytic leukemia	110004001	APL - Acute promyelocytic leukaemia	1000
+148	813	Silver-Russell syndrome	Silver-Russell syndrome	15069006	Russell's syndrome	1000
+149	100070	Progressive non-fluent aphasia	Progressive non-fluent aphasia	716281000	Primary progressive non fluent aphasia	1000
+150	59303	Neonatal ichthyosis-sclerosing cholangitis syndrome	Neonatal ichthyosis-sclerosing cholangitis syndrome	724278007	Ichthyosis, hypotrichosis, sclerosing cholangitis syndrome	1000
+151	662	Yellow nail syndrome	Yellow nail syndrome	400211001	Hereditary lymphedema and yellow nails	1000
+152	86903	Dendritic cell sarcoma not otherwise specified	Dendritic cell sarcoma not otherwise specified	397355008	Dendritic cell sarcoma, no ICD-O subtype	1000
+153	48818	Aceruloplasminemia	Aceruloplasminemia	124224004	Deficiency of caeruloplasmin	1000
+154	2201	Palmoplantar keratoderma-spastic paralysis syndrome	Palmoplantar keratoderma-spastic paralysis syndrome	785725008	Palmoplantar keratoderma, spastic paralysis syndrome	1000
+155	88620	Isolated congenital anosmia	Isolated congenital anosmia	230502003	Congenital anosmia	1000
+156	96253	Cushing disease	Cushing disease	47270006	Cushing's syndrome	1000
+157	99977	Squamous cell carcinoma of the esophagus	Squamous cell carcinoma of the esophagus	276804009	SCC - Squamous cell carcinoma of esophagus	1000
+158	306	Benign familial infantile epilepsy	Benign familial infantile epilepsy	230410004	BFNC - Benign familial neonatal convulsions	1000
+159	319218	Ebola hemorrhagic fever	Ebola hemorrhagic fever	37109004	EVD - Ebola virus disease	1000
+160	50	Aicardi syndrome	Aicardi syndrome	80651009	AIC - Aicardi syndrome	1000
+161	132	Butyrylcholinesterase deficiency	Butyrylcholinesterase deficiency	191397007	Butyrylcholinesterase deficiency	1000
+162	2202	Palmoplantar keratoderma-deafness syndrome	Palmoplantar keratoderma-deafness syndrome	722203001	Palmoplantar keratoderma with deafness syndrome	1000
+163	65748	Multiple self-healing squamous epithelioma	Multiple self-healing squamous epithelioma	716774008	Familial keratoacanthoma	1000
+164	275555	Preeclampsia	Preeclampsia	398254007	EPH - Edema, proteinuria and hypertension of pregnancy	1000
+165	79098	Sympathetic ophthalmia	Sympathetic ophthalmia	75315001	Sympathetic ophthalmia	1000
+166	225	Maternally-inherited diabetes and deafness	Maternally-inherited diabetes and deafness	237619009	Ballinger-Wallace syndrome	1000
+167	2575	Cystic fibrosis-gastritis-megaloblastic anemia syndrome	Cystic fibrosis-gastritis-megaloblastic anemia syndrome	720401009	Cystic fibrosis with gastritis and megaloblastic anaemia syndrome	1000
+168	97567	Immunotactoid glomerulopathy	Immunotactoid glomerulopathy	726082003	Immunotactoid glomerulonephritis	1000
+169	298	Mitochondrial neurogastrointestinal encephalomyopathy	Mitochondrial neurogastrointestinal encephalomyopathy	718214007	Mitochondrial neurogastrointestinal encephalomyopathy syndrome	1000
+170	1949	Benign familial neonatal epilepsy	Benign familial neonatal epilepsy	230410004	BFNC - Benign familial neonatal convulsions	1000
+171	286	Vascular Ehlers-Danlos syndrome	Vascular Ehlers-Danlos syndrome	17025000	Ehlers-Danlos syndrome arterial type E-D	1000
+172	79455	Cutaneous mastocytoma	Cutaneous mastocytoma	397013007	Cutaneous mastocytoma	1000
+173	573	Monilethrix	Monilethrix	69488000	Beaded hair	1000
+174	86902	Follicular dendritic cell sarcoma	Follicular dendritic cell sarcoma	128816008	Follicular dendritic cell sarcoma	1000
+175	56425	Cold agglutinin disease	Cold agglutinin disease	398937006	AIHA - Cold autoimmune haemolytic anaemia	1000
+176	550	MELAS	MELAS	39925003	Juvenile myopathy, encephalopathy, lactic acidosis AND stroke	1000
+177	313808	Hereditary diffuse leukoencephalopathy with axonal spheroids and pigmented glia	Hereditary diffuse leukoencephalopathy with axonal spheroids and pigmented glia	702427005	Adult-onset leukodystrophy with neuroaxonal spheroids	1000
+178	86879	Extranodal nasal NK/T cell lymphoma	Extranodal nasal NK/T cell lymphoma	58961005	Lethal midline granuloma	1000
+179	2302	Asbestos intoxication	Asbestos intoxication	22607003	Amianthosis	1000
+180	64755	Becker nevus syndrome	Becker nevus syndrome	5387003	Becker's naevus	1000
+181	930	Idiopathic achalasia	Idiopathic achalasia	45564002	Achalasia of cardia	1000
+182	98810	Paroxysmal non-kinesigenic dyskinesia	Paroxysmal non-kinesigenic dyskinesia	609218006	Familial paroxysmal choreoathetosis	1000
+183	79325	ALG8-CDG	ALG8-CDG	720977000	ALG8 congenital disorder of glycosylation	1000
+184	863	Trichinellosis	Trichinellosis	709018004	Infection by larvae of Trichinella	1000
+185	423	Malignant hyperthermia of anesthesia	Malignant hyperthermia of anesthesia	405501007	MH - Malignant hyperpyrexia	1000
+186	1871	Progressive cone dystrophy	Progressive cone dystrophy	267613004	Progressive cone dystrophy (without rod involvement)	1000
+187	364	Glycogen storage disease due to glucose-6-phosphatase deficiency	Glycogen storage disease due to glucose-6-phosphatase deficiency	124437004	Deficiency of glucose-6-phosphatase	1000
+188	166113	Bazex syndrome	Bazex syndrome	254820002	Bazex syndrome	1000
+189	59298	Schilder disease	Schilder disease	49692006	Diffuse sclerosis	1000
+190	886	Usher syndrome	Usher syndrome	73119000	Hallgren's syndrome	1000
+191	79149	Dermochondrocorneal dystrophy	Dermochondrocorneal dystrophy	254150007	Dermochondrocorneal dystrophy	1000
+192	300857	T-cell/histiocyte rich large B cell lymphoma	T-cell/histiocyte rich large B cell lymphoma	450959001	Histiocyte-rich large B-cell lymphoma	1000
+193	90045	Hereditary folate malabsorption	Hereditary folate malabsorption	62578003	Congenital defect of folate absorption	1000
+194	324636	Autoerythrocyte sensitization syndrome	Autoerythrocyte sensitization syndrome	275446004	Auto-erythrocyte sensitisation syndrome	1000
+195	79159	Isobutyryl-CoA dehydrogenase deficiency	Isobutyryl-CoA dehydrogenase deficiency	445274004	Deficiency of isobutyryl-CoA dehydrogenase	1000
+196	34217	Naxos disease	Naxos disease	715535009	Keratoderma with woolly hair type I	1000
+197	3204	Stormorken-Sjaastad-Langslet syndrome	Stormorken-Sjaastad-Langslet syndrome	711407000	Stormorken syndrome	1000
+198	3156	Senior-Loken syndrome	Senior-Loken syndrome	236531005	Loken Senior syndrome	1000
+199	180229	Polyembryoma	Polyembryoma	28325008	Embryonal carcinoma - polyembryonal type	1000
+200	1658	Absence of fingerprints-congenital milia syndrome	Absence of fingerprints-congenital milia syndrome	239011004	Basan syndrome	1000
+201	94086	Blue diaper syndrome	Blue diaper syndrome	59531002	Blue diaper syndrome	1000
+202	2297	Insulin-resistance syndrome type A	Insulin-resistance syndrome type A	237606005	Hereditary benign acanthosis nigricans with insulin resistance	1000
+203	66662	Extracutaneous mastocytoma	Extracutaneous mastocytoma	63175003	Extracutaneous mastocytoma	1000
+204	156731	Dyssegmental dysplasia, Rolland-Desbuquois type	Dyssegmental dysplasia, Rolland-Desbuquois type	95243004	Dyssegmental dysplasia - Rolland-Desbuquois type	1000
+205	2850	Alopecia-intellectual disability syndrome	Alopecia-intellectual disability syndrome	716191002	Alopecia and intellectual disability syndrome	1000
+206	57	Glycogen storage disease due to aldolase A deficiency	Glycogen storage disease due to aldolase A deficiency	111578003	Aldolase A deficiency	1000
+207	52430	Inclusion body myopathy with Paget disease of bone and frontotemporal dementia	Inclusion body myopathy with Paget disease of bone and frontotemporal dementia	703544004	IBMPFD - Inclusion body myopathy with early onset Paget disease and frontotemporal dementia	1000
+208	168601	Congenital enteropathy due to enteropeptidase deficiency	Congenital enteropathy due to enteropeptidase deficiency	124498007	Deficiency of enterokinase	1000
+209	521	Chronic myeloid leukemia	Chronic myeloid leukemia	92818009	CGL - Chronic granulocytic leukaemia	1000
+210	178512	Folliculotropic mycosis fungoides	Folliculotropic mycosis fungoides	404109006	Alopecia mucinosa (T cell lymphoma)	1000
+211	901	Wells syndrome	Wells syndrome	238931006	Eosinophilic cellulitis	1000
+212	83471	Thymic aplasia	Thymic aplasia	91918005	Agenesis of thymus	1000
+213	209981	IRIDA syndrome	IRIDA syndrome	722005000	IRIDA (iron-refractory iron deficiency anaemia) syndrome	1000
+214	1980	Bilateral striopallidodentate calcinosis	Bilateral striopallidodentate calcinosis	110997000	Cerebral symmetric calcification	1000
+215	314946	Mycobacterium xenopi infection	Mycobacterium xenopi infection	84515001	Infection caused by Mycobacterium xenopi	1000
+216	79278	Autosomal erythropoietic protoporphyria	Autosomal erythropoietic protoporphyria	51022005	EPP	1000
+217	646	Niemann-Pick disease type C	Niemann-Pick disease type C	66751000	Niemann-Pick disease type C	1000
+218	66661	Mast cell sarcoma	Mast cell sarcoma	397010005	Malignant mast cell neoplasm	1000
+219	101	Dentatorubral pallidoluysian atrophy	Dentatorubral pallidoluysian atrophy	68116008	DRPLA - Dentatorubropallidoluysian atrophy	1000
+220	199351	Adult-onset dystonia-parkinsonism	Adult-onset dystonia-parkinsonism	720466001	Adult-onset dystonia parkinsonism	1000
+221	98962	Granular corneal dystrophy type I	Granular corneal dystrophy type I	419039007	Groenouw corneal dystrophy type I	1000
+222	73423	Acute ackee fruit intoxication	Acute ackee fruit intoxication	49434001	Ackee poisoning	1000
+223	31837	Pulmonary venoocclusive disease	Pulmonary venoocclusive disease	89420002	Pulmonary veno-occlusive disease	1000
+224	370109	Ataxia-telangiectasia variant	Ataxia-telangiectasia variant	763065008	Ataxia telangiectasia variant	1000
+225	314419	Ameloblastoma	Ameloblastoma	20462008	Adamantinoma	1000
+226	93283	Spondyloepiphyseal dysplasia, Kimberley type	Spondyloepiphyseal dysplasia, Kimberley type	719203001	Spondyloepiphyseal dysplasia Kimberley type	1000
+227	733	Familial adenomatous polyposis	Familial adenomatous polyposis	72900001	APC - Adenomatous polyposis coli	1000
+228	582	Mucopolysaccharidosis type 4	Mucopolysaccharidosis type 4	130197005	Deficiency of N-acetylgalactosamine-6-sulfatase	1000
+229	267	Autosomal recessive limb-girdle muscular dystrophy type 2A	Autosomal recessive limb-girdle muscular dystrophy type 2A	715341003	Autosomal recessive limb girdle muscular dystrophy type 2A	1000
+230	2023	Undifferentiated pleomorphic sarcoma	Undifferentiated pleomorphic sarcoma	34360000	Fibrous histiocytoma, malignant	1000
+231	93316	Spondylometaphyseal dysplasia, Schmidt type	Spondylometaphyseal dysplasia, Schmidt type	719304005	Spondylometaphyseal dysplasia Algerian type	1000
+232	2224	Hypertryptophanemia	Hypertryptophanemia	721838005	Familial hypertryptophanaemia	1000
+233	90002	Undifferentiated connective tissue syndrome	Undifferentiated connective tissue syndrome	239918008	Undifferentiated connective tissue disease	1000
+234	86885	Primary cutaneous peripheral T-cell lymphoma not otherwise specified	Primary cutaneous peripheral T-cell lymphoma not otherwise specified	3172003	Mature T-cell lymphoma	1000
+235	3057	Monoamine oxidase A deficiency	Monoamine oxidase A deficiency	718210003	Brunner syndrome	1000
+236	139552	Distal hereditary motor neuropathy, Jerash type	Distal hereditary motor neuropathy, Jerash type	763533003	Autosomal recessive distal spinal muscular atrophy type 2	1000
+237	137754	Neurological conditions associated with aminoacylase 1 deficiency	Neurological conditions associated with aminoacylase 1 deficiency	709282004	Aminoacylase 1 deficiency	1000
+238	158684	Epidermolysis bullosa simplex with pyloric atresia	Epidermolysis bullosa simplex with pyloric atresia	716701004	Epidermolysis bullosa simplex co-occurrent with pyloric atresia	1000
+239	90796	46,XY disorder of sex development due to isolated 17,20-lyase deficiency	46,XY disorder of sex development due to isolated 17,20-lyase deficiency	124220008	17 alpha-Hydroxylase deficiency	1000
+240	51208	Formiminoglutamic aciduria	Formiminoglutamic aciduria	59761008	Deficiency of glutamate formiminotransferase	1000
+241	251582	Gliomatosis cerebri	Gliomatosis cerebri	26138003	Gliomatosis cerebri	1000
+242	85447	ATTRV30M amyloidosis	ATTRV30M amyloidosis	42295001	AF type amyloidosis	1000
+243	85138	Addison disease	Addison disease	363732003	Addison disease	1000
+244	2235	Hypogonadotropic hypogonadism-retinitis pigmentosa syndrome	Hypogonadotropic hypogonadism-retinitis pigmentosa syndrome	733113002	Chang Davidson Carlson syndrome	1000
+245	75497	X-linked Ehlers-Danlos syndrome	X-linked Ehlers-Danlos syndrome	67202007	Ehlers-Danlos syndrome type V	1000
+246	75377	Central areolar choroidal dystrophy	Central areolar choroidal dystrophy	231996009	Central areolar choroidal dystrophy	1000
+247	93964	Blepharospasm-oromandibular dystonia syndrome	Blepharospasm-oromandibular dystonia syndrome	230325003	Blepharospasm - oromandibular dystonia	1000
+248	213772	Adenocarcinoma of the cervix uteri	Adenocarcinoma of the cervix uteri	254887002	Adenocarcinoma cervix uteri	1000
+249	79452	Milroy disease	Milroy disease	254199006	Hereditary lymphedema	1000
+250	2435	Hypo- and hypermelanotic cutaneous macules-retarded growth-intellectual disability syndrome	Hypo- and hypermelanotic cutaneous macules-retarded growth-intellectual disability syndrome	733469003	Hereditary congenital hypomelanotic and hypermelanotic cutaneous macules, growth retardation, intellectual disability syndrome	1000
+251	166038	Metaphyseal chondrodysplasia, Kaitila type	Metaphyseal chondrodysplasia, Kaitila type	770909004	Metaphyseal chondrodysplasia Kaitila type	1000
+252	892	Von Hippel-Lindau disease	Von Hippel-Lindau disease	46659004	Cerebroretinal angiomatosis	1000
+253	2619	Brachydactylous dwarfism, Mseleni type	Brachydactylous dwarfism, Mseleni type	715470008	Brachydactylous dwarfism Mseleni type	1000
+254	2983	Disorder of sex development-intellectual disability syndrome	Disorder of sex development-intellectual disability syndrome	719450007	Disorder of sex development with intellectual disability syndrome	1000
+255	159	Carnitine-acylcarnitine translocase deficiency	Carnitine-acylcarnitine translocase deficiency	238003000	Carnitine acylcarnitine translocase deficiency	1000
+256	251370	Sickle cell-hemoglobin D disease syndrome	Sickle cell-hemoglobin D disease syndrome	25472008	Double heterozygous for Hb S + Hb D Punjab	1000
+257	3063	X-linked intellectual disability, Snyder type	X-linked intellectual disability, Snyder type	702416008	Mental retardation, x-linked, Snyder-Robinson type	1000
+258	209905	Brain-lung-thyroid syndrome	Brain-lung-thyroid syndrome	719098007	Brain lung thyroid syndrome	1000
+259	55654	Hypotrichosis simplex	Hypotrichosis simplex	723362004	Hereditary hypotrichosis simplex	1000
+260	809	Mixed connective tissue disease	Mixed connective tissue disease	398021003	Connective tissue disease overlap syndrome	1000
+261	365	Glycogen storage disease due to acid maltase deficiency	Glycogen storage disease due to acid maltase deficiency	124454007	Deficiency of acid maltase	1000
+262	60014	Argyria	Argyria	255636009	Argyria	1000
+263	86850	Myeloid sarcoma	Myeloid sarcoma	188738007	Granulocytic sarcoma	1000
+264	179	Birdshot chorioretinopathy	Birdshot chorioretinopathy	231981005	Birdshot chorioretinitis	1000
+265	63275	Pemphigoid gestationis	Pemphigoid gestationis	86081009	Dermatitis herpetiformis of pregnancy	1000
+266	3020	Ramsay Hunt syndrome	Ramsay Hunt syndrome	21954000	Geniculate herpes zoster	1000
+267	100	Ataxia-telangiectasia	Ataxia-telangiectasia	68504005	Ataxia telangiectasia	1000
+268	79410	Pretibial dystrophic epidermolysis bullosa	Pretibial dystrophic epidermolysis bullosa	67653003	Pretibial dystrophic epidermolysis bullosa	1000
+269	94122	Cerebellar ataxia, Cayman type	Cerebellar ataxia, Cayman type	717332007	Cayman ataxia	1000
+270	77292	Niemann-Pick disease type A	Niemann-Pick disease type A	52165006	Classical Niemann-Pick disease	1000
+271	71212	Hyperinsulinism due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency	Hyperinsulinism due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency	124122005	Deficiency of 3-hydroxyacyl-CoA dehydrogenase	1000
+272	97338	Melanoma of soft tissue	Melanoma of soft tissue	271944004	Clear cell sarcoma	1000
+273	2806	Subacute sclerosing leukoencephalitis	Subacute sclerosing leukoencephalitis	192685000	Dawson's inclusion body encephalitis	1000
+274	99000	Adult-onset foveomacular vitelliform dystrophy	Adult-onset foveomacular vitelliform dystrophy	232049001	Adult vitelliform macular dystrophy	1000
+275	32960	Tumor necrosis factor receptor 1 associated periodic syndrome	Tumor necrosis factor receptor 1 associated periodic syndrome	403833009	Familial autosomal dominant periodic fever	1000
+276	829	Adult-onset Still disease	Adult-onset Still disease	239920006	Adult onset Still disease	1000
+277	314473	Ovarian fibroma	Ovarian fibroma	254865006	Fibroma of ovary	1000
+278	2807	Papilloma of choroid plexus	Papilloma of choroid plexus	18021007	Choroid plexus papilloma	1000
+279	49041	IgG4-related retroperitoneal fibrosis	IgG4-related retroperitoneal fibrosis	49120005	Ormond's disease	1000
+280	284448	CLIPPERS	CLIPPERS	773688007	CLIPPERS - chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids	1000
+281	171723	White sponge nevus	White sponge nevus	389203001	Familial white folded mucosal dysplasia	1000
+282	189	Hidrotic ectodermal dysplasia	Hidrotic ectodermal dysplasia	54209007	Clouston syndrome	1000
+283	97560	Primary membranous glomerulonephritis	Primary membranous glomerulonephritis	722119002	Idiopathic membranous glomerulonephritis	1000
+284	811	Shwachman-Diamond syndrome	Shwachman-Diamond syndrome	89454001	Congenital lipomatosis of pancreas	1000
+285	217382	Neurodegenerative syndrome due to cerebral folate transport deficiency	Neurodegenerative syndrome due to cerebral folate transport deficiency	711403001	Cerebral folate deficiency	1000
+286	209943	IRVAN syndrome	IRVAN syndrome	783090002	IRVAN (idiopathic retinal vasculitis, aneurysms, neuroretinitis) syndrome	1000
+287	66529	Tako-Tsubo cardiomyopathy	Tako-Tsubo cardiomyopathy	441541008	Left ventricular ballooning syndrome	1000
+288	171851	MEDNIK syndrome	MEDNIK syndrome	722035007	Erythrokeratodermia variabilis 3	1000
+289	2407	LOC syndrome	LOC syndrome	722675000	LOC syndrome	1000
+290	31205	Rat-bite fever	Rat-bite fever	1685005	Rat bite fever	1000
+291	2598	Mitochondrial myopathy and sideroblastic anemia	Mitochondrial myopathy and sideroblastic anemia	724138007	Mitochondrial myopathy with sideroblastic anaemia syndrome	1000
+292	98974	Fuchs endothelial corneal dystrophy	Fuchs endothelial corneal dystrophy	193839007	Fuch's endothelial corneal dystrophy	1000
+293	36387	Generalized epilepsy with febrile seizures-plus	Generalized epilepsy with febrile seizures-plus	699688008	Generalised epilepsy with febrile seizures plus	1000
+294	71505	Cancer-associated retinopathy	Cancer-associated retinopathy	404663008	Paraneoplastic retinopathy	1000
+295	31	Oxoglutaric aciduria	Oxoglutaric aciduria	733630004	Deficiency of alpha-ketoglutarate dehydrogenase	1000
+296	71279	CANOMAD syndrome	CANOMAD syndrome	715624006	CANOMAD (chronic ataxic neuropathy, ophthalmoplegia, monoclonal IgM protein, cold agglutinins and disialosyl antibodies) syndrome	1000
+297	83476	West-Nile encephalitis	West-Nile encephalitis	417093003	Disease caused by West Nile virus	1000
+298	296	Ollier disease	Ollier disease	268274005	Congenital enchondromatosis	1000
+299	157973	Congenital muscular dystrophy due to LMNA mutation	Congenital muscular dystrophy due to LMNA mutation	771272007	Congenital muscular dystrophy due to LMNA (lamin A/C) mutation	1000
+300	1454	Joubert syndrome with hepatic defect	Joubert syndrome with hepatic defect	721847002	COACH (cerebellar vermis hypoplasia, oligophrenia, congenital ataxia, coloboma, hepatic fibrosis) syndrome	1000
+301	86843	Acute panmyelosis with myelofibrosis	Acute panmyelosis with myelofibrosis	109991003	Acute myelofibrosis	1000
+302	419	Hyperprolinemia type 1	Hyperprolinemia type 1	61071003	Hyperprolinaemia type I	1000
+303	136	CADASIL	CADASIL	390936003	Cerebral autosomal dominant arteriopathy with subcortical infarcts and leucoencephalopathy	1000
+304	140976	RHYNS syndrome	RHYNS syndrome	723999009	RHYNS (retinitis pigmentosa, hypopituitarism, nephronophthisis, skeletal dysplasia) syndrome	1000
+305	1685	Distomatosis	Distomatosis	26089000	Disease due to Trematoda	1000
+306	528	Berardinelli-Seip congenital lipodystrophy	Berardinelli-Seip congenital lipodystrophy	284449005	Beradinelli-Seip syndrome	1000
+307	33	Isovaleric acidemia	Isovaleric acidemia	87827003	Isovaleric acid CoA dehydrogenase deficiency	1000
+308	1916	Diethylstilbestrol syndrome	Diethylstilbestrol syndrome	716005004	DES (diethylstilbestrol) syndrome	1000
+309	97239	Reducing body myopathy	Reducing body myopathy	42779002	Reducing-body myopathy	1000
+310	53583	Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity	Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity	715564000	Dystonia 9	1000
+311	79318	PMM2-CDG	PMM2-CDG	277893002	CDG - Carbohydrate-deficient glycoprotein syndrome type I	1000
+312	431361	Progressive encephalopathy with leukodystrophy due to DECR deficiency	Progressive encephalopathy with leukodystrophy due to DECR deficiency	444944006	Deficiency of 2,4-dienoyl-CoA reductase	1000
+313	324	Fabry disease	Fabry disease	16652001	Alpha-galactosidase A deficiency	1000
+314	319276	Clear cell renal carcinoma	Clear cell renal carcinoma	254915003	Clear cell carcinoma of kidney	1000
+315	99745	Typhoid	Typhoid	4834000	Infection by Salmonella Typhi	1000
+316	52503	X-linked creatine transporter deficiency	X-linked creatine transporter deficiency	698290008	Creatine transporter deficiency	1000
+317	90340	Blau syndrome	Blau syndrome	699861000	Arthrocutaneouveal granulamotosis	1000
+318	79328	ALG9-CDG	ALG9-CDG	720978005	ALG9 congenital disorder of glycosylation	1000
+319	461	Recessive X-linked ichthyosis	Recessive X-linked ichthyosis	72523005	Sex-linked ichthyosis	1000
+320	64748	Dejerine-Sottas syndrome	Dejerine-Sottas syndrome	111499002	Dejerine-Sottas disease	1000
+321	49827	Thiamine-responsive megaloblastic anemia syndrome	Thiamine-responsive megaloblastic anemia syndrome	237617006	Megaloblastic anaemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	1000
+322	158029	Sea-blue histiocytosis	Sea-blue histiocytosis	37821003	Sea-blue histiocyte syndrome	1000
+323	238583	Hyperphenylalaninemia due to tetrahydrobiopterin deficiency	Hyperphenylalaninemia due to tetrahydrobiopterin deficiency	68528007	Hyperphenylalaninaemia	1000
+324	213512	Malignant mixed Müllerian tumor of the ovary	Malignant mixed Müllerian tumor of the ovary	702368000	Carcinosarcoma of ovary	1000
+325	54272	Hepatocellular adenoma	Hepatocellular adenoma	424263008	Adenoma of liver	1000
+326	168	Loose anagen syndrome	Loose anagen syndrome	238735005	Loose anagen hair syndrome	1000
+327	394	Classic homocystinuria	Classic homocystinuria	24308003	CBS deficiency	1000
+328	169105	Good syndrome	Good syndrome	9893005	Good syndrome	1000
+329	2494	Ménétrier disease	Ménétrier disease	60002000	Adenopapillomatosis gastrica	1000
+330	79233	Hypoxanthine guanine phosphoribosyltransferase partial deficiency	Hypoxanthine guanine phosphoribosyltransferase partial deficiency	238007004	Partial HGPRT deficiency	1000
+331	970	Hereditary sensory and autonomic neuropathy type 2	Hereditary sensory and autonomic neuropathy type 2	398187000	Charcot Marie Tooth disease, type 2	1000
+332	97332	Kienbock disease	Kienbock disease	787484007	Keinbock's disease	1000
+333	244310	RFT1-CDG	RFT1-CDG	733084000	Carbohydrate deficient glycoprotein syndrome type In	1000
+334	289504	Combined malonic and methylmalonic acidemia	Combined malonic and methylmalonic acidemia	702365002	CMAMMA - combined malonic and methylmalonic aciduria	1000
+335	251912	Pineocytoma	Pineocytoma	89096009	Pineocytoma	1000
+336	774	Hereditary hemorrhagic telangiectasia	Hereditary hemorrhagic telangiectasia	21877004	HHT - Hereditary haemorrhagic telangiectasia	1000
+337	188	Systemic capillary leak syndrome	Systemic capillary leak syndrome	87730004	Capillary leak syndrome	1000
+338	168598	Brain demyelination due to methionine adenosyltransferase deficiency	Brain demyelination due to methionine adenosyltransferase deficiency	124283007	Deficiency of methionine adenosyltransferase	1000
+339	79351	3-phosphoglycerate dehydrogenase deficiency, infantile/juvenile form	3-phosphoglycerate dehydrogenase deficiency, infantile/juvenile form	303098002	3-Phosphoglycerate dehydrogenase deficiency	1000
+340	99872	Hashimoto-Pritzker syndrome	Hashimoto-Pritzker syndrome	404160007	Congenital self-healing histiocytosis	1000
+341	170	Woolly hair	Woolly hair	52564001	Woolly hair	1000
+342	166409	Photosensitive epilepsy	Photosensitive epilepsy	95208000	Photic epilepsy	1000
+343	79473	Porphyria variegata	Porphyria variegata	58275005	Dean-Barnes syndrome	1000
+344	79327	ALG1-CDG	ALG1-CDG	720941007	ALG1 congenital disorder of glycosylation	1000
+345	37042	Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome	Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome	237618001	Congenital insulin-dependent diabetes mellitus with fatal secretory diarrhea	1000
+346	33111	Granulomatous slack skin	Granulomatous slack skin	277796003	Granulomatous slack skin disease	1000
+347	39041	Omenn syndrome	Omenn syndrome	722067005	Omenn syndrome	1000
+348	79457	Maculopapular cutaneous mastocytosis	Maculopapular cutaneous mastocytosis	78745000	Localised cutaneous mastocytosis	1000
+349	3452	Whipple disease	Whipple disease	41545003	Intestinal Whipple's disease	1000
+350	2020	Congenital fiber-type disproportion myopathy	Congenital fiber-type disproportion myopathy	240084007	Congenital myopathy with fiber type disproportion	1000
+351	899	Walker-Warburg syndrome	Walker-Warburg syndrome	111504002	HARD - Hydrocephalus, agyria and retinal dysplasia	1000
+352	820	Sneddon syndrome	Sneddon syndrome	716745004	Ehrmann Sneddon syndrome	1000
+353	79100	Atrophoderma vermiculata	Atrophoderma vermiculata	2736005	Acne vermoulante	1000
+354	285	Ehlers-Danlos syndrome, hypermobility type	Ehlers-Danlos syndrome, hypermobility type	30652003	Benign hypermobility syndrome	1000
+355	2908	Kindler syndrome	Kindler syndrome	238836000	Kindler syndrome	1000
+356	178355	Smith-McCort dysplasia	Smith-McCort dysplasia	715862006	Smith McCort dysplasia	1000
+357	289586	Exfoliative ichthyosis	Exfoliative ichthyosis	763768001	Autosomal recessive exfoliative ichthyosis	1000
+358	83314	Epidemic typhus	Epidemic typhus	39111003	Classical typhus	1000
+359	749	Congenital prekallikrein deficiency	Congenital prekallikrein deficiency	48976006	Fletcher factor deficiency	1000
+360	598	Multiminicore myopathy	Multiminicore myopathy	55133004	Minicore disease	1000
+361	190	Coats disease	Coats disease	360455002	Coats syndrome	1000
+362	2195	Dicarboxylic aminoaciduria	Dicarboxylic aminoaciduria	716747007	Dicarboxylic aminoaciduria syndrome	1000
+363	99914	Gynandroblastoma	Gynandroblastoma	26735007	Gynandroblastoma	1000
+364	905	Wilson disease	Wilson disease	192640001	Cerebral pseudosclerosis	1000
+365	251902	Atypical papilloma of choroid plexus	Atypical papilloma of choroid plexus	128904001	Atypical choroid plexus papilloma	1000
+366	319223	Argentine hemorrhagic fever	Argentine hemorrhagic fever	58868000	AHF - Argentinian haemorrhagic fever	1000
+367	97282	VIPoma	VIPoma	39998009	Excessive vasoactive intestinal peptide secretion	1000
+368	53689	Congenital chloride diarrhea	Congenital chloride diarrhea	24412005	Congenital chloridorrhea	1000
+369	137583	Vulvar intraepithelial neoplasia	Vulvar intraepithelial neoplasia	399382009	Dysplasia of vulva	1000
+370	499	Kerion celsi	Kerion celsi	19087001	Kerion	1000
+371	238459	SLC35A1-CDG	SLC35A1-CDG	723624008	CMP-sialic acid transporter deficiency	1000
+372	832	Succinyl-CoA:3-ketoacid CoA transferase deficiency	Succinyl-CoA:3-ketoacid CoA transferase deficiency	238004006	3-Ketoacid CoA transferase deficiency	1000
+373	493	Familial keratoacanthoma	Familial keratoacanthoma	716774008	Familial keratoacanthoma	1000
+374	44	Neonatal adrenoleukodystrophy	Neonatal adrenoleukodystrophy	238061001	Neonatal adrenoleucodystrophy	1000
+375	157850	Pantothenate kinase-associated neurodegeneration	Pantothenate kinase-associated neurodegeneration	2992000	Hallervorden-Spatz disease	1000
+376	626	Large congenital melanocytic nevus	Large congenital melanocytic nevus	398943008	Congenital dermal melanocytic naevus	1000
+377	333	Farber disease	Farber disease	79935000	Acid ceramidase deficiency	1000
+378	93351	Spondyloepimetaphyseal dysplasia, Irapa type	Spondyloepimetaphyseal dysplasia, Irapa type	717330004	Spondyloepimetaphyseal dysplasia Irapa type	1000
+379	98772	Spinocerebellar ataxia type 19/22	Spinocerebellar ataxia type 19/22	719251009	Spinocerebellar ataxia type 19	1000
+380	70591	Chronic thromboembolic pulmonary hypertension	Chronic thromboembolic pulmonary hypertension	233947005	Chronic thromboembolic pulmonary hypertension	1000
+381	1501	Adrenocortical carcinoma	Adrenocortical carcinoma	255035007	Adrenal carcinoma	1000
+382	412	Dysbetalipoproteinemia	Dysbetalipoproteinemia	398796005	Apolipoprotein E deficiency	1000
+383	180234	Mixed germ cell tumor	Mixed germ cell tumor	32844007	Mixed germ cell tumor	1000
+384	25968	Benign occipital epilepsy	Benign occipital epilepsy	770623004	Benign occipital epilepsy	1000
+385	251656	Oligoastrocytoma	Oligoastrocytoma	22217002	Oligoastrocytoma	1000
+386	353	Autosomal recessive limb-girdle muscular dystrophy type 2C	Autosomal recessive limb-girdle muscular dystrophy type 2C	240056002	Severe autosomal recessive muscular dystrophy of childhood - North African type	1000
+387	33573	Gamma-glutamyl transpeptidase deficiency	Gamma-glutamyl transpeptidase deficiency	78586005	Gamma-glutamyl transpeptidase deficiency	1000
+388	2572	Spastic ataxia-corneal dystrophy syndrome	Spastic ataxia-corneal dystrophy syndrome	715465001	Bedouin spastic ataxia syndrome	1000
+389	2340	Keratosis follicularis spinulosa decalvans	Keratosis follicularis spinulosa decalvans	238626006	Keratosis follicularis spinulosa decalvans	1000
+390	210128	Urocanic aciduria	Urocanic aciduria	60952007	Urocanase deficiency	1000
+391	31709	Infantile convulsions and choreoathetosis	Infantile convulsions and choreoathetosis	715534008	ICCA syndrome	1000
+392	1177	Early-onset cerebellar ataxia with retained tendon reflexes	Early-onset cerebellar ataxia with retained tendon reflexes	230228004	EOCA - Early onset cerebellar ataxia with retained tendon reflexes	1000
+393	178338	UV-sensitive syndrome	UV-sensitive syndrome	698253007	UV sensitive syndrome	1000
+394	69723	Tyrosinemia type 3	Tyrosinemia type 3	413356003	4-Hydroxyphenylpyruvate dioxygenase deficiency	1000
+395	53351	X-linked dystonia-parkinsonism	X-linked dystonia-parkinsonism	698279003	Lubag	1000
+396	77297	Majeed syndrome	Majeed syndrome	703540008	Chronic recurrent multifocal osteomyelitis, congenital dyserythropoietic anaemia and neutrophilic dermatosis	1000
+397	79321	ALG3-CDG	ALG3-CDG	720976009	ALG3 congenital disorder of glycosylation	1000
+398	363483	Testicular teratoma	Testicular teratoma	255106001	Teratoma of testis	1000
+399	397587	Deep dermatophytosis	Deep dermatophytosis	266152000	Deep seated dermatophytosis	1000
+400	103909	Trehalase deficiency	Trehalase deficiency	84193000	Alpha, alpha-trehalase deficiency	1000
+401	821	Sotos syndrome	Sotos syndrome	75968004	Cerebral giant	1000
+402	264675	Hereditary pulmonary alveolar proteinosis	Hereditary pulmonary alveolar proteinosis	707442002	Congenital pulmonary alveolar proteinosis	1000
+403	66631	CEDNIK syndrome	CEDNIK syndrome	722385008	CEDNIK (cerebral dysgenesis, neuropathy, ichthyosis, keratoderma) syndrome	1000
+404	228119	Fusariosis	Fusariosis	64250002	Fusarium infection	1000
+405	1901	Dermatosparaxis Ehlers-Danlos syndrome	Dermatosparaxis Ehlers-Danlos syndrome	55711009	Dermatosparaxis	1000
+406	98912	Late-onset distal myopathy, Markesbery-Griggs type	Late-onset distal myopathy, Markesbery-Griggs type	770558006	Late-onset distal myopathy Markesbery Griggs type	1000
+407	177	Rhizomelic chondrodysplasia punctata	Rhizomelic chondrodysplasia punctata	56692003	Chondrodysplasia punctata, autosomal recessive type	1000
+408	79238	Galactose epimerase deficiency	Galactose epimerase deficiency	8849004	Epimerase deficiency	1000
+409	1451	CINCA syndrome	CINCA syndrome	239826001	CINCA - Chronic infantile neurological, cutaneous and articular syndrome	1000
+410	251899	Choroid plexus carcinoma	Choroid plexus carcinoma	88252006	Choroid plexus carcinoma	1000
+411	551	MERRF	MERRF	230426003	Fukuhara syndrome	1000
+412	2290	Microvillus inclusion disease	Microvillus inclusion disease	235729009	Congenital microvillous atrophy	1000
+413	52368	Mohr-Tranebjaerg syndrome	Mohr-Tranebjaerg syndrome	702423009	Deafness-dystonia syndrome	1000
+414	98957	Gelatinous drop-like corneal dystrophy	Gelatinous drop-like corneal dystrophy	418946006	Lattice corneal dystrophy Type III	1000
+415	70567	Cholangiocarcinoma	Cholangiocarcinoma	70179006	Cholangiocarcinoma	1000
+416	86911	Epilepsy with myoclonic absences	Epilepsy with myoclonic absences	230422001	Epilepsy with myoclonic absences	1000
+417	407	Glycine encephalopathy	Glycine encephalopathy	237939006	Disorder of glycine cleavage enzyme complex	1000
+418	90368	Hypotrichosis simplex of the scalp	Hypotrichosis simplex of the scalp	717256009	Hereditary hypotrichosis simplex of scalp	1000
+419	99871	Eosinophilic granuloma	Eosinophilic granuloma	128810002	Eosinophilic granuloma	1000
+420	231457	Acute pandysautonomia	Acute pandysautonomia	430042004	Acute panautonomic neuropathy	1000
+421	36397	Adiposis dolorosa	Adiposis dolorosa	71404003	Adiposis dolorosa	1000
+422	41751	Bietti crystalline dystrophy	Bietti crystalline dystrophy	312927001	Bietti crystalline retinopathy	1000
+423	2309	Pachyonychia congenita	Pachyonychia congenita	39427000	Congenital pachyonychia	1000
+424	98870	Congenital dyserythropoietic anemia type III	Congenital dyserythropoietic anemia type III	26409005	Congenital dyserythropoietic anaemia type III	1000
+425	85414	Systemic-onset juvenile idiopathic arthritis	Systemic-onset juvenile idiopathic arthritis	201796004	Juvenile arthritis with systemic onset	1000
+426	2855	Perrault syndrome	Perrault syndrome	93466004	Gonadal dysgenesis with auditory dysfunction, autosomal recessive inheritance	1000
+427	93315	Spondylometaphyseal dysplasia, 'corner fracture' type	Spondylometaphyseal dysplasia, 'corner fracture' type	254078005	Spondylometaphyseal dysplasia - Sutcliffe type	1000
+428	99002	Reticular dystrophy of the retinal pigment epithelium	Reticular dystrophy of the retinal pigment epithelium	723502001	Reticular dystrophy of retinal pigment epithelium	1000
+429	2613	Nail-patella-like renal disease	Nail-patella-like renal disease	236527004	Nail patella-like renal disease	1000
+430	93282	Spondyloepimetaphyseal dysplasia, PAPSS2 type	Spondyloepimetaphyseal dysplasia, PAPSS2 type	719172003	Spondyloepimetaphyseal dysplasia 3-prime-phosphoadenosine 5-prime-phosphosulfate synthase 2 type	1000
+431	79395	Keratoderma hereditarium mutilans with ichthyosis	Keratoderma hereditarium mutilans with ichthyosis	717183001	Camisa disease	1000
+432	879	Tungiasis	Tungiasis	64612002	Chigoe disease	1000
+433	89843	Dystrophic epidermolysis bullosa pruriginosa	Dystrophic epidermolysis bullosa pruriginosa	403810008	Epidermolysis bullosa pruriginosa	1000
+434	54368	Sarcocystosis	Sarcocystosis	88905005	Sarcocystiosis	1000
+435	2114	Hip dysplasia, Beukes type	Hip dysplasia, Beukes type	721148005	Beukes familial hip dysplasia	1000
+436	482	Kimura disease	Kimura disease	399894006	Kimura disease	1000
+437	28378	Tyrosinemia type 2	Tyrosinemia type 2	124287008	Deficiency of tyrosine aminotransferase	1000
+438	752	46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency	46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency	50658006	17-KSR deficiency	1000
+439	160	Castleman disease	Castleman disease	781094002	Angiofollicular lymph node hyperplasia	1000
+440	3096	Reye syndrome	Reye syndrome	74351001	Reye syndrome	1000
+441	53715	Familial tumoral calcinosis	Familial tumoral calcinosis	61778004	Tumoral calcinosis	1000
+442	79506	Cholesterol-ester transfer protein deficiency	Cholesterol-ester transfer protein deficiency	238080004	Hyperalphalipoproteinaemia	1000
+443	71517	Rapid-onset dystonia-parkinsonism	Rapid-onset dystonia-parkinsonism	702323008	DYT12 - dystonia 12	1000
+444	289377	Early-onset myopathy with fatal cardiomyopathy	Early-onset myopathy with fatal cardiomyopathy	702343002	Early onset myopathy with fatal cardiomyopathy	1000
+445	839	Congenital nephrotic syndrome, Finnish type	Congenital nephrotic syndrome, Finnish type	197601003	CNF - Finnish congenital nephrotic syndrome	1000
+446	101083	Charcot-Marie-Tooth disease type 1C	Charcot-Marie-Tooth disease type 1C	4183003	Charcot-Marie-Tooth disease, type IC	1000
+447	2274	Ichthyosis-hepatosplenomegaly-cerebellar degeneration syndrome	Ichthyosis-hepatosplenomegaly-cerebellar degeneration syndrome	403779009	Ichthyosis, cerebellar degeneration and hepatosplenomegaly	1000
+448	2030	Fibrosarcoma	Fibrosarcoma	443250000	Fibrosarcoma	1000
+449	2907	Hereditary acrokeratotic poikiloderma	Hereditary acrokeratotic poikiloderma	238835001	Hereditary acrokeratotic poikiloderma of Weary	1000
+450	69126	Pyogenic arthritis-pyoderma gangrenosum-acne syndrome	Pyogenic arthritis-pyoderma gangrenosum-acne syndrome	724015007	Familial recurrent arthritis	1000
+451	2788	Osteoporosis-pseudoglioma syndrome	Osteoporosis-pseudoglioma syndrome	254112001	Osteoporosis with pseudoglioma	1000
+452	98908	Neutral lipid storage myopathy	Neutral lipid storage myopathy	699315005	Neutral lipid storage disease with myopathy	1000
+453	1187	Lethal ataxia with deafness and optic atrophy	Lethal ataxia with deafness and optic atrophy	702441001	Arts syndrome	1000
+454	140896	Acute respiratory coronavirus infection	Acute respiratory coronavirus infection	398447004	SARS	1000
+455	859	Transcobalamin deficiency	Transcobalamin deficiency	237934001	TCN2 - Transcobalamin II deficiency	1000
+456	3464	Woodhouse-Sakati syndrome	Woodhouse-Sakati syndrome	237616002	Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	1000
+457	399293	Osteonecrosis of the jaw	Osteonecrosis of the jaw	441809006	Aseptic necrosis of bone of jaw	1000
+458	86845	Acute myeloid leukaemia with myelodysplasia-related features	Acute myeloid leukaemia with myelodysplasia-related features	445448008	Acute myeloid leukaemia with multilineage dysplasia	1000
+459	2593	Tubular aggregate myopathy	Tubular aggregate myopathy	240087000	Myopathy with tubular aggregates	1000
+460	45358	Congenital fibrosis of extraocular muscles	Congenital fibrosis of extraocular muscles	400946004	Congenital fibrosis of extraocular muscles	1000
+461	772	Infantile Refsum disease	Infantile Refsum disease	238062008	Infantile Refsum disease	1000
+462	38	Acrokeratoelastoidosis of Costa	Acrokeratoelastoidosis of Costa	111029001	Acrokerato-elastoidosis	1000
+463	98873	Congenital dyserythropoietic anemia type II	Congenital dyserythropoietic anemia type II	68870007	Congenital dyserythropoietic anaemia, type II	1000
+464	331	Congenital factor XIII deficiency	Congenital factor XIII deficiency	50189006	Hereditary factor XIII deficiency disease	1000
+465	213531	Metaplastic carcinoma of the breast	Metaplastic carcinoma of the breast	763479005	Metaplastic carcinoma of breast	1000
+466	99812	LIG4 syndrome	LIG4 syndrome	724177005	DNA (deoxyribonucleic acid) ligase IV deficiency	1000
+467	873	Desmoid tumor	Desmoid tumor	725049005	Aggressive fibromatosis	1000
+468	78	Ankylostomiasis	Ankylostomiasis	63479002	Ancylostomiasis	1000
+469	731	Autosomal recessive polycystic kidney disease	Autosomal recessive polycystic kidney disease	28770003	ARPKD - Autosomal recessive polycystic kidney disease	1000
+470	3068	Intellectual disability-myopathy-short stature-endocrine defect syndrome	Intellectual disability-myopathy-short stature-endocrine defect syndrome	764959000	Chudley Rozdilsky syndrome	1000
+471	558	Marfan syndrome	Marfan syndrome	19346006	Marfan syndrome	1000
+472	329308	Fatty acid hydroxylase-associated neurodegeneration	Fatty acid hydroxylase-associated neurodegeneration	702419001	Dysmyelinating leukodystrophy and spastic paraparesis	1000
+473	117	Behçet disease	Behçet disease	310701003	Adamantiades-Behcet disease	1000
+474	90033	Autoimmune hemolytic anemia, warm type	Autoimmune hemolytic anemia, warm type	3978000	AIHA - Warm autoimmune haemolytic anaemia	1000
+475	95428	COG8-CDG	COG8-CDG	717774004	COG8 (component of oligomeric golgi complex 8) congenital disorder of glycosylation	1000
+476	644	NARP syndrome	NARP syndrome	237984008	NARP - Neurogenic muscle weakness, ataxia and retinitis pigmentosa	1000
+477	104075	Adenocarcinoma of the small instestine	Adenocarcinoma of the small instestine	424440001	Adenocarcinoma of small intestine	1000
+478	98849	Systemic mastocytosis with an associated clonal hematologic non-mast cell lineage disease	Systemic mastocytosis with an associated clonal hematologic non-mast cell lineage disease	397357000	Systemic mastocytosis with AHNMD	1000
+479	178	Chordoma	Chordoma	50007008	Chordoma	1000
+480	79456	Diffuse cutaneous mastocytosis	Diffuse cutaneous mastocytosis	703826004	Diffuse cutaneous mastocytosis	1000
+481	402823	Hepatitis delta	Hepatitis delta	707341005	Hepatitis D	1000
+482	329	Congenital factor XI deficiency	Congenital factor XI deficiency	49762007	Congenital factor XI deficiency disease	1000
+483	1145	Infantile-onset X-linked spinal muscular atrophy	Infantile-onset X-linked spinal muscular atrophy	719836007	Spinal muscular atrophy with arthrogryposis	1000
+484	3010	Qazi-Markouizos syndrome	Qazi-Markouizos syndrome	721887007	Dysharmonic skeletal maturation and muscular fiber disproportion syndrome	1000
+485	23	Argininosuccinic aciduria	Argininosuccinic aciduria	41013004	ASAL deficiency	1000
+486	408	Isolated glycerol kinase deficiency	Isolated glycerol kinase deficiency	297256008	Glycerol kinase deficiency - isolated	1000
+487	45	Adenosine monophosphate deaminase deficiency	Adenosine monophosphate deaminase deficiency	124525004	Deficiency of AMP aminase	1000
+488	664	Ornithine transcarbamylase deficiency	Ornithine transcarbamylase deficiency	80908008	Deficiency of citrulline phosphorylase	1000
+489	1345	Cardiomyopathy-cataract-hip spine disease syndrome	Cardiomyopathy-cataract-hip spine disease syndrome	720609003	Cardiomyopathy with cataract and hip spine disease syndrome	1000
+490	343	Hyperimmunoglobulinemia D with periodic fever	Hyperimmunoglobulinemia D with periodic fever	234538002	Hyperimmunoglobulin D with periodic fever	1000
+491	517	Acute myelomonocytic leukemia	Acute myelomonocytic leukemia	110005000	AMML - Acute myelomonocytic leukaemia	1000
+492	281201	Keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	Keratosis linearis-ichthyosis congenita-sclerosing keratoderma syndrome	763775000	KLICK syndrome	1000
+493	73229	HANAC syndrome	HANAC syndrome	702428000	Autosomal dominant familial haematuria, retinal arteriolar tortuosity, contractures	1000
+494	83642	Microcytic anemia with liver iron overload	Microcytic anemia with liver iron overload	711161006	Hypochromic microcytic anaemia with iron overload	1000
+495	180247	Vaginal carcinoma	Vaginal carcinoma	254893005	Carcinoma of vagina	1000
+496	848	Beta-thalassemia	Beta-thalassemia	65959000	Beta thalassaemia	1000
+497	79329	MGAT2-CDG	MGAT2-CDG	277894008	CDG - Carbohydrate-deficient glycoprotein syndrome type II	1000
+498	166016	Multiple epiphyseal dysplasia, Lowry type	Multiple epiphyseal dysplasia, Lowry type	768935003	Multiple epiphyseal dysplasia Lowry type	1000
+499	842	Testicular seminomatous germ cell tumor	Testicular seminomatous germ cell tumor	443675005	Seminoma	1000
+500	137678	Czech dysplasia, metatarsal type	Czech dysplasia, metatarsal type	720826006	Czech dysplasia metatarsal type	1000
+501	101028	Transaldolase deficiency	Transaldolase deficiency	124252008	Deficiency of dihydroxyacetonetransferase	1000
+502	91412	Marcus-Gunn syndrome	Marcus-Gunn syndrome	5127009	Abnormal eyelid innervation syndrome	1000
+503	469	Hereditary fructose intolerance	Hereditary fructose intolerance	20052008	ALDB - aldolase B deficiency	1000
+504	175	Cartilage-hair hypoplasia	Cartilage-hair hypoplasia	7720002	Cartilage hair syndrome	1000
+505	221139	Combined immunodeficiency with faciooculoskeletal anomalies	Combined immunodeficiency with faciooculoskeletal anomalies	770625006	Combined immunodeficiency with faciooculoskeletal anomalies syndrome	1000
+506	3143	Autoimmune polyendocrinopathy type 2	Autoimmune polyendocrinopathy type 2	83728000	APS type 2	1000
+507	97290	Familial papillary thyroid carcinoma with renal papillary neoplasia	Familial papillary thyroid carcinoma with renal papillary neoplasia	717734005	Papillary thyroid carcinoma with renal papillary neoplasia	1000
+508	168816	Peritoneal cystic mesothelioma	Peritoneal cystic mesothelioma	86562005	Cystic mesothelioma	1000
+509	927	Hyperammonemia due to N-acetylglutamate synthase deficiency	Hyperammonemia due to N-acetylglutamate synthase deficiency	57119000	AGA deficiency	1000
+510	3386	American trypanosomiasis	American trypanosomiasis	77506005	American trypanosomiasis	1000
+511	289326	Tropical spastic paraparesis	Tropical spastic paraparesis	714279000	HTLV-I-associated myelopathy	1000
+512	263463	CHST3-related skeletal dysplasia	CHST3-related skeletal dysplasia	702400006	Autosomal recessive Larsen syndrome	1000
+513	35708	Aromatic L-amino acid decarboxylase deficiency	Aromatic L-amino acid decarboxylase deficiency	237922009	Aromatic amino acid decarboxylase deficiency	1000
+514	2379	Early-onset parkinsonism-intellectual disability syndrome	Early-onset parkinsonism-intellectual disability syndrome	716107009	Early onset parkinsonism and intellectual disability syndrome	1000
+515	163927	Pustulosis palmaris et plantaris	Pustulosis palmaris et plantaris	27520001	Acropustulosis	1000
+516	46486	Mucous membrane pemphigoid	Mucous membrane pemphigoid	34250006	Benign mucosal pemphigoid	1000
+517	575	Muckle-Wells syndrome	Muckle-Wells syndrome	15123008	Amyloid nephropathy with deafness and urticaria	1000
+518	318	Acute erythroid leukemia	Acute erythroid leukemia	14317002	AML M6	1000
+519	2552	Microsporidiosis	Microsporidiosis	65883009	Infection by Microspora	1000
+520	99916	Malignant Sertoli-Leydig cell tumor of the ovary	Malignant Sertoli-Leydig cell tumor of the ovary	62283005	Androblastoma	1000
+521	653	Multiple endocrine neoplasia type 2	Multiple endocrine neoplasia type 2	721188000	MEN (multiple endocrine neoplasia) type 2A	1000
+522	79320	ALG6-CDG	ALG6-CDG	709412006	Carbohydrate deficient glycoprotein syndrome type 1c	1000
+523	2579	Muscular atrophy-ataxia-retinitis pigmentosa-diabetes mellitus syndrome	Muscular atrophy-ataxia-retinitis pigmentosa-diabetes mellitus syndrome	237611007	Muscular atrophy, ataxia, retinitis pigmentosa, and diabetes mellitus	1000
+524	420611	Transient myeloproliferative syndrome	Transient myeloproliferative syndrome	450934005	Transient abnormal myelopoiesis	1000
+525	34592	Immunodeficiency by defective expression of MHC class I	Immunodeficiency by defective expression of MHC class I	725136003	Bare lymphocyte syndrome type 1	1000
+526	882	Tyrosinemia type 1	Tyrosinemia type 1	124536006	Deficiency of beta-diketonase	1000
+527	231249	Hemoglobin E-beta-thalassemia syndrome	Hemoglobin E-beta-thalassemia syndrome	234392002	Double heterozygous for Hb E and beta thalassaemia	1000
+528	274	Bernard-Soulier syndrome	Bernard-Soulier syndrome	54569005	Bernard Soulier syndrome	1000
+529	391665	Homozygous familial hypercholesterolemia	Homozygous familial hypercholesterolemia	238078005	Familial homozygous hypercholesterolaemia	1000
+530	252054	Hemangioblastoma	Hemangioblastoma	81201000	Angioblastoma	1000
+531	85332	X-linked intellectual disability-retinitis pigmentosa syndrome	X-linked intellectual disability-retinitis pigmentosa syndrome	719808002	Aldred syndrome	1000
+532	69663	Low phospholipid-associated cholelithiasis	Low phospholipid-associated cholelithiasis	715577009	Cholelithiasis with ABCB4 gene mutation	1000
+533	238624	Idiopathic intracranial hypertension	Idiopathic intracranial hypertension	68267002	BIH - Benign intracranial hypertension	1000
+534	168486	Congenital neuronal ceroid lipofuscinosis	Congenital neuronal ceroid lipofuscinosis	42012007	Cerebromacular degeneration	1000
+535	587	Muir-Torre syndrome	Muir-Torre syndrome	403824007	Muir-Torré syndrome	1000
+536	199354	CARASIL	CARASIL	703219008	CARASIL syndrome	1000
+537	166291	Dirofilariasis	Dirofilariasis	73328005	Dirofilariasis	1000
+538	33069	Dravet syndrome	Dravet syndrome	230437002	Dravet Syndrome	1000
+539	2841	Familial benign chronic pemphigus	Familial benign chronic pemphigus	79468000	Benign familial chronic pemphigus	1000
+540	90117	Hereditary motor and sensory neuropathy, Okinawa type	Hereditary motor and sensory neuropathy, Okinawa type	715665006	Hereditary motor and sensory neuropathy Okinawa type	1000
+541	404507	Chondromyxoid fibroma	Chondromyxoid fibroma	39553005	CMF - Chondromyxoid fibroma	1000
+542	146	Differentiated thyroid carcinoma	Differentiated thyroid carcinoma	255029007	PTC - papillary thyroid carcinoma	1000
+543	66630	Congenital pseudoarthrosis of the clavicle	Congenital pseudoarthrosis of the clavicle	70794004	Congenital pseudoarthrosis of clavicle	1000
+544	101082	Charcot-Marie-Tooth disease type 1B	Charcot-Marie-Tooth disease type 1B	42986003	Charcot-Marie-Tooth disease, type IB	1000
+545	289891	Hypermethioninemia due to glycine N-methyltransferase deficiency	Hypermethioninemia due to glycine N-methyltransferase deficiency	763720007	Glycine N-methyltransferase deficiency	1000
+546	166415	Audiogenic seizures	Audiogenic seizures	765216006	Audiogenic epilepsy	1000
+547	478	Kallmann syndrome	Kallmann syndrome	93559003	Anosmia eunuchoidism	1000
+548	633	Laron syndrome	Laron syndrome	38196001	Laron dwarfism	1000
+549	424002	Squamous cell carcinoma of the rectum	Squamous cell carcinoma of the rectum	766979005	Rectal squamous cell carcinoma	1000
+550	98757	Spinocerebellar ataxia type 3	Spinocerebellar ataxia type 3	91952008	Azorean disease	1000
+551	33314	Jessner lymphocytic infiltration of the skin	Jessner lymphocytic infiltration of the skin	19719003	Benign lymphocytic infiltration of Jessner	1000
+552	140927	Benign familial neonatal-infantile seizures	Benign familial neonatal-infantile seizures	230410004	BFNC - Benign familial neonatal convulsions	1000
+553	312	Autosomal dominant epidermolytic ichthyosis	Autosomal dominant epidermolytic ichthyosis	254167000	BIE - Bullous ichthyosiform erythroderma	1000
+554	168555	Spondylometaphyseal dysplasia, A4 type	Spondylometaphyseal dysplasia, A4 type	782912001	Spondylometaphyseal dysplasia A4 type	1000
+555	793	SAPHO syndrome	SAPHO syndrome	60684003	SAPHO - Synovitis, acne, pustulosis palmaris, hyperostosis, osteomyelitis syndrome	1000
+556	2590	Spinal muscular atrophy-progressive myoclonic epilepsy syndrome	Spinal muscular atrophy-progressive myoclonic epilepsy syndrome	703524005	Hereditary myoclonus with progressive distal muscular atrophy	1000
+557	3196	Steroid dehydrogenase deficiency-dental anomalies syndrome	Steroid dehydrogenase deficiency-dental anomalies syndrome	723583009	Lyngstadaas syndrome	1000
+558	166029	Multiple epiphyseal dysplasia, with severe proximal femoral dysplasia	Multiple epiphyseal dysplasia, with severe proximal femoral dysplasia	763893008	Multiple epiphyseal dysplasia with severe proximal femoral dysplasia	1000
+559	251915	Papillary tumor of the pineal region	Papillary tumor of the pineal region	450899004	Papillary tumor of the pineal region	1000
+560	1598	Monosomy 18p	Monosomy 18p	270890001	18p- syndrome	1000
+561	71213	Retinal capillary malformation	Retinal capillary malformation	312937006	Cavernous haemangioma of retina	1000
+562	3463	Wolfram syndrome	Wolfram syndrome	70694009	DIDMOAD - Diabetes insipidus, diabetes mellitus, optic atrophy and deafness	1000
+563	871	Familial progressive cardiac conduction defect	Familial progressive cardiac conduction defect	283645003	Lenegre syndrome	1000
+564	35687	Erdheim-Chester disease	Erdheim-Chester disease	699537002	Erdheim-Chester disease	1000
+565	849	Glanzmann thrombasthenia	Glanzmann thrombasthenia	32942005	Glanzmann thromboasthenia	1000
+566	97286	Carney-Stratakis syndrome	Carney-Stratakis syndrome	722377004	Carney Stratakis dyad	1000
+567	93958	Oromandibular dystonia	Oromandibular dystonia	230328001	Isolated oromandibular dystonia	1000
+568	79330	MOGS-CDG	MOGS-CDG	725028009	Carbohydrate deficient glycoprotein syndrome type IIb	1000
+569	166032	Multiple epiphyseal dysplasia, with miniepiphyses	Multiple epiphyseal dysplasia, with miniepiphyses	766750008	Multiple epiphyseal dysplasia with miniepiphyses	1000
+570	86309	DPAGT1-CDG	DPAGT1-CDG	725079003	Carbohydrate deficient glycoprotein syndrome type Ij	1000
+571	163696	Action myoclonus-renal failure syndrome	Action myoclonus-renal failure syndrome	764453009	AMRF - action myoclonus renal failure	1000
+572	319	Ewing sarcoma	Ewing sarcoma	76909002	Ewing sarcoma	1000
+573	98975	Congenital hereditary endothelial dystrophy type I	Congenital hereditary endothelial dystrophy type I	417651000	CHED-congenital hereditary endothelial dystrophy	1000
+574	1008	Alopecia-epilepsy-pyorrhea-intellectual disability syndrome	Alopecia-epilepsy-pyorrhea-intellectual disability syndrome	720980004	Alopecia, psychomotor epilepsy, periodontal pyorrhea, intellectual disability syndrome	1000
+575	869	Triple A syndrome	Triple A syndrome	45414006	Achalasia-addisonian syndrome	1000
+576	576	Mucolipidosis type II	Mucolipidosis type II	70199000	I-cell - Inclusion cell disease	1000
+577	79127	Respiratory bronchiolitis-interstitial lung disease syndrome	Respiratory bronchiolitis-interstitial lung disease syndrome	129451001	Bronchiolitis with interstitial lung disease	1000
+578	79153	Idiopathic trachyonychia	Idiopathic trachyonychia	238719003	Trachonychia	1000
+579	50918	Kikuchi-Fujimoto disease	Kikuchi-Fujimoto disease	127217009	Histiocytic necrotising lymphadenitis	1000
+580	251883	Medulloepithelioma of the central nervous system	Medulloepithelioma of the central nervous system	39005004	Diktyoma	1000
+581	157954	ANE syndrome	ANE syndrome	770941005	ANE (alopecia, progressive neurological defect, endocrinopathy) syndrome	1000
+582	61	Alpha-mannosidosis	Alpha-mannosidosis	65524005	Alpha-D-mannosidosis	1000
+583	180237	Benign tumor of fallopian tubes	Benign tumor of fallopian tubes	92100009	Benign neoplasm of fallopian tube	1000
+584	94090	Pseudohypoparathyroidism type 2	Pseudohypoparathyroidism type 2	42183005	Pseudohypoparathyroidism type II	1000
+585	85165	Severe achondroplasia-developmental delay-acanthosis nigricans syndrome	Severe achondroplasia-developmental delay-acanthosis nigricans syndrome	699870002	SADDAN - Severe achondrolasia with developmental delay and acanthosis nigricans	1000
+586	99906	Farmer's lung disease	Farmer's lung disease	18690003	Farmers lung	1000
+587	221117	Gerstmann syndrome	Gerstmann syndrome	36785009	Aphasia-angular gyrus syndrome	1000
+588	79404	Junctional epidermolysis bullosa, generalized severe	Junctional epidermolysis bullosa, generalized severe	79855003	Epidermolysis bullosa hereditaria letalis	1000
+589	67042	Late-onset retinal degeneration	Late-onset retinal degeneration	719431007	Autosomal dominant late-onset retinal degeneration	1000
+590	86854	Splenic marginal zone lymphoma	Splenic marginal zone lymphoma	116691000119101	Marginal zone lymphoma of spleen	1000
+591	384	Huriez syndrome	Huriez syndrome	239076000	Huriez syndrome	1000
+592	79078	IgG4-related dacryoadenitis and sialadenitis	IgG4-related dacryoadenitis and sialadenitis	7826003	Mikulicz disease	1000
+593	98907	Neutral lipid storage disease with ichthyosis	Neutral lipid storage disease with ichthyosis	19604005	Chanarin-Dorfman disease	1000
+594	3217	Deafness-small bowel diverticulosis-neuropathy syndrome	Deafness-small bowel diverticulosis-neuropathy syndrome	733071009	Deafness, small bowel diverticulosis, neuropathy syndrome	1000
+595	324625	Chikungunya	Chikungunya	111864006	Chikungunya fever	1000
+596	85197	Genochondromatosis type 1	Genochondromatosis type 1	389264005	Genochondromatosis	1000
+597	2346	Angioosteohypertrophic syndrome	Angioosteohypertrophic syndrome	723991007	Angio-osteohypertrophic syndrome	1000
+598	477	KID syndrome	KID syndrome	239059004	KIDS - Keratitis ichthyosis and deafness syndrome	1000
+599	596	X-linked centronuclear myopathy	X-linked centronuclear myopathy	46804001	Severe x-linked myotubular myopathy	1000
+600	889	Cutaneous small vessel vasculitis	Cutaneous small vessel vasculitis	60555002	Allergic vasculitis	1000
+601	764	Pyomyositis	Pyomyositis	65110003	Pyomyositis	1000
+602	327	Congenital factor VII deficiency	Congenital factor VII deficiency	37193007	Deficiency of stable factor	1000
+603	1125	Ocular motor apraxia, Cogan type	Ocular motor apraxia, Cogan type	405809000	Oculomotor apraxia - Cogan type	1000
+604	37	Acrodermatitis enteropathica	Acrodermatitis enteropathica	37702000	AE - Acrodermatitis enteropathica	1000
+605	202	Crandall syndrome	Crandall syndrome	278098005	Crandall syndrome	1000
+606	1062	Hereditary neurocutaneous malformation	Hereditary neurocutaneous malformation	403775003	Hereditary neurocutaneous angiomata	1000
+607	180275	Paget disease of the nipple	Paget disease of the nipple	403946000	Paget disease of nipple	1000
+608	321	Multiple osteochondromas	Multiple osteochondromas	254044004	Diaphyseal aclasia	1000
+609	206569	Immune-mediated necrotizing myopathy	Immune-mediated necrotizing myopathy	715863001	Autoimmune necrotising myopathy	1000
+610	414	Gyrate atrophy of choroid and retina	Gyrate atrophy of choroid and retina	314467007	Gyrate atrophy	1000
+611	52530	Pseudo-von Willebrand disease	Pseudo-von Willebrand disease	270117002	Platelet type pseudo-von Willebrand disease	1000
+612	2969	Proteus-like syndrome	Proteus-like syndrome	716862002	Cohen-Hayden syndrome	1000
+613	487	Krabbe disease	Krabbe disease	189979005	Diffuse globoid body sclerosis	1000
+614	168950	Myeloid/lymphoid neoplasm associated with PDGFRB rearrangement	Myeloid/lymphoid neoplasm associated with PDGFRB rearrangement	450941004	Myeloid neoplasm with PDGFRB rearrangement	1000
+615	40923	Eales disease	Eales disease	54122009	Eales' disease	1000
+616	263508	COG1-CDG	COG1-CDG	718750004	CDG2G - carbohydrate deficient glycoprotein syndrome type 2G	1000
+617	168454	Spondyloepimetaphyseal dysplasia, Geneviève type	Spondyloepimetaphyseal dysplasia, Geneviève type	773303005	SEMDG - spondyloepimetaphyseal dysplasia Genevieve type	1000
+618	642	Hereditary sensory and autonomic neuropathy type 4	Hereditary sensory and autonomic neuropathy type 4	62985007	Autosomal recessive hereditary sensory neuropathy	1000
+619	43393	Lambert-Eaton myasthenic syndrome	Lambert-Eaton myasthenic syndrome	56989000	Eaton-Lambert syndrome	1000
+620	565	Menkes disease	Menkes disease	59178007	Congenital hypocupraemia	1000
+621	137639	Hypomyelinating leukodystrophy-ataxia-hypodontia-hypomyelination syndrome	Hypomyelinating leukodystrophy-ataxia-hypodontia-hypomyelination syndrome	721846006	4H syndrome	1000
+622	306682	Manganese poisoning	Manganese poisoning	447288004	Manganese poisoning	1000
+623	35173	X-linked dominant chondrodysplasia punctata	X-linked dominant chondrodysplasia punctata	66924005	Calcinosis universalis	1000
+624	67041	Hyaluronidase deficiency	Hyaluronidase deficiency	124473006	Deficiency of hyaluronidase	1000
+625	86873	Aggressive NK-cell leukemia	Aggressive NK-cell leukemia	277569004	LGLL - Large granular lymphocytic leukaemia	1000
+626	3005	Pyle disease	Pyle disease	27837003	Pyle disease	1000
+627	35704	L-Arginine:glycine amidinotransferase deficiency	L-Arginine:glycine amidinotransferase deficiency	702440000	Arginine:glycine amidinotransferase deficiency	1000
+628	90790	Congenital lipoid adrenal hyperplasia due to STAR deficency	Congenital lipoid adrenal hyperplasia due to STAR deficency	44231009	20,22-Desmolase deficiency	1000
+629	634	Netherton syndrome	Netherton syndrome	312514006	Axial osteosclerosis with bamboo hair	1000
+630	307766	Curly hair-acral keratoderma-caries syndrome	Curly hair-acral keratoderma-caries syndrome	763686007	CHACS - curly hair, acral keratoderma, caries syndrome	1000
+631	300	Bifunctional enzyme deficiency	Bifunctional enzyme deficiency	238068007	Bifunctional peroxisomal enzyme deficiency	1000
+632	35121	Lysosomal acid phosphatase deficiency	Lysosomal acid phosphatase deficiency	57863006	Acid phosphatase deficiency	1000
+633	330021	Mercury poisoning	Mercury poisoning	767299002	Hydrargyria	1000
+634	140969	Saldino-Mainzer syndrome	Saldino-Mainzer syndrome	254092004	Conorenal syndrome	1000
+635	805	Tuberous sclerosis complex	Tuberous sclerosis complex	7199000	Adenoma sebaceum syndrome	1000
+636	2295	Familial articular hypermobility syndrome	Familial articular hypermobility syndrome	71322004	Ehlers-Danlos syndrome type XI	1000
+637	753	46,XY disorder of sex development due to 5-alpha-reductase 2 deficiency	46,XY disorder of sex development due to 5-alpha-reductase 2 deficiency	57514000	3-Oxo-5 alpha-steroid delta 4-dehydrogenase deficiency	1000
+638	1414	Cholestasis-lymphedema syndrome	Cholestasis-lymphedema syndrome	28724005	Aagenaes syndrome	1000
+639	1899	Arthrochalasia Ehlers-Danlos syndrome	Arthrochalasia Ehlers-Danlos syndrome	55711009	Arthrochalasia multiplex congenita	1000
+640	229	Familial aortic dissection	Familial aortic dissection	45894003	Erdheim's cystic medial necrosis	1000
+641	319646	PGM1-CDG	PGM1-CDG	783717008	Congenital disorder of glycosylation type 1t	1000
+642	88642	Channelopathy-associated congenital insensitivity to pain	Channelopathy-associated congenital insensitivity to pain	128206006	Congenital sensory neuropathy with selective loss of small myelinated fibers	1000
+643	1856	Spondyloperipheral dysplasia-short ulna syndrome	Spondyloperipheral dysplasia-short ulna syndrome	702339001	Spondyloperipheral dysplasia	1000
+644	231401	Alpha-thalassemia-myelodysplastic syndrome	Alpha-thalassemia-myelodysplastic syndrome	307343001	Acquired haemoglobin H disease	1000
+645	779	Reynolds syndrome	Reynolds syndrome	715401008	Primary biliary cirrhosis co-occurrent with systemic scleroderma	1000
+646	90042	Primary familial polycythemia	Primary familial polycythemia	17342003	Familial erythrocytosis	1000
+647	773	Refsum disease	Refsum disease	25362006	HSMN IV	1000
+648	1662	Restrictive dermopathy	Restrictive dermopathy	400128006	Infantile restrictive dermopathy	1000
+649	2253	Foveal hypoplasia-presenile cataract syndrome	Foveal hypoplasia-presenile cataract syndrome	778042000	Foveal hypoplasia with presenile cataract syndrome	1000
+650	307936	Hypotrichosis-osteolysis-periodontitis-palmoplantar keratoderma syndrome	Hypotrichosis-osteolysis-periodontitis-palmoplantar keratoderma syndrome	763658004	HOPP syndrome	1000
+651	101150	Autosomal recessive dopa-responsive dystonia	Autosomal recessive dopa-responsive dystonia	715827001	Autosomal recessive Segawa syndrome	1000
+652	251589	Anaplastic astrocytoma	Anaplastic astrocytoma	55353007	Anaplastic astrocytoma	1000
+653	309854	Cirrhosis-dystonia-polycythemia-hypermanganesemia syndrome	Cirrhosis-dystonia-polycythemia-hypermanganesemia syndrome	702377007	HMDPC - hypermanganesemia with dystonia, polycythaemia and cirrhosis	1000
+654	99807	PEHO-like syndrome	PEHO-like syndrome	770678005	PEHO-like syndrome	1000
+655	399	Huntington disease	Huntington disease	58756001	Chronic progressive chorea	1000
+656	99925	Invasive mole	Invasive mole	18799007	Chorioadenoma	1000
+657	251957	Anaplastic ganglioglioma	Anaplastic ganglioglioma	128912009	Ganglioglioma, anaplastic	1000
+658	54370	Primary membranoproliferative glomerulonephritis	Primary membranoproliferative glomerulonephritis	80321008	Lobular glomerulonephritis	1000
+659	95455	Stevens-Johnson syndrome/toxic epidermal necrolysis spectrum	Stevens-Johnson syndrome/toxic epidermal necrolysis spectrum	768962006	Lyell syndrome	1000
+660	58040	Osteoblastoma	Osteoblastoma	55333008	Giant osteoid osteoma	1000
+661	199343	EAST syndrome	EAST syndrome	721207002	SESAME (seizures, sensorineural deafness, ataxia, mental retardation, electrolyte imbalance) syndrome	1000
+662	124	Blackfan-Diamond anemia	Blackfan-Diamond anemia	88854002	Chronic constitutional pure red cell anaemia	1000
+663	228165	Baló concentric sclerosis	Baló concentric sclerosis	230380005	Balo concentric sclerosis	1000
+664	280628	Familial progressive hyper- and hypopigmentation	Familial progressive hyper- and hypopigmentation	715630006	Familial progressive hyperpigmentation	1000
+665	139491	Hemochromatosis type 4	Hemochromatosis type 4	719975002	Autosomal dominant hereditary haemochromatosis	1000
+666	65287	Beta-ureidopropionase deficiency	Beta-ureidopropionase deficiency	124511000	Deficiency of beta-ureidopropionase	1000
+667	284417	Phosphoserine aminotransferase deficiency	Phosphoserine aminotransferase deficiency	718603002	Deficiency of phosphoserine aminotransferase	1000
+668	26	Methylmalonic acidemia with homocystinuria	Methylmalonic acidemia with homocystinuria	74653006	CblC - Cobalamin locus C	1000
+669	87503	Mal de Meleda	Mal de Meleda	239069005	Acroerythrokeratoderma	1000
+670	330	Congenital factor XII deficiency	Congenital factor XII deficiency	46981006	Factor XII deficiency	1000
+671	86908	Idiopathic hemiconvulsion-hemiplegia syndrome	Idiopathic hemiconvulsion-hemiplegia syndrome	230407006	H-H-E syndrome	1000
+672	93352	Spondyloepimetaphyseal dysplasia, Shohat type	Spondyloepimetaphyseal dysplasia, Shohat type	719201004	Spondyloepimetaphyseal dysplasia Shohat type	1000
+673	99868	Thymic carcinoma	Thymic carcinoma	444596001	Malignant thymoma	1000
+674	98806	Primary dystonia, DYT6 type	Primary dystonia, DYT6 type	702448007	Dystonia 6	1000
+675	98832	Acute myeloid leukemia with minimal differentiation	Acute myeloid leukemia with minimal differentiation	103689001	Acute granulocytic leukaemia, minimal differentiation	1000
+676	2875	Phakomatosis pigmentovascularis	Phakomatosis pigmentovascularis	403545005	Phakomatosis pigmentovascularis	1000
+677	166433	Reading seizures	Reading seizures	7689009	Reading epilepsy	1000
+678	231	Dracunculiasis	Dracunculiasis	396334002	Dracontiasis	1000
+679	73256	Central neurocytoma	Central neurocytoma	128858006	Central neurocytoma	1000
+680	70568	Post-transplant lymphoproliferative disease	Post-transplant lymphoproliferative disease	254290004	Lymphoproliferative disorder following transplantation	1000
+681	398058	Squamous cell carcinoma of the penis	Squamous cell carcinoma of the penis	403468003	Cancer of the penis, squamous cell	1000
+682	440706	Ribose-5-P isomerase deficiency	Ribose-5-P isomerase deficiency	124667004	Deficiency of phosphopentosisomerase	1000
+683	71273	Renal nutcracker syndrome	Renal nutcracker syndrome	717267005	Left renal vein (LRV) entrapment syndrome	1000
+684	3287	Takayasu arteritis	Takayasu arteritis	359789008	Acquired aortoarteritis	1000
+685	97335	Osgood-Schlatter disease	Osgood-Schlatter disease	72047008	Juvenile osteochondrosis of tibial tubercle	1000
+686	663	Mitochondrial DNA-related progressive external ophthalmoplegia	Mitochondrial DNA-related progressive external ophthalmoplegia	46252003	CPEO - chronic progressive external ophthalmoplegia	1000
+687	93932	FG syndrome type 1	FG syndrome type 1	49984004	FG syndrome	1000
+688	97234	Glycogen storage disease due to phosphoglycerate mutase deficiency	Glycogen storage disease due to phosphoglycerate mutase deficiency	37666005	GSD X	1000
+689	30924	Primary hypomagnesemia with secondary hypocalcemia	Primary hypomagnesemia with secondary hypocalcemia	711151004	Familial primary hypomagnesaemia with hypocalcuria	1000
+690	58017	Classic hairy cell leukemia	Classic hairy cell leukemia	118613001	HCL - Hairy cell leukaemia	1000
+691	79143	Isolated congenital anonychia	Isolated congenital anonychia	23610003	ANN - Anonychia	1000
+692	1247	Schistosomiasis	Schistosomiasis	10087007	Bilharzia	1000
+693	79322	DPM1-CDG	DPM1-CDG	725078006	Carbohydrate deficient glycoprotein syndrome type Ie	1000
+694	2848	Camptodactyly-arthropathy-coxa-vara-pericarditis syndrome	Camptodactyly-arthropathy-coxa-vara-pericarditis syndrome	771187008	Arthropathy camptodactyly syndrome	1000
+695	397973	Intellectual disability-obesity-prognathism-eye and skin anomalies syndrome	Intellectual disability-obesity-prognathism-eye and skin anomalies syndrome	774102003	Intellectual disability, obesity, prognathism, eye and skin anomalies syndrome	1000
+696	750	Pseudoachondroplasia	Pseudoachondroplasia	22567005	Pseudoachondroplasia	1000
+697	388	Hirschsprung disease	Hirschsprung disease	204739008	Aganglionic megacolon	1000
+698	1929	Rasmussen subacute encephalitis	Rasmussen subacute encephalitis	230191005	Rasmussen encephalitis	1000
+699	251630	Anaplastic oligodendroglioma	Anaplastic oligodendroglioma	3102004	Anaplastic oligodendroglioma	1000
+700	101081	Charcot-Marie-Tooth disease type 1A	Charcot-Marie-Tooth disease type 1A	40632002	Charcot-Marie-Tooth disease, type IA	1000
+701	324964	Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis	Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis	240151005	CRMO - Chronic multifocal osteomyelitis	1000
+702	454714	Plasma cell leukemia	Plasma cell leukemia	128922003	Plasma cell leukaemia	1000
+703	602	GNE myopathy	GNE myopathy	702382000	Distal myopathy with rimmed vacuoles	1000
+704	67044	Thrombocytopenia with congenital dyserythropoietic anemia	Thrombocytopenia with congenital dyserythropoietic anemia	713388002	Dyserythropoietic anaemia and thrombocytopaenia	1000
+705	79332	B4GALT1-CDG	B4GALT1-CDG	725587007	B4GALT1-CDG - Beta-1,4-galactosyltransferase deficiency congenital disorder of glycosylation	1000
+706	26348	Acquired prothrombin deficiency	Acquired prothrombin deficiency	191298004	Acquired factor II deficiency	1000
+707	71290	Familial platelet disorder with associated myeloid malignancy	Familial platelet disorder with associated myeloid malignancy	725034002	Familial platelet disorder with associated myeloid malignancy	1000
+708	139507	African iron overload	African iron overload	66576001	African nutritional haemochromatosis	1000
+709	2331	Kawasaki disease	Kawasaki disease	75053002	Acute febrile mucocutaneous lymph node syndrome	1000
+710	156	Carnitine palmitoyl transferase 1A deficiency	Carnitine palmitoyl transferase 1A deficiency	238001003	CPT1 - Carnitine palmitoyltransferase I deficiency	1000
+711	139402	Drug rash with eosinophilia and systemic symptoms	Drug rash with eosinophilia and systemic symptoms	702809001	Anticonvulsant hypersensitivity syndrome	1000
+712	2269	Ichthyosis-alopecia-eclabion-ectropion-intellectual disability syndrome	Ichthyosis-alopecia-eclabion-ectropion-intellectual disability syndrome	763404001	Ichthyosis, alopecia, eclabion, ectropion, intellectual disability syndrome	1000
+713	33577	Nodular non-suppurative panniculitis	Nodular non-suppurative panniculitis	33760009	Relapsing febrile nodular nonsuppurative panniculitis	1000
+714	313838	Coats plus syndrome	Coats plus syndrome	711482008	Cerebroretinal microangiopathy with calcifications and cysts	1000
+715	2942	Postpoliomyelitis syndrome	Postpoliomyelitis syndrome	31097004	Post poliomyelitis syndrome	1000
+716	79084	Familial partial lipodystrophy, Köbberling type	Familial partial lipodystrophy, Köbberling type	725035001	Familial partial lipodystrophy Kobberling type	1000
+717	1496	Corpus callosum agenesis-neuronopathy syndrome	Corpus callosum agenesis-neuronopathy syndrome	702439002	Agenesis of corpus callosum with peripheral neuropathy	1000
+718	255210	Mitochondrial DNA-associated Leigh syndrome	Mitochondrial DNA-associated Leigh syndrome	717052002	Maternally inherited Leigh disease	1000
+719	220	Denys-Drash syndrome	Denys-Drash syndrome	236385009	Drash syndrome	1000
+720	64745	Pruritic urticarial papules and plaques of pregnancy	Pruritic urticarial papules and plaques of pregnancy	88697005	PEP - Polymorphic eruption of pregnancy	1000
+721	99826	Marburg hemorrhagic fever	Marburg hemorrhagic fever	77503002	Green monkey disease	1000
+722	2126	Solitary fibrous tumor	Solitary fibrous tumor	134335004	HPA - haemangiopericytoma	1000
+723	6	3-methylcrotonyl-CoA carboxylase deficiency	3-methylcrotonyl-CoA carboxylase deficiency	13144005	beta-Methylcrotonylglycinuria, type 1	1000
+724	455	Superficial epidermolytic ichthyosis	Superficial epidermolytic ichthyosis	254169002	Ichthyosis bullosa of Siemens	1000
+725	70594	Dopa-responsive dystonia due to sepiapterin reductase deficiency	Dopa-responsive dystonia due to sepiapterin reductase deficiency	45116002	7,8-Dihydrobiopterin synthetase deficiency	1000
+726	83469	Desmoplastic small round cell tumor	Desmoplastic small round cell tumor	128735004	Desmoplastic small round cell tumor	1000
+727	90186	Meige disease	Meige disease	77123007	Lymphedema praecox	1000
+728	133	Chronic beryllium disease	Chronic beryllium disease	18121009	Beryllium granuloma	1000
+729	420561	Temple-Baraitser syndrome	Temple-Baraitser syndrome	725140007	Severe intellectual disability, hypoplasia of thumb and hallux syndrome	1000
+730	2406	Locked-in syndrome	Locked-in syndrome	38023001	Locked in syndrome	1000
+731	98818	Landau-Kleffner syndrome	Landau-Kleffner syndrome	230438007	Acquired aphasia with epilepsy	1000
+732	88637	Hypomyelination-hypogonadotropic hypogonadism-hypodontia syndrome	Hypomyelination-hypogonadotropic hypogonadism-hypodontia syndrome	721846006	4H syndrome	1000
+733	168443	Spondyloepimetaphyseal dysplasia-hypotrichosis syndrome	Spondyloepimetaphyseal dysplasia-hypotrichosis syndrome	773300008	Spondyloepimetaphyseal dysplasia, hypotrichosis syndrome	1000
+734	251359	Sickle cell-beta-thalassemia disease syndrome	Sickle cell-beta-thalassemia disease syndrome	127042006	Sickle cell-beta+-thalassaemia	1000
+735	231568	Generalized dominant dystrophic epidermolysis bullosa	Generalized dominant dystrophic epidermolysis bullosa	75875004	Albopapuloid dystrophic epidermolysis bullosa of Pasini	1000
+736	168491	Late infantile neuronal ceroid lipofuscinosis	Late infantile neuronal ceroid lipofuscinosis	14637005	Amaurotic idiocy early juvenile type	1000
+737	64	Alström syndrome	Alström syndrome	63702009	Alstrom syndrome	1000
+738	79230	Hemochromatosis type 2	Hemochromatosis type 2	50855007	Juvenile haemochromatosis	1000
+739	36258	Buerger disease	Buerger disease	52403007	Buerger's disease	1000
+740	210122	Congenital alveolar capillary dysplasia	Congenital alveolar capillary dysplasia	708028001	Congenital alveolar capillary dysplasia	1000
+741	20	3-hydroxy-3-methylglutaric aciduria	3-hydroxy-3-methylglutaric aciduria	410059004	Hydroxymethylglutaric aciduria	1000
+742	652	Multiple endocrine neoplasia type 1	Multiple endocrine neoplasia type 1	30664006	MEA, type 1	1000
+743	99976	Adenocarcinoma of the esophagus	Adenocarcinoma of the esophagus	276803003	Adenocarcinoma of esophagus	1000
+744	382	Guanidinoacetate methyltransferase deficiency	Guanidinoacetate methyltransferase deficiency	124239003	Deficiency of guanidinoacetate methyltransferase	1000
+745	64752	Hereditary sensory and autonomic neuropathy type 5	Hereditary sensory and autonomic neuropathy type 5	128206006	Congenital sensory neuropathy with selective loss of small myelinated fibers	1000
+746	3348	Tracheobronchopathia osteochondroplastica	Tracheobronchopathia osteochondroplastica	54675009	Tracheopathia osteochondroplastica	1000
+747	90041	Gaisböck syndrome	Gaisböck syndrome	36874002	Emotional polycythaemia	1000
+748	53693	GRACILE syndrome	GRACILE syndrome	703388005	Fellman syndrome	1000
+749	98977	Juvenile glaucoma	Juvenile glaucoma	71111008	Developmental glaucoma	1000
+750	93160	Hypocalcemic vitamin D-resistant rickets	Hypocalcemic vitamin D-resistant rickets	72831007	Calcitriol receptor defect	1000
+751	22	Succinic semialdehyde dehydrogenase deficiency	Succinic semialdehyde dehydrogenase deficiency	49748000	4--Hydroxybutyric aciduria	1000
+752	846	Alpha-thalassemia	Alpha-thalassemia	36467003	alpha Thalassaemia 2	1000
+753	1824	Lowry-Wood syndrome	Lowry-Wood syndrome	721975004	Epiphyseal dysplasia, microcephalus, nystagmus syndrome	1000
+754	99865	Spermatocytic seminoma	Spermatocytic seminoma	9294008	Spermatocytic seminoma	1000
+755	33276	Kaposi sarcoma	Kaposi sarcoma	109385007	KS - Kaposi's sarcoma	1000
+756	79400	Localized epidermolysis bullosa simplex	Localized epidermolysis bullosa simplex	294705005	DEBS-WC	1000
+757	182050	MYH9-related disease	MYH9-related disease	712922002	MYH9 related disease	1000
+758	232	Sickle cell anemia	Sickle cell anemia	127040003	Drepanocythaemia	1000
+759	168544	Spondylometaphyseal dysplasia, Golden type	Spondylometaphyseal dysplasia, Golden type	773304004	Spondylometaphyseal dysplasia Golden type	1000
+760	166418	Eating reflex epilepsy	Eating reflex epilepsy	230450001	Eating epilepsy	1000
+761	3471	Young syndrome	Young syndrome	233666007	Azoospermia, obstructive and chronic sinopulmonary infections	1000
+762	79507	Hypotonia-failure to thrive-microcephaly syndrome	Hypotonia-failure to thrive-microcephaly syndrome	717185008	Deficiency of leukotriene C4 synthase	1000
+763	166119	Isolated osteopoikilosis	Isolated osteopoikilosis	9147009	Osteopoikilosis	1000
+764	79139	Japanese encephalitis	Japanese encephalitis	52947006	Encephalitis, Japanese	1000
+765	590	Congenital myasthenic syndrome	Congenital myasthenic syndrome	230672006	Congenital myasthenia	1000
+766	51	Aicardi-Goutières syndrome	Aicardi-Goutières syndrome	230312006	Aicardi Goutieres syndrome	1000
+767	238468	Hypohidrotic ectodermal dysplasia	Hypohidrotic ectodermal dysplasia	239007005	CST - Christ-Siemens-Touraine syndrome	1000
+768	545	Follicular lymphoma	Follicular lymphoma	55150002	Brill - Symmers' disease	1000
+769	403	Familial hyperaldosteronism type I	Familial hyperaldosteronism type I	237743003	GSH - Glucocorticoid-suppressible hyperaldosteronism	1000
+770	34587	Glycogen storage disease due to LAMP-2 deficiency	Glycogen storage disease due to LAMP-2 deficiency	419097006	Danon disease	1000
+771	99022	Niemann-Pick disease type E	Niemann-Pick disease type E	73399005	Niemann-Pick disease, adult non-neuronopathic	1000
+772	838	Susac syndrome	Susac syndrome	702575003	Retinocochleocerebral vasculopathy	1000
+773	98909	Desminopathy	Desminopathy	770627003	Desmin-related myofibrillar myopathy	1000
+774	104	Leber hereditary optic neuropathy	Leber hereditary optic neuropathy	58610003	LHON - Leber hereditary optic neuropathy	1000
+775	2116	Hartnup disease	Hartnup disease	124208000	Deficiency of tryptophan 2,3-dioxygenase	1000
+776	631	Non-acquired isolated growth hormone deficiency	Non-acquired isolated growth hormone deficiency	367460001	Hypopituitary dwarfism	1000
+777	90285	Lupus erythematosus panniculitis	Lupus erythematosus panniculitis	15084002	Lupus erythematosus profundus	1000
+778	2700	Noma	Noma	18116006	Acute gangrenous stomatitis	1000
+779	90793	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	124220008	17 alpha-Hydroxylase deficiency	1000
+780	79399	Epidermolysis bullosa simplex, generalized intermediate	Epidermolysis bullosa simplex, generalized intermediate	90496008	Epidermolysis bullosa simplex, Kobner type	1000
+781	98919	Miller-Fisher syndrome	Miller-Fisher syndrome	1767005	Fisher syndrome	1000
+782	1942	Myoclonic-astastic epilepsy	Myoclonic-astastic epilepsy	230421008	Doose syndrome	1000
+783	163654	Spondyloepiphyseal dysplasia, Cantu type	Spondyloepiphyseal dysplasia, Cantu type	718765003	Spondyloepiphyseal dysplasia Cantu type	1000
+784	43115	Hereditary myopathy with lactic acidosis due to ISCU deficiency	Hereditary myopathy with lactic acidosis due to ISCU deficiency	699268002	Hereditary myopathy with lactic acidosis	1000
+785	1930	Herpes simplex virus encephalitis	Herpes simplex virus encephalitis	428638009	Encephalitis caused by Herpesviridae	1000
+786	199251	Ledderhose disease	Ledderhose disease	13370002	Dupuytren disease of foot	1000
+787	79138	Bickerstaff brainstem encephalitis	Bickerstaff brainstem encephalitis	427086003	Bickerstaff brainstem encephalitis	1000
+788	2800	Extramammary Paget disease	Extramammary Paget disease	232336001	Paget disease of skin	1000
+789	371	Glycogen storage disease due to muscle phosphofructokinase deficiency	Glycogen storage disease due to muscle phosphofructokinase deficiency	89597008	GSD VII	1000
+790	163699	Alveolar soft tissue sarcoma	Alveolar soft tissue sarcoma	404056007	Alveolar soft part sarcoma	1000
+791	51608	Generalized arterial calcification of infancy	Generalized arterial calcification of infancy	68926002	Idiopathic arterial calcification of infancy	1000
+792	84142	Isaac syndrome	Isaac syndrome	711406009	Autosomal recessive axonal neuropathy with neuromyotonia	1000
+793	757	Pseudohypoaldosteronism type 2	Pseudohypoaldosteronism type 2	703254001	Gordon hyperkalaemia-hypertension syndrome	1000
+794	289685	Myopericytoma	Myopericytoma	400065005	Myopericytoma	1000
+795	36899	Myoclonus-dystonia syndrome	Myoclonus-dystonia syndrome	439732004	Myoclonic dystonia	1000
+796	583	Mucopolysaccharidosis type 6	Mucopolysaccharidosis type 6	69463008	ARSB - Arylsulfatase B deficiency	1000
+797	35706	Glutaric acidemia type 3	Glutaric acidemia type 3	238070003	Glutaryl-CoA oxidase deficiency	1000
+798	99725	Pituitary gigantism	Pituitary gigantism	80849007	Genetic giant	1000
+799	169467	Recurrent Neisseria infections due to factor D deficiency	Recurrent Neisseria infections due to factor D deficiency	234607008	Factor D deficiency	1000
+800	454718	Holmes-Adie syndrome	Holmes-Adie syndrome	24225004	Adie's pupil syndrome	1000
+801	2404	Loiasis	Loiasis	44250009	Eyeworm disease of Africa	1000
+802	661	Ondine syndrome	Ondine syndrome	399040002	CCHS - Congenital central hypoventilation	1000
+803	88621	Ichthyosis-prematurity syndrome	Ichthyosis-prematurity syndrome	763401009	Congenital ichthyosis type 4	1000
+804	101085	Charcot-Marie-Tooth disease type 1F	Charcot-Marie-Tooth disease type 1F	719980006	Charcot-Marie-Tooth disease type 1F	1000
+805	103908	Congenital sodium diarrhea	Congenital sodium diarrhea	18805001	Congenital secretory diarrhea, sodium type	1000
+806	2222	Hypertrichosis lanuginosa congenita	Hypertrichosis lanuginosa congenita	56797000	Congenital hypertrichosis	1000
+807	2196	Familial primary hypomagnesemia with hypercalciuria and nephrocalcinosis with severe ocular involvement	Familial primary hypomagnesemia with hypercalciuria and nephrocalcinosis with severe ocular involvement	717787005	Familial hypomagnesaemia hypercalciuria nephrocalcinosis with severe ocular involvement	1000
+808	369	Glycogen storage disease due to liver glycogen phosphorylase deficiency	Glycogen storage disease due to liver glycogen phosphorylase deficiency	29291001	GSD VI	1000
+809	86849	Acute basophilic leukemia	Acute basophilic leukemia	69077002	Acute basophilic leukaemia	1000
+810	85453	X-linked reticulate pigmentary disorder	X-linked reticulate pigmentary disorder	702412005	Partington X-linked intellectual disability syndrome	1000
+811	251679	Astroblastoma	Astroblastoma	48952003	Astroblastoma	1000
+812	2233	Hypogonadism-mitral valve prolapse-intellectual disability syndrome	Hypogonadism-mitral valve prolapse-intellectual disability syndrome	721841001	Cantalamessa Baldini Ambrosi syndrome	1000
+813	137867	Madras motor neuron disease	Madras motor neuron disease	230255008	Madras-type motor neurone disease	1000
+814	1180	Ataxia-hypogonadism-choroidal dystrophy syndrome	Ataxia-hypogonadism-choroidal dystrophy syndrome	715984007	Boucher Neuhäuser syndrome	1000
+815	3243	Sweet syndrome	Sweet syndrome	84625002	Acute febrile neutrophilic dermatosis	1000
+816	57145	SUNCT syndrome	SUNCT syndrome	725058003	SUNCT (short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing) syndrome	1000
+817	79432	Oculocutaneous albinism type 2	Oculocutaneous albinism type 2	26336006	Albinoidism	1000
+818	98831	Acute myeloid leukemia with 11q23 abnormalities	Acute myeloid leukemia with 11q23 abnormalities	128829008	Acute myeloid leukaemia with t(9;11)(p22;q23); MLLT3-MLL	1000
+819	293462	Pre-Descemet corneal dystrophy	Pre-Descemet corneal dystrophy	231934009	Pre-descemet corneal dystrophy	1000
+820	241	Dyschromatosis universalis hereditaria	Dyschromatosis universalis hereditaria	239082002	Dyschromatosis universalis	1000
+821	247262	Hyperphosphatasia-intellectual disability syndrome	Hyperphosphatasia-intellectual disability syndrome	33982008	Hyperphosphatasaemia with intellectual disability	1000
+822	98841	Anaplastic large cell lymphoma	Anaplastic large cell lymphoma	277637000	(Ki-1+) lymphoma	1000
+823	98961	Reis-Bücklers corneal dystrophy	Reis-Bücklers corneal dystrophy	231930000	CDB type I corneal dystrophy	1000
+824	140989	Primary angiitis of the central nervous system	Primary angiitis of the central nervous system	699814001	Idiopathic angiitis of central nervous system	1000
+825	328	Congenital factor X deficiency	Congenital factor X deficiency	76642003	Factor 10 deficiency	1000
+826	247203	Collecting duct carcinoma	Collecting duct carcinoma	733470002	Bellini carcinoma	1000
+827	154	Familial isolated dilated cardiomyopathy	Familial isolated dilated cardiomyopathy	52029003	Familial dilated cardiomyopathy	1000
+828	37553	Andersen-Tawil syndrome	Andersen-Tawil syndrome	422348008	Andersen Tawil syndrome	1000
+829	231237	Delta-beta-thalassemia	Delta-beta-thalassemia	16360009	Delta-beta thalassaemia	1000
+830	2604	Familial visceral myopathy	Familial visceral myopathy	63684002	Familial visceral myopathy	1000
+831	178540	Primary cutaneous follicle center lymphoma	Primary cutaneous follicle center lymphoma	404143002	Crosti's lymphoma	1000
+832	1652	Dent disease	Dent disease	444645005	Dent disease	1000
+833	98967	Schnyder corneal dystrophy	Schnyder corneal dystrophy	39662004	Crystalline corneal dystrophy	1000
+834	79239	Classic galactosemia	Classic galactosemia	124354006	Classical galactosaemia	1000
+835	230839	Classical-like Ehlers-Danlos syndrome type 1	Classical-like Ehlers-Danlos syndrome type 1	778022009	Ehlers-Danlos syndrome classic-like type	1000
+836	348	Fructose-1,6-bisphosphatase deficiency	Fructose-1,6-bisphosphatase deficiency	28183005	Fructose-1,6-bisphosphatase deficiency	1000
+837	300557	Carcinoma of the ampulla of Vater	Carcinoma of the ampulla of Vater	254609000	Ampullary carcinoma	1000
+838	180242	Malignant tumor of fallopian tubes	Malignant tumor of fallopian tubes	363444001	Malignant tumor of fallopian tube	1000
+839	263482	Spondyloepiphyseal dysplasia, Maroteaux type	Spondyloepiphyseal dysplasia, Maroteaux type	389165004	Brachyolmia - Maroteaux type	1000
+840	91348	Functioning gonadotropic adenoma	Functioning gonadotropic adenoma	254960002	Gonadotroph adenoma	1000
+841	171714	Amish infantile epilepsy syndrome	Amish infantile epilepsy syndrome	722762005	Amish infantile epilepsy syndrome	1000
+842	435	Ito hypomelanosis	Ito hypomelanosis	218358001	HMI - Hypomelanosis of Ito	1000
+843	221106	Isolated facial myokymia	Isolated facial myokymia	1070000	Facial myokymia	1000
+844	70587	Infant acute respiratory distress syndrome	Infant acute respiratory distress syndrome	46775006	HMD - Hyaline membrane disease	1000
+845	847	Alpha-thalassemia-X-linked intellectual disability syndrome	Alpha-thalassemia-X-linked intellectual disability syndrome	715342005	Alpha thalassaemia X-linked intellectual deficit	1000
+846	2342	Haim-Munk syndrome	Haim-Munk syndrome	719973009	Haim Munk syndrome	1000
+847	169085	Susceptibility to respiratory infections associated with CD8alpha chain mutation	Susceptibility to respiratory infections associated with CD8alpha chain mutation	766983005	Familial CD8 deficiency	1000
+848	239	Dyggve-Melchior-Clausen disease	Dyggve-Melchior-Clausen disease	82699004	Dyggve-Melchior-Clausen dysplasia	1000
+849	251365	Sickle cell-hemoglobin C disease syndrome	Sickle cell-hemoglobin C disease syndrome	35434009	Double heterozygous for Hb S and Hb D	1000
+850	99901	Acyl-CoA dehydrogenase 9 deficiency	Acyl-CoA dehydrogenase 9 deficiency	725046003	ACAD9 (acyl-CoA dehydrogenase 9) deficiency	1000
+851	134	Beta-ketothiolase deficiency	Beta-ketothiolase deficiency	124258007	3-Ketothiolase deficiency	1000
+852	766	Hemolytic anemia due to red cell pyruvate kinase deficiency	Hemolytic anemia due to red cell pyruvate kinase deficiency	124331002	Deficiency of phosphoenol transphosphorylase	1000
+853	98791	Alpha-thalassemia-intellectual disability syndrome linked to chromosome 16	Alpha-thalassemia-intellectual disability syndrome linked to chromosome 16	734349003	ATR-16 syndrome	1000
+854	79242	Holocarboxylase synthetase deficiency	Holocarboxylase synthetase deficiency	15307001	Biotin-(propionyl-CoA-carboxylase) ligase deficiency	1000
+855	99886	Transient neonatal diabetes mellitus	Transient neonatal diabetes mellitus	609579009	Diabetes mellitus, transient neonatal 1	1000
+856	293621	X-linked endothelial corneal dystrophy	X-linked endothelial corneal dystrophy	718579008	X-linked endothelial corneal dystrophy	1000
+857	1957	Esthesioneuroblastoma	Esthesioneuroblastoma	422886007	Aesthesioneuroblastoma	1000
+858	206473	Borderline epithelial tumor of ovary	Borderline epithelial tumor of ovary	764791008	Borderline epithelial neoplasm of ovary	1000
+859	98954	Meesmann corneal dystrophy	Meesmann corneal dystrophy	1674008	Juvenile epithelial corneal dystrophy	1000
+860	289157	Hypocalcemic vitamin D-dependent rickets	Hypocalcemic vitamin D-dependent rickets	67049004	25-Hydroxycholecalciferol-1-hydroxylase deficiency	1000
+861	386	Hepatic cystic hamartoma	Hepatic cystic hamartoma	27721004	Biliary hamartoma	1000
+862	263435	Congenital smooth muscle hamartoma	Congenital smooth muscle hamartoma	239144007	Congenital arrector pili hamartoma	1000
+863	58	Alexander disease	Alexander disease	81854007	Alexander disease	1000
+864	139525	Distal hereditary motor neuropathy type 2	Distal hereditary motor neuropathy type 2	763533003	Autosomal recessive distal spinal muscular atrophy type 2	1000
+865	168811	Malignant peritoneal mesothelioma	Malignant peritoneal mesothelioma	109853004	Cancer of the peritoneum, mesothelioma	1000
+866	251962	Papillary glioneuronal tumor	Papillary glioneuronal tumor	450902001	Papillary glioneuronal tumor	1000
+867	1878	Autosomal recessive limb-girdle muscular dystrophy type 2H	Autosomal recessive limb-girdle muscular dystrophy type 2H	240064008	Hutterite type of muscular dystrophy	1000
+868	46135	Primary central nervous system lymphoma	Primary central nervous system lymphoma	307649006	Microglioma	1000
+869	2737	Onchocerciasis	Onchocerciasis	240842000	Ocular onchocerciasis	1000
+870	89840	Junctional epidermolysis bullosa, non-Herlitz type	Junctional epidermolysis bullosa, non-Herlitz type	724225008	Junctional epidermolysis bullosa non-Herlitz type	1000
+871	2505	Multiple benign circumferential skin creases on limbs	Multiple benign circumferential skin creases on limbs	239142006	Lipomatous hypertrophy	1000
+872	909	Cerebrotendinous xanthomatosis	Cerebrotendinous xanthomatosis	63246000	CTX - Cerebrotendinous xanthomatosis	1000
+873	357154	Oral submucous fibrosis	Oral submucous fibrosis	32883009	Oral submucosal fibrosis	1000
+874	98869	Congenital dyserythropoietic anemia type I	Congenital dyserythropoietic anemia type I	59548005	Congenital dyserythropoietic anaemia type I	1000
+875	699	Pearson syndrome	Pearson syndrome	237985009	Pearson syndrome	1000
+876	35858	Imerslund-Gräsbeck syndrome	Imerslund-Gräsbeck syndrome	34925000	Congenital pernicious anaemia	1000
+877	3145	Nephrogenic diabetes insipidus-intracranial calcification syndrome	Nephrogenic diabetes insipidus-intracranial calcification syndrome	716200002	Nephrogenic diabetes insipidus and intracranial calcification syndrome	1000
+878	91347	TSH-secreting pituitary adenoma	TSH-secreting pituitary adenoma	254959007	TSH-oma	1000
+879	169	Ringed hair disease	Ringed hair disease	21926007	Pili annulati	1000
+880	64754	Nevus comedonicus syndrome	Nevus comedonicus syndrome	35962006	Acne naevus	1000
+881	337	Fibrodysplasia ossificans progressiva	Fibrodysplasia ossificans progressiva	82725007	Diffuse progressive ossifying polymyositis	1000
+882	113	Bazex-Dupré-Christol syndrome	Bazex-Dupré-Christol syndrome	254820002	Bazex syndrome	1000
+883	91364	Non-specific interstitial pneumonia	Non-specific interstitial pneumonia	129452008	Nonspecific interstitial pneumonia	1000
+884	79324	ALG12-CDG	ALG12-CDG	711155008	ALG12-congenital disorder of glycosylation	1000
+885	549	Legionellosis	Legionellosis	26726000	Legionella infection	1000
+886	93347	Anauxetic dysplasia	Anauxetic dysplasia	764460003	Anauxetic dysplasia	1000
+887	64744	IgG4-related thyroid disease	IgG4-related thyroid disease	89024000	Invasive fibrous thyroiditis	1000
+888	213625	Leiomyosarcoma of the corpus uteri	Leiomyosarcoma of the corpus uteri	770559003	Leiomyosarcoma of body of uterus	1000
+889	543	Burkitt lymphoma	Burkitt lymphoma	118617000	BL - Burkitt's lymphoma	1000
+890	157826	Congenital epulis	Congenital epulis	360525006	Congenital gingival granular cell tumor	1000
+891	2232	Primary hypergonadotropic hypogonadism-partial alopecia syndrome	Primary hypergonadotropic hypogonadism-partial alopecia syndrome	719275009	Al Awadi Farag Teebi syndrome	1000
+892	75858	MORM syndrome	MORM syndrome	715628009	Intellectual disability, truncal obesity, retinal dystrophy and micropenis syndrome	1000
+893	3162	Sézary syndrome	Sézary syndrome	4950009	Sezary syndrome	1000
+894	251595	Diffuse astrocytoma	Diffuse astrocytoma	397381007	Diffuse astrocytoma	1000
+895	2380	Legg-Calvé-Perthes disease	Legg-Calvé-Perthes disease	240241003	Coxa plana	1000
+896	180226	Embryonal carcinoma	Embryonal carcinoma	28047004	Embryonal adenocarcinoma	1000
+897	309246	GM2 gangliosidosis, AB variant	GM2 gangliosidosis, AB variant	71253000	AB variant	1000
+898	137596	Neurotrophic keratopathy	Neurotrophic keratopathy	128080005	Anaesthetic keratopathy	1000
+899	563	Peripartum cardiomyopathy	Peripartum cardiomyopathy	16253001	Dilated cardiomyopathy secondary to peripartum heart disease	1000
+900	86872	T-cell large granular lymphocyte leukemia	T-cell large granular lymphocyte leukemia	699818003	T-cell large granular lymphocytic leukaemia	1000
+901	84064	Syndromic diarrhea	Syndromic diarrhea	703406006	Fatal infantile diarrhea with trichorrhexis nodosa	1000
+902	79096	Pyridoxal phosphate-responsive seizures	Pyridoxal phosphate-responsive seizures	724576005	Pyridoxal 5-phosphate dependent epilepsy	1000
+903	3129	Sarcosinemia	Sarcosinemia	64852002	Deficiency of the sarcosine dehydrogenase complex	1000
+904	3350	Tremor-nystagmus-duodenal ulcer syndrome	Tremor-nystagmus-duodenal ulcer syndrome	782935003	Neuhauser Daly Magnelli syndrome	1000
+905	1667	Wolcott-Rallison syndrome	Wolcott-Rallison syndrome	254066006	Epiphyseal dysplasia, multiple, with early onset diabetes mellitus	1000
+906	251671	Angiocentric glioma	Angiocentric glioma	450900009	Angiocentric glioma	1000
+907	183	Eosinophilic granulomatosis with polyangiitis	Eosinophilic granulomatosis with polyangiitis	82275008	Allergic granulomatosis angiitis	1000
+908	2088	Glycogen storage disease due to GLUT2 deficiency	Glycogen storage disease due to GLUT2 deficiency	61598006	Fanconi-Bickel syndrome	1000

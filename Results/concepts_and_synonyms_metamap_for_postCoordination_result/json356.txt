@@ -1,0 +1,275 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Symptomatic form of muscular dystrophy of Duchenne and Becker in female carriers",
+         "UttStartPos": "0",
+         "UttLength": "80",
+         "Phrases": [
+           {
+             "PhraseText": "Symptomatic form of muscular dystrophy of Duchenne",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "symptomatic",
+                 "InputMatch": "Symptomatic",
+                 "LexCat": "adj",
+                 "Tokens": ["symptomatic"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "form",
+                 "InputMatch": "form",
+                 "LexCat": "noun",
+                 "Tokens": ["form"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "of",
+                 "InputMatch": "of",
+                 "LexCat": "prep",
+                 "Tokens": ["of"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "muscular dystrophy",
+                 "InputMatch": "muscular dystrophy",
+                 "LexCat": "noun",
+                 "Tokens": ["muscular","dystrophy"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "of",
+                 "InputMatch": "of",
+                 "LexCat": "prep",
+                 "Tokens": ["of"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "duchenne",
+                 "InputMatch": "Duchenne",
+                 "LexCat": "noun",
+                 "Tokens": ["duchenne"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "50",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-752",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-581",
+                     "CandidateCUI": "C0231220",
+                     "CandidateMatched": "Symptomatic",
+                     "CandidatePreferred": "Symptomatic",
+                     "MatchedWords": ["symptomatic"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "11"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-790",
+                     "CandidateCUI": "C0240417",
+                     "CandidateMatched": "Form of muscle",
+                     "CandidatePreferred": "Form of muscle",
+                     "MatchedWords": ["form","of","muscle"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "3"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "12",
+                         "Length": "16"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "and",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "conj",
+                 "LexMatch": "and",
+                 "InputMatch": "and",
+                 "LexCat": "conj",
+                 "Tokens": ["and"]
+               }],
+             "PhraseStartPos": "51",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "Becker in female carriers",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "becker",
+                 "InputMatch": "Becker",
+                 "LexCat": "noun",
+                 "Tokens": ["becker"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "in",
+                 "InputMatch": "in",
+                 "LexCat": "prep",
+                 "Tokens": ["in"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "female",
+                 "InputMatch": "female",
+                 "LexCat": "noun",
+                 "Tokens": ["female"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "carriers",
+                 "InputMatch": "carriers",
+                 "LexCat": "noun",
+                 "Tokens": ["carriers"]
+               }],
+             "PhraseStartPos": "55",
+             "PhraseLength": "25",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-604",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-604",
+                     "CandidateCUI": "C0007294",
+                     "CandidateMatched": "Genetic disorder carrier",
+                     "CandidatePreferred": "Genetic Carriers",
+                     "MatchedWords": ["carriers"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "72",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

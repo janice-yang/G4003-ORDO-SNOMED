@@ -1,0 +1,192 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Hereditary adult-onset painful axonal polyneuropathy",
+         "UttStartPos": "0",
+         "UttLength": "52",
+         "Phrases": [
+           {
+             "PhraseText": "Hereditary adult-onset painful axonal polyneuropathy",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "hereditary",
+                 "InputMatch": "Hereditary",
+                 "LexCat": "adj",
+                 "Tokens": ["hereditary"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "adult-onset",
+                 "InputMatch": "adult - onset",
+                 "LexCat": "adj",
+                 "Tokens": ["adult","onset"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "painful",
+                 "InputMatch": "painful",
+                 "LexCat": "adj",
+                 "Tokens": ["painful"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "axonal",
+                 "InputMatch": "axonal",
+                 "LexCat": "adj",
+                 "Tokens": ["axonal"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "polyneuropathy",
+                 "InputMatch": "polyneuropathy",
+                 "LexCat": "noun",
+                 "Tokens": ["polyneuropathy"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "52",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-750",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-632",
+                     "CandidateCUI": "C0439660",
+                     "CandidateMatched": "Hereditary",
+                     "CandidatePreferred": "Hereditary",
+                     "MatchedWords": ["hereditary"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-632",
+                     "CandidateCUI": "C0332162",
+                     "CandidateMatched": "Onset of (contextual qualifier)",
+                     "CandidatePreferred": "Onset of (contextual qualifier)",
+                     "MatchedWords": ["onset"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "17",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-799",
+                     "CandidateCUI": "C0152025",
+                     "CandidateMatched": "Polyneuropathy",
+                     "CandidatePreferred": "Polyneuropathy",
+                     "MatchedWords": ["polyneuropathy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "38",
+                         "Length": "14"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

@@ -1,0 +1,194 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Maternally-inherited mitochondrial dystonia",
+         "UttStartPos": "0",
+         "UttLength": "43",
+         "Phrases": [
+           {
+             "PhraseText": "Maternally-inherited mitochondrial dystonia",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "adv",
+                 "LexMatch": "maternally",
+                 "InputMatch": "Maternally",
+                 "LexCat": "adv",
+                 "Tokens": ["maternally"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "inherited",
+                 "InputMatch": "inherited",
+                 "LexCat": "adj",
+                 "Tokens": ["inherited"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "mitochondrial",
+                 "InputMatch": "mitochondrial",
+                 "LexCat": "adj",
+                 "Tokens": ["mitochondrial"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "dystonia",
+                 "InputMatch": "dystonia",
+                 "LexCat": "noun",
+                 "Tokens": ["dystonia"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "43",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-763",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-645",
+                     "CandidateCUI": "C0439660",
+                     "CandidateMatched": "Hereditary",
+                     "CandidatePreferred": "Hereditary",
+                     "MatchedWords": ["inherited"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "11",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-812",
+                     "CandidateCUI": "C0393593",
+                     "CandidateMatched": "Dystonia disorder",
+                     "CandidatePreferred": "Dystonia Disorders",
+                     "MatchedWords": ["dystonia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "35",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-645",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-645",
+                     "CandidateCUI": "C0439660",
+                     "CandidateMatched": "Hereditary",
+                     "CandidatePreferred": "Hereditary",
+                     "MatchedWords": ["inherited"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "11",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

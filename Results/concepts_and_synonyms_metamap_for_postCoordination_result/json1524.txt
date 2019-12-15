@@ -1,0 +1,270 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Early-onset familial autosomal dominant Alzheimer disease",
+         "UttStartPos": "0",
+         "UttLength": "57",
+         "Phrases": [
+           {
+             "PhraseText": "Early-onset familial autosomal dominant Alzheimer disease",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "early-onset",
+                 "InputMatch": "Early - onset",
+                 "LexCat": "adj",
+                 "Tokens": ["early","onset"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "familial",
+                 "InputMatch": "familial",
+                 "LexCat": "adj",
+                 "Tokens": ["familial"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "autosomal dominant",
+                 "InputMatch": "autosomal dominant",
+                 "LexCat": "adj",
+                 "Tokens": ["autosomal","dominant"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "alzheimer disease",
+                 "InputMatch": "Alzheimer disease",
+                 "LexCat": "noun",
+                 "Tokens": ["alzheimer","disease"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "57",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-873",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-835",
+                     "CandidateCUI": "C0750901",
+                     "CandidateMatched": "Alzheimer's disease with early onset",
+                     "CandidatePreferred": "Alzheimer Disease, Early Onset",
+                     "MatchedWords": ["early","onset","alzheimer","disease"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "11"
+                       },
+                       {
+                         "StartPos": "40",
+                         "Length": "17"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-581",
+                     "CandidateCUI": "C0241888",
+                     "CandidateMatched": "Familial",
+                     "CandidatePreferred": "Familial",
+                     "MatchedWords": ["familial"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "12",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-612",
+                     "CandidateCUI": "C0443147",
+                     "CandidateMatched": "Autosomal dominant inheritance",
+                     "CandidatePreferred": "Autosomal dominant inheritance",
+                     "MatchedWords": ["autosomal","dominant"],
+                     "SemTypes": ["genf"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "21",
+                         "Length": "18"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               },
+               {
+                 "MappingScore": "-811",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-835",
+                     "CandidateCUI": "C0750901",
+                     "CandidateMatched": "Alzheimer's disease with early onset",
+                     "CandidatePreferred": "Alzheimer Disease, Early Onset",
+                     "MatchedWords": ["early","onset","alzheimer","disease"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "11"
+                       },
+                       {
+                         "StartPos": "40",
+                         "Length": "17"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-612",
+                     "CandidateCUI": "C0443147",
+                     "CandidateMatched": "Autosomal dominant inheritance",
+                     "CandidatePreferred": "Autosomal dominant inheritance",
+                     "MatchedWords": ["autosomal","dominant"],
+                     "SemTypes": ["genf"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "21",
+                         "Length": "18"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

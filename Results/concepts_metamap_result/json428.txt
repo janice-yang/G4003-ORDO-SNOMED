@@ -1,0 +1,180 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [
+       {
+         "NegType": "nega",
+         "NegTrigger": "non",
+         "NegTriggerPIs": [
+           {
+             "StartPos": "0",
+             "Length": "3"
+           }],
+         "NegConcepts": [
+           {
+             "NegConcCUI": "C0472792",
+             "NegConcMatched": "Hemolytic anemia due to hexokinase deficiency"
+           }],
+         "NegConcPIs": [
+           {
+             "StartPos": "16",
+             "Length": "45"
+           }]
+       }],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Non-spherocytic hemolytic anemia due to hexokinase deficiency",
+         "UttStartPos": "0",
+         "UttLength": "61",
+         "Phrases": [
+           {
+             "PhraseText": "Non-spherocytic hemolytic anemia due to hexokinase deficiency",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "non-spherocytic",
+                 "InputMatch": "Non - spherocytic",
+                 "LexCat": "adj",
+                 "Tokens": ["non","spherocytic"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "hemolytic anemia",
+                 "InputMatch": "hemolytic anemia",
+                 "LexCat": "noun",
+                 "Tokens": ["hemolytic","anemia"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "due to",
+                 "InputMatch": "due to",
+                 "LexCat": "prep",
+                 "Tokens": ["due","to"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "hexokinase",
+                 "InputMatch": "hexokinase",
+                 "LexCat": "noun",
+                 "Tokens": ["hexokinase"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "deficiency",
+                 "InputMatch": "deficiency",
+                 "LexCat": "noun",
+                 "Tokens": ["deficiency"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "61",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-909",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-909",
+                     "CandidateCUI": "C0472792",
+                     "CandidateMatched": "Hemolytic anemia due to hexokinase deficiency",
+                     "CandidatePreferred": "Hemolytic anemia due to hexokinase deficiency",
+                     "MatchedWords": ["hemolytic","anemia","due","to","hexokinase","deficiency"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "5",
+                         "ConcMatchEnd": "5",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "8",
+                         "ConcMatchStart": "6",
+                         "ConcMatchEnd": "6",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "16",
+                         "Length": "45"
+                       }],
+                     "Status": "0",
+                     "Negated": "1"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

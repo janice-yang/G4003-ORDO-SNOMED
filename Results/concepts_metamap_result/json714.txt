@@ -1,0 +1,300 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Severe neurodevelopmental disorder with feeding difficulties-stereotypic hand movement-bilateral cataract",
+         "UttStartPos": "0",
+         "UttLength": "105",
+         "Phrases": [
+           {
+             "PhraseText": "Severe neurodevelopmental disorder with feeding difficulties-stereotypic hand movement-bilateral cataract",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "severe",
+                 "InputMatch": "Severe",
+                 "LexCat": "adj",
+                 "Tokens": ["severe"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "neurodevelopmental disorder",
+                 "InputMatch": "neurodevelopmental disorder",
+                 "LexCat": "noun",
+                 "Tokens": ["neurodevelopmental","disorder"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "feeding",
+                 "InputMatch": "feeding",
+                 "LexCat": "adj",
+                 "Tokens": ["feeding"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "difficulties",
+                 "InputMatch": "difficulties",
+                 "LexCat": "noun",
+                 "Tokens": ["difficulties"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "stereotypic",
+                 "InputMatch": "stereotypic",
+                 "LexCat": "adj",
+                 "Tokens": ["stereotypic"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "hand movement",
+                 "InputMatch": "hand movement",
+                 "LexCat": "noun",
+                 "Tokens": ["hand","movement"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "bilateral",
+                 "InputMatch": "bilateral",
+                 "LexCat": "adj",
+                 "Tokens": ["bilateral"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "cataract",
+                 "InputMatch": "cataract",
+                 "LexCat": "noun",
+                 "Tokens": ["cataract"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "105",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-714",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-571",
+                     "CandidateCUI": "C0205082",
+                     "CandidateMatched": "Severe (severity modifier)",
+                     "CandidatePreferred": "Severe (severity modifier)",
+                     "MatchedWords": ["severe"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-756",
+                     "CandidateCUI": "C1535926",
+                     "CandidateMatched": "Neurodevelopmental disorder",
+                     "CandidatePreferred": "Neurodevelopmental Disorders",
+                     "MatchedWords": ["neurodevelopmental","disorder"],
+                     "SemTypes": ["mobd"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "7",
+                         "Length": "27"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-500",
+                     "CandidateCUI": "C0038271",
+                     "CandidateMatched": "Stereotyped behavior",
+                     "CandidatePreferred": "Stereotyped Behavior",
+                     "MatchedWords": ["stereotypy"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "3"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "61",
+                         "Length": "11"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-588",
+                     "CandidateCUI": "C0239827",
+                     "CandidateMatched": "Difficulty moving hand",
+                     "CandidatePreferred": "Difficulty moving hand",
+                     "MatchedWords": ["hand","movement","difficulty"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "9",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "1"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "48",
+                         "Length": "12"
+                       },
+                       {
+                         "StartPos": "73",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-589",
+                     "CandidateCUI": "C0521707",
+                     "CandidateMatched": "Bilateral cataracts (disorder)",
+                     "CandidatePreferred": "Bilateral cataracts (disorder)",
+                     "MatchedWords": ["bilateral","cataract"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "10",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "87",
+                         "Length": "18"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

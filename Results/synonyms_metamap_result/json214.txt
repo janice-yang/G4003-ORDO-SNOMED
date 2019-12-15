@@ -1,0 +1,340 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "AML with abnormal bone marrow eosinophils inv(16)(p13q22) or t(16;16)(p13;q22)",
+         "UttStartPos": "0",
+         "UttLength": "78",
+         "Phrases": [
+           {
+             "PhraseText": "AML with abnormal bone marrow eosinophils inv(16",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "aml",
+                 "InputMatch": "AML",
+                 "LexCat": "noun",
+                 "Tokens": ["aml"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "abnormal",
+                 "InputMatch": "abnormal",
+                 "LexCat": "adj",
+                 "Tokens": ["abnormal"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "bone marrow",
+                 "InputMatch": "bone marrow",
+                 "LexCat": "noun",
+                 "Tokens": ["bone","marrow"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "eosinophils",
+                 "InputMatch": "eosinophils",
+                 "LexCat": "noun",
+                 "Tokens": ["eosinophils"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "inv",
+                 "InputMatch": "inv (",
+                 "LexCat": "adj",
+                 "Tokens": ["inv"]
+               },
+               {
+                 "SyntaxType": "shapes",
+                 "InputMatch": "16",
+                 "Tokens": ["16"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "48",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-656",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-744",
+                     "CandidateCUI": "C0023465",
+                     "CandidateMatched": "Acute monocytic leukemia",
+                     "CandidatePreferred": "Acute monocytic leukemia",
+                     "MatchedWords": ["aml"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "3"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-578",
+                     "CandidateCUI": "C0205161",
+                     "CandidateMatched": "Abnormal",
+                     "CandidatePreferred": "Abnormal",
+                     "MatchedWords": ["abnormal"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "9",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": ")",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ")",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "48",
+             "PhraseLength": "1",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "(p13q22",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "(",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "head",
+                 "InputMatch": "p13q22",
+                 "LexCat": "noun",
+                 "Tokens": ["p13q22"]
+               }],
+             "PhraseStartPos": "49",
+             "PhraseLength": "7",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ")",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ")",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "56",
+             "PhraseLength": "1",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "or",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "conj",
+                 "LexMatch": "or",
+                 "InputMatch": "or",
+                 "LexCat": "conj",
+                 "Tokens": ["or"]
+               }],
+             "PhraseStartPos": "58",
+             "PhraseLength": "2",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "t(16",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "t(",
+                 "InputMatch": "t (",
+                 "LexCat": "adj",
+                 "Tokens": ["t"]
+               },
+               {
+                 "SyntaxType": "shapes",
+                 "InputMatch": "16",
+                 "Tokens": ["16"]
+               }],
+             "PhraseStartPos": "61",
+             "PhraseLength": "4",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ";16",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ";",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "shapes",
+                 "InputMatch": "16",
+                 "Tokens": ["16"]
+               }],
+             "PhraseStartPos": "65",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ")",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ")",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "68",
+             "PhraseLength": "1",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "(p13",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "(",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "head",
+                 "InputMatch": "p13",
+                 "LexCat": "noun",
+                 "Tokens": ["p13"]
+               }],
+             "PhraseStartPos": "69",
+             "PhraseLength": "4",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ";q22",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ";",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "head",
+                 "InputMatch": "q22",
+                 "LexCat": "noun",
+                 "Tokens": ["q22"]
+               }],
+             "PhraseStartPos": "73",
+             "PhraseLength": "4",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ")",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ")",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "77",
+             "PhraseLength": "1",
+             "Candidates": [],
+             "Mappings": []
+           }]
+       }]
+   }
+ }
+]}

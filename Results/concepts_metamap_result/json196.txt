@@ -1,0 +1,294 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR1 deficiency",
+         "UttStartPos": "0",
+         "UttLength": "107",
+         "Phrases": [
+           {
+             "PhraseText": "Autosomal recessive mendelian susceptibility to mycobacterial diseases",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "autosomal recessive",
+                 "InputMatch": "Autosomal recessive",
+                 "LexCat": "noun",
+                 "Tokens": ["autosomal","recessive"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "mendelian",
+                 "InputMatch": "mendelian",
+                 "LexCat": "adj",
+                 "Tokens": ["mendelian"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "susceptibility",
+                 "InputMatch": "susceptibility",
+                 "LexCat": "noun",
+                 "Tokens": ["susceptibility"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "to",
+                 "InputMatch": "to",
+                 "LexCat": "prep",
+                 "Tokens": ["to"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "mycobacterial diseases",
+                 "InputMatch": "mycobacterial diseases",
+                 "LexCat": "noun",
+                 "Tokens": ["mycobacterial","diseases"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "70",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-737",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-612",
+                     "CandidateCUI": "C0441748",
+                     "CandidateMatched": "Autosomal recessive inheritance",
+                     "CandidatePreferred": "Autosomal recessive inheritance",
+                     "MatchedWords": ["autosomal","recessive"],
+                     "SemTypes": ["genf"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "19"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-607",
+                     "CandidateCUI": "C1285355",
+                     "CandidateMatched": "Mendelian disorders",
+                     "CandidatePreferred": "Mendelian disorders",
+                     "MatchedWords": ["mendelian","diseases"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "20",
+                         "Length": "9"
+                       },
+                       {
+                         "StartPos": "62",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-748",
+                     "CandidateCUI": "C0012655",
+                     "CandidateMatched": "Diathesis, NOS",
+                     "CandidatePreferred": "Disease susceptibility",
+                     "MatchedWords": ["susceptibility"],
+                     "SemTypes": ["clna"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "30",
+                         "Length": "14"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "due to partial IFNgammaR1 deficiency",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "due to",
+                 "InputMatch": "due to",
+                 "LexCat": "prep",
+                 "Tokens": ["due","to"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "partial",
+                 "InputMatch": "partial",
+                 "LexCat": "adj",
+                 "Tokens": ["partial"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "InputMatch": "IFNgammaR1",
+                 "LexCat": "noun",
+                 "Tokens": ["ifngammar1"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "deficiency",
+                 "InputMatch": "deficiency",
+                 "LexCat": "noun",
+                 "Tokens": ["deficiency"]
+               }],
+             "PhraseStartPos": "71",
+             "PhraseLength": "36",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-802",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-660",
+                     "CandidateCUI": "C0728938",
+                     "CandidateMatched": "Partial",
+                     "CandidatePreferred": "Partial",
+                     "MatchedWords": ["partial"],
+                     "SemTypes": ["qnco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "78",
+                         "Length": "7"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-827",
+                     "CandidateCUI": "C0162429",
+                     "CandidateMatched": "Malnutrition",
+                     "CandidatePreferred": "Malnutrition",
+                     "MatchedWords": ["deficiency"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "97",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

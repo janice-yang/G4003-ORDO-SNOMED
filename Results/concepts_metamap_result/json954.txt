@@ -1,0 +1,215 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Familial juvenile hyperuricemic nephropathy type 1",
+         "UttStartPos": "0",
+         "UttLength": "50",
+         "Phrases": [
+           {
+             "PhraseText": "Familial juvenile hyperuricemic nephropathy type 1",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "familial",
+                 "InputMatch": "Familial",
+                 "LexCat": "adj",
+                 "Tokens": ["familial"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "juvenile",
+                 "InputMatch": "juvenile",
+                 "LexCat": "adj",
+                 "Tokens": ["juvenile"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "hyperuricemic",
+                 "InputMatch": "hyperuricemic",
+                 "LexCat": "adj",
+                 "Tokens": ["hyperuricemic"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "nephropathy",
+                 "InputMatch": "nephropathy",
+                 "LexCat": "noun",
+                 "Tokens": ["nephropathy"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "type",
+                 "InputMatch": "type",
+                 "LexCat": "noun",
+                 "Tokens": ["type"]
+               },
+               {
+                 "SyntaxType": "shapes",
+                 "InputMatch": "1",
+                 "Tokens": ["1"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "50",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-799",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-858",
+                     "CandidateCUI": "C0403443",
+                     "CandidateMatched": "Progressive hereditary glomerulonephritis without deafness",
+                     "CandidatePreferred": "Renal Failure, Progressive, with Hypertension",
+                     "MatchedWords": ["familial","nephropathy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "8"
+                       },
+                       {
+                         "StartPos": "32",
+                         "Length": "11"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-799",
+                     "CandidateCUI": "C0740394",
+                     "CandidateMatched": "Hyperuricemia",
+                     "CandidatePreferred": "Hyperuricemia",
+                     "MatchedWords": ["hyperuricaemic"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "18",
+                         "Length": "13"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-827",
+                     "CandidateCUI": "C0441729",
+                     "CandidateMatched": "Type 1",
+                     "CandidatePreferred": "Type 1",
+                     "MatchedWords": ["type","1"],
+                     "SemTypes": ["clas"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "44",
+                         "Length": "6"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

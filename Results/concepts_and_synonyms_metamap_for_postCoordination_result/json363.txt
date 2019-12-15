@@ -1,0 +1,256 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Epileptic encephalopathy with continuous spike-and-wave during slow sleep",
+         "UttStartPos": "0",
+         "UttLength": "73",
+         "Phrases": [
+           {
+             "PhraseText": "Epileptic encephalopathy with continuous spike-",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "epileptic",
+                 "InputMatch": "Epileptic",
+                 "LexCat": "adj",
+                 "Tokens": ["epileptic"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "encephalopathy",
+                 "InputMatch": "encephalopathy",
+                 "LexCat": "noun",
+                 "Tokens": ["encephalopathy"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "continuous",
+                 "InputMatch": "continuous",
+                 "LexCat": "adj",
+                 "Tokens": ["continuous"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "spike",
+                 "InputMatch": "spike",
+                 "LexCat": "noun",
+                 "Tokens": ["spike"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "47",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-806",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-806",
+                     "CandidateCUI": "C0543888",
+                     "CandidateMatched": "Epileptic encephalopathy",
+                     "CandidatePreferred": "Epileptic encephalopathy",
+                     "MatchedWords": ["epileptic","encephalopathy"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "24"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "and-",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "conj",
+                 "LexMatch": "and",
+                 "InputMatch": "and",
+                 "LexCat": "conj",
+                 "Tokens": ["and"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "47",
+             "PhraseLength": "4",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "wave during slow sleep",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "wave",
+                 "InputMatch": "wave",
+                 "LexCat": "noun",
+                 "Tokens": ["wave"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "during",
+                 "InputMatch": "during",
+                 "LexCat": "prep",
+                 "Tokens": ["during"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "slow sleep",
+                 "InputMatch": "slow sleep",
+                 "LexCat": "noun",
+                 "Tokens": ["slow","sleep"]
+               }],
+             "PhraseStartPos": "51",
+             "PhraseLength": "22",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-881",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-868",
+                     "CandidateCUI": "C0234451",
+                     "CandidateMatched": "Slow wave sleep",
+                     "CandidatePreferred": "Sleep, Slow-Wave",
+                     "MatchedWords": ["slow","wave","sleep"],
+                     "SemTypes": ["phsf"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "3",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "51",
+                         "Length": "4"
+                       },
+                       {
+                         "StartPos": "63",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

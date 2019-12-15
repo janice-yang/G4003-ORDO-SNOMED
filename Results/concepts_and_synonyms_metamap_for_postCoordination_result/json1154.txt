@@ -1,0 +1,220 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [
+       {
+         "NegType": "nega",
+         "NegTrigger": "non",
+         "NegTriggerPIs": [
+           {
+             "StartPos": "20",
+             "Length": "3"
+           }],
+         "NegConcepts": [
+           {
+             "NegConcCUI": "C0751435",
+             "NegConcMatched": "Hyperphenylalaninaemia"
+           }],
+         "NegConcPIs": [
+           {
+             "StartPos": "39",
+             "Length": "21"
+           }]
+       },
+       {
+         "NegType": "nega",
+         "NegTrigger": "non",
+         "NegTriggerPIs": [
+           {
+             "StartPos": "20",
+             "Length": "3"
+           }],
+         "NegConcepts": [
+           {
+             "NegConcCUI": "C0162429",
+             "NegConcMatched": "Malnutrition"
+           }],
+         "NegConcPIs": [
+           {
+             "StartPos": "28",
+             "Length": "10"
+           }]
+       }],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Non-phenylketonuric non-BH4-deficiency hyperphenylalaninemia",
+         "UttStartPos": "0",
+         "UttLength": "60",
+         "Phrases": [
+           {
+             "PhraseText": "Non-phenylketonuric non-BH4-deficiency hyperphenylalaninemia",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "non-phenylketonuric",
+                 "InputMatch": "Non - phenylketonuric",
+                 "LexCat": "adj",
+                 "Tokens": ["non","phenylketonuric"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "InputMatch": "non",
+                 "LexCat": "noun",
+                 "Tokens": ["non"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "bh4",
+                 "InputMatch": "BH4",
+                 "LexCat": "noun",
+                 "Tokens": ["bh4"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "deficiency",
+                 "InputMatch": "deficiency",
+                 "LexCat": "noun",
+                 "Tokens": ["deficiency"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "hyperphenylalaninemia",
+                 "InputMatch": "hyperphenylalaninemia",
+                 "LexCat": "noun",
+                 "Tokens": ["hyperphenylalaninemia"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "60",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-679",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-586",
+                     "CandidateCUI": "C0011155",
+                     "CandidateMatched": "Deficiency",
+                     "CandidatePreferred": "Deficiency",
+                     "MatchedWords": ["deficiency"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "28",
+                         "Length": "10"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-753",
+                     "CandidateCUI": "C0751435",
+                     "CandidateMatched": "Hyperphenylalaninaemia",
+                     "CandidatePreferred": "Hyperphenylalaninaemia",
+                     "MatchedWords": ["hyperphenylalaninemia"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "39",
+                         "Length": "21"
+                       }],
+                     "Status": "0",
+                     "Negated": "1"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

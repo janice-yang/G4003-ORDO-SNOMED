@@ -1,0 +1,236 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIiyf --threshold 500 -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "ignore_word_order"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "threshold",
+           "OptValue": "500"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Mixed sclerosing bone dystrophy with extra-skeletal manifestations",
+         "UttStartPos": "0",
+         "UttLength": "66",
+         "Phrases": [
+           {
+             "PhraseText": "Mixed",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "verb",
+                 "LexMatch": "mixed",
+                 "InputMatch": "Mixed",
+                 "LexCat": "verb",
+                 "Tokens": ["mixed"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "5",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C0205430",
+                     "CandidateMatched": "Mixed (qualifier value)",
+                     "CandidatePreferred": "Mixed (qualifier value)",
+                     "MatchedWords": ["mixed"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "sclerosing bone dystrophy with extra-skeletal manifestations",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "sclerosing",
+                 "InputMatch": "sclerosing",
+                 "LexCat": "adj",
+                 "Tokens": ["sclerosing"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "bone",
+                 "InputMatch": "bone",
+                 "LexCat": "noun",
+                 "Tokens": ["bone"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "dystrophy",
+                 "InputMatch": "dystrophy",
+                 "LexCat": "noun",
+                 "Tokens": ["dystrophy"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "extra-skeletal",
+                 "InputMatch": "extra - skeletal",
+                 "LexCat": "adj",
+                 "Tokens": ["extra","skeletal"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "manifestations",
+                 "InputMatch": "manifestations",
+                 "LexCat": "noun",
+                 "Tokens": ["manifestations"]
+               }],
+             "PhraseStartPos": "6",
+             "PhraseLength": "60",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-539",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-607",
+                     "CandidateCUI": "C0262950",
+                     "CandidateMatched": "Bone, NOS",
+                     "CandidatePreferred": "Skeletal bone",
+                     "MatchedWords": ["skeletal","bone"],
+                     "SemTypes": ["bpoc"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "17",
+                         "Length": "4"
+                       },
+                       {
+                         "StartPos": "43",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-581",
+                     "CandidateCUI": "C0205319",
+                     "CandidateMatched": "Manifest",
+                     "CandidatePreferred": "Manifest",
+                     "MatchedWords": ["manifestations"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "7",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "52",
+                         "Length": "14"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

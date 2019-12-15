@@ -1,0 +1,399 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "TPPII-related immunodeficiency, autoimmunity, and neurodevelopmental delay with impaired glycolysis and lysosomal expansion disease",
+         "UttStartPos": "0",
+         "UttLength": "131",
+         "Phrases": [
+           {
+             "PhraseText": "TPPII-related immunodeficiency,",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "InputMatch": "TPPII",
+                 "LexCat": "noun",
+                 "Tokens": ["tppii"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "related",
+                 "InputMatch": "related",
+                 "LexCat": "adj",
+                 "Tokens": ["related"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "immunodeficiency",
+                 "InputMatch": "immunodeficiency",
+                 "LexCat": "noun",
+                 "Tokens": ["immunodeficiency"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ",",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "31",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-790",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-660",
+                     "CandidateCUI": "C0439849",
+                     "CandidateMatched": "Relationships",
+                     "CandidatePreferred": "Relationships",
+                     "MatchedWords": ["related"],
+                     "SemTypes": ["qlco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "6",
+                         "Length": "7"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-827",
+                     "CandidateCUI": "C0021051",
+                     "CandidateMatched": "Unspecified immunity deficiency",
+                     "CandidatePreferred": "Immunologic Deficiency Syndromes",
+                     "MatchedWords": ["immunodeficiency"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "14",
+                         "Length": "16"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "autoimmunity,",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "autoimmunity",
+                 "InputMatch": "autoimmunity",
+                 "LexCat": "noun",
+                 "Tokens": ["autoimmunity"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ",",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "32",
+             "PhraseLength": "13",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C0004364",
+                     "CandidateMatched": "Autoimmune disease NOS",
+                     "CandidatePreferred": "Autoimmune Diseases",
+                     "MatchedWords": ["autoimmunity"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "32",
+                         "Length": "12"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "and",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "conj",
+                 "LexMatch": "and",
+                 "InputMatch": "and",
+                 "LexCat": "conj",
+                 "Tokens": ["and"]
+               }],
+             "PhraseStartPos": "46",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "neurodevelopmental delay with impaired glycolysis",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "neurodevelopmental",
+                 "InputMatch": "neurodevelopmental",
+                 "LexCat": "adj",
+                 "Tokens": ["neurodevelopmental"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "delay",
+                 "InputMatch": "delay",
+                 "LexCat": "noun",
+                 "Tokens": ["delay"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "impaired",
+                 "InputMatch": "impaired",
+                 "LexCat": "adj",
+                 "Tokens": ["impaired"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "glycolysis",
+                 "InputMatch": "glycolysis",
+                 "LexCat": "noun",
+                 "Tokens": ["glycolysis"]
+               }],
+             "PhraseStartPos": "50",
+             "PhraseLength": "49",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-686",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-760",
+                     "CandidateCUI": "C0205421",
+                     "CandidateMatched": "Deferred",
+                     "CandidatePreferred": "Deferred",
+                     "MatchedWords": ["delay"],
+                     "SemTypes": ["tmco"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "69",
+                         "Length": "5"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-593",
+                     "CandidateCUI": "C0221099",
+                     "CandidateMatched": "Impaired",
+                     "CandidatePreferred": "Impaired",
+                     "MatchedWords": ["impaired"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "80",
+                         "Length": "8"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": "and",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "conj",
+                 "LexMatch": "and",
+                 "InputMatch": "and",
+                 "LexCat": "conj",
+                 "Tokens": ["and"]
+               }],
+             "PhraseStartPos": "100",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "lysosomal expansion disease",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "lysosomal",
+                 "InputMatch": "lysosomal",
+                 "LexCat": "adj",
+                 "Tokens": ["lysosomal"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "expansion",
+                 "InputMatch": "expansion",
+                 "LexCat": "noun",
+                 "Tokens": ["expansion"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "disease",
+                 "InputMatch": "disease",
+                 "LexCat": "noun",
+                 "Tokens": ["disease"]
+               }],
+             "PhraseStartPos": "104",
+             "PhraseLength": "27",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-827",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-827",
+                     "CandidateCUI": "C0012634",
+                     "CandidateMatched": "Disease",
+                     "CandidatePreferred": "Disease",
+                     "MatchedWords": ["disease"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "124",
+                         "Length": "7"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

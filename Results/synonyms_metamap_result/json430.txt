@@ -1,0 +1,282 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [
+       {
+         "NegType": "nega",
+         "NegTrigger": "non",
+         "NegTriggerPIs": [
+           {
+             "StartPos": "0",
+             "Length": "3"
+           }],
+         "NegConcepts": [
+           {
+             "NegConcCUI": "C4082176",
+             "NegConcMatched": "Asthenozoospermia"
+           }],
+         "NegConcPIs": [
+           {
+             "StartPos": "35",
+             "Length": "17"
+           }]
+       },
+       {
+         "NegType": "nega",
+         "NegTrigger": "non",
+         "NegTriggerPIs": [
+           {
+             "StartPos": "0",
+             "Length": "3"
+           }],
+         "NegConcepts": [
+           {
+             "NegConcCUI": "C0021364",
+             "NegConcMatched": "Male infertility"
+           }],
+         "NegConcPIs": [
+           {
+             "StartPos": "14",
+             "Length": "16"
+           }]
+       },
+       {
+         "NegType": "nega",
+         "NegTrigger": "non",
+         "NegTriggerPIs": [
+           {
+             "StartPos": "0",
+             "Length": "3"
+           }],
+         "NegConcepts": [
+           {
+             "NegConcCUI": "C0039082",
+             "NegConcMatched": "Syndrome"
+           }],
+         "NegConcPIs": [
+           {
+             "StartPos": "4",
+             "Length": "9"
+           }]
+       }],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Non-syndromic male infertility due asthenozoospermia",
+         "UttStartPos": "0",
+         "UttLength": "52",
+         "Phrases": [
+           {
+             "PhraseText": "Non-syndromic male infertility due asthenozoospermia",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "non-syndromic",
+                 "InputMatch": "Non - syndromic",
+                 "LexCat": "adj",
+                 "Tokens": ["non","syndromic"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "male",
+                 "InputMatch": "male",
+                 "LexCat": "noun",
+                 "Tokens": ["male"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "infertility",
+                 "InputMatch": "infertility",
+                 "LexCat": "noun",
+                 "Tokens": ["infertility"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "due",
+                 "InputMatch": "due",
+                 "LexCat": "adj",
+                 "Tokens": ["due"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "asthenozoospermia",
+                 "InputMatch": "asthenozoospermia",
+                 "LexCat": "noun",
+                 "Tokens": ["asthenozoospermia"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "52",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-773",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-561",
+                     "CandidateCUI": "C0039082",
+                     "CandidateMatched": "Syndrome",
+                     "CandidatePreferred": "Syndrome",
+                     "MatchedWords": ["syndromes"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "3"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "4",
+                         "Length": "9"
+                       }],
+                     "Status": "0",
+                     "Negated": "1"
+                   },
+                   {
+                     "CandidateScore": "-660",
+                     "CandidateCUI": "C0021364",
+                     "CandidateMatched": "Male infertility",
+                     "CandidatePreferred": "Male infertility",
+                     "MatchedWords": ["male","infertility"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "3",
+                         "TextMatchEnd": "3",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "14",
+                         "Length": "16"
+                       }],
+                     "Status": "0",
+                     "Negated": "1"
+                   },
+                   {
+                     "CandidateScore": "-632",
+                     "CandidateCUI": "C0678226",
+                     "CandidateMatched": "Due to",
+                     "CandidatePreferred": "Due to",
+                     "MatchedWords": ["due"],
+                     "SemTypes": ["ftcn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "31",
+                         "Length": "3"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   },
+                   {
+                     "CandidateScore": "-799",
+                     "CandidateCUI": "C4082176",
+                     "CandidateMatched": "Asthenozoospermia",
+                     "CandidatePreferred": "Asthenozoospermia finding",
+                     "MatchedWords": ["asthenozoospermia"],
+                     "SemTypes": ["fndg"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "6",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "35",
+                         "Length": "17"
+                       }],
+                     "Status": "0",
+                     "Negated": "1"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

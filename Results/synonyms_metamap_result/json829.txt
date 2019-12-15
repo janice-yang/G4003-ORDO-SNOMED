@@ -1,0 +1,223 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "AML with t(8;21)(q22;q22) translocation",
+         "UttStartPos": "0",
+         "UttLength": "39",
+         "Phrases": [
+           {
+             "PhraseText": "AML with t(8",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "aml",
+                 "InputMatch": "AML",
+                 "LexCat": "noun",
+                 "Tokens": ["aml"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "with",
+                 "InputMatch": "with",
+                 "LexCat": "prep",
+                 "Tokens": ["with"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "t 8",
+                 "InputMatch": "t ( 8",
+                 "LexCat": "noun",
+                 "Tokens": ["t","8"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "12",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-770",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-770",
+                     "CandidateCUI": "C0023467",
+                     "CandidateMatched": "Acute myelocytic leukemia",
+                     "CandidatePreferred": "Leukemia, Myelocytic, Acute",
+                     "MatchedWords": ["aml"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "3"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           },
+           {
+             "PhraseText": ";21",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ";",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "shapes",
+                 "InputMatch": "21",
+                 "Tokens": ["21"]
+               }],
+             "PhraseStartPos": "12",
+             "PhraseLength": "3",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ")",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ")",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "15",
+             "PhraseLength": "1",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "(q22",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "(",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "head",
+                 "InputMatch": "q22",
+                 "LexCat": "noun",
+                 "Tokens": ["q22"]
+               }],
+             "PhraseStartPos": "16",
+             "PhraseLength": "4",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ";q22",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ";",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "head",
+                 "InputMatch": "q22",
+                 "LexCat": "noun",
+                 "Tokens": ["q22"]
+               }],
+             "PhraseStartPos": "20",
+             "PhraseLength": "4",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": ")",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": ")",
+                 "Tokens": []
+               }],
+             "PhraseStartPos": "24",
+             "PhraseLength": "1",
+             "Candidates": [],
+             "Mappings": []
+           },
+           {
+             "PhraseText": "translocation",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "translocation",
+                 "InputMatch": "translocation",
+                 "LexCat": "noun",
+                 "Tokens": ["translocation"]
+               }],
+             "PhraseStartPos": "26",
+             "PhraseLength": "13",
+             "Candidates": [],
+             "Mappings": []
+           }]
+       }]
+   }
+ }
+]}

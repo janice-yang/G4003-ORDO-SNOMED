@@ -1,0 +1,201 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Systemic Epstein-Barr virus-positive T-cell lymphoproliferative disease of childhood",
+         "UttStartPos": "0",
+         "UttLength": "84",
+         "Phrases": [
+           {
+             "PhraseText": "Systemic Epstein-Barr virus-positive T-cell lymphoproliferative disease of childhood",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "systemic",
+                 "InputMatch": "Systemic",
+                 "LexCat": "adj",
+                 "Tokens": ["systemic"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "epstein-barr virus",
+                 "InputMatch": "Epstein - Barr virus",
+                 "LexCat": "noun",
+                 "Tokens": ["epstein","barr","virus"]
+               },
+               {
+                 "SyntaxType": "punc",
+                 "InputMatch": "-",
+                 "Tokens": []
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "positive",
+                 "InputMatch": "positive",
+                 "LexCat": "noun",
+                 "Tokens": ["positive"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "t-cell",
+                 "InputMatch": "T - cell",
+                 "LexCat": "noun",
+                 "Tokens": ["t","cell"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "lymphoproliferative disease",
+                 "InputMatch": "lymphoproliferative disease",
+                 "LexCat": "noun",
+                 "Tokens": ["lymphoproliferative","disease"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "of",
+                 "InputMatch": "of",
+                 "LexCat": "prep",
+                 "Tokens": ["of"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "childhood",
+                 "InputMatch": "childhood",
+                 "LexCat": "noun",
+                 "Tokens": ["childhood"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "84",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-1000",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-1000",
+                     "CandidateCUI": "C2699747",
+                     "CandidateMatched": "Systemic EBV positive T-cell lymphoproliferative disease of childhood",
+                     "CandidatePreferred": "Systemic EBV positive T-cell lymphoproliferative disease of childhood",
+                     "MatchedWords": ["systemic","epstein","barr","virus","positive","t","cell","lymphoproliferative","disease","of","childhood"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "1",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "2",
+                         "ConcMatchEnd": "4",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "5",
+                         "TextMatchEnd": "5",
+                         "ConcMatchStart": "5",
+                         "ConcMatchEnd": "5",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "6",
+                         "TextMatchEnd": "7",
+                         "ConcMatchStart": "6",
+                         "ConcMatchEnd": "7",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "8",
+                         "TextMatchEnd": "9",
+                         "ConcMatchStart": "8",
+                         "ConcMatchEnd": "9",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "10",
+                         "TextMatchEnd": "10",
+                         "ConcMatchStart": "10",
+                         "ConcMatchEnd": "10",
+                         "LexVariation": "0"
+                       },
+                       {
+                         "TextMatchStart": "11",
+                         "TextMatchEnd": "11",
+                         "ConcMatchStart": "11",
+                         "ConcMatchEnd": "11",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "84"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

@@ -1,0 +1,118 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Musculocontractural Ehlers-Danlos syndrome",
+         "UttStartPos": "0",
+         "UttLength": "42",
+         "Phrases": [
+           {
+             "PhraseText": "Musculocontractural Ehlers-Danlos syndrome",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "mod",
+                 "InputMatch": "Musculocontractural",
+                 "LexCat": "noun",
+                 "Tokens": ["musculocontractural"]
+               },
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "ehlers-danlos syndrome",
+                 "InputMatch": "Ehlers - Danlos syndrome",
+                 "LexCat": "noun",
+                 "Tokens": ["ehlers","danlos","syndrome"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "42",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-923",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-923",
+                     "CandidateCUI": "C0013720",
+                     "CandidateMatched": "Ehlers-Danlos syndrome, NOS",
+                     "CandidatePreferred": "Ehlers-Danlos Syndrome",
+                     "MatchedWords": ["ehlers","danlos","syndrome"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "2",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "3",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "20",
+                         "Length": "22"
+                       }],
+                     "Status": "0",
+                     "Negated": "0"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}

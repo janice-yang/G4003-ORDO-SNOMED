@@ -1,0 +1,190 @@
+/Users/liangyuzhao/Desktop/public_mm/bin/SKRrun.18 /Users/liangyuzhao/Desktop/public_mm/bin/metamap18.BINARY.Darwin --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase
+{"AllDocuments":[
+{
+   "Document": {
+     "CmdLine": {
+       "Command": "metamap --lexicon db -Z 2018AB -AIyf -R SNOMEDCT_US -J bpoc,clas,clna,cgab,dsyn,fndg,ftcn,genf,mobd,neop,ortf,phsf,qlco,qnco,spco,tmco --JSONf 2 -V USAbase",
+       "Options": [
+         {
+           "OptName": "lexicon",
+           "OptValue": "db"
+         },
+         {
+           "OptName": "mm_data_year",
+           "OptValue": "2018AB"
+         },
+         {
+           "OptName": "strict_model"
+         },
+         {
+           "OptName": "show_cuis"
+         },
+         {
+           "OptName": "word_sense_disambiguation"
+         },
+         {
+           "OptName": "number_the_mappings"
+         },
+         {
+           "OptName": "restrict_to_sources",
+           "OptValue": ["SNOMEDCT_US"]
+         },
+         {
+           "OptName": "restrict_to_sts",
+           "OptValue": ["bpoc","clas","clna","cgab","dsyn","fndg","ftcn","genf","mobd","neop","ortf","phsf","qlco","qnco","spco","tmco"]
+         },
+         {
+           "OptName": "JSONf",
+           "OptValue": "2"
+         },
+         {
+           "OptName": "mm_data_version",
+           "OptValue": "USAbase"
+         },
+         {
+           "OptName": "infile",
+           "OptValue": "user_input"
+         },
+         {
+           "OptName": "outfile",
+           "OptValue": "user_output"
+         }]
+     },
+     "AAs": [],
+     "Negations": [
+       {
+         "NegType": "nega",
+         "NegTrigger": "without",
+         "NegTriggerPIs": [
+           {
+             "StartPos": "18",
+             "Length": "7"
+           }],
+         "NegConcepts": [
+           {
+             "NegConcCUI": "C3495371",
+             "NegConcMatched": "Juvenile elastoma"
+           }],
+         "NegConcPIs": [
+           {
+             "StartPos": "0",
+             "Length": "17"
+           }]
+       },
+       {
+         "NegType": "nega",
+         "NegTrigger": "without",
+         "NegTriggerPIs": [
+           {
+             "StartPos": "18",
+             "Length": "7"
+           }],
+         "NegConcepts": [
+           {
+             "NegConcCUI": "C0029455",
+             "NegConcMatched": "Osteopoikilosis (disorder)"
+           }],
+         "NegConcPIs": [
+           {
+             "StartPos": "26",
+             "Length": "15"
+           }]
+       }],
+     "Utterances": [
+       {
+         "PMID": "USER",
+         "UttSection": "tx",
+         "UttNum": "1",
+         "UttText": "Juvenile elastoma without osteopoikilosis",
+         "UttStartPos": "0",
+         "UttLength": "41",
+         "Phrases": [
+           {
+             "PhraseText": "Juvenile elastoma without osteopoikilosis",
+             "SyntaxUnits": [
+               {
+                 "SyntaxType": "head",
+                 "LexMatch": "juvenile elastoma",
+                 "InputMatch": "Juvenile elastoma",
+                 "LexCat": "noun",
+                 "Tokens": ["juvenile","elastoma"]
+               },
+               {
+                 "SyntaxType": "prep",
+                 "LexMatch": "without",
+                 "InputMatch": "without",
+                 "LexCat": "prep",
+                 "Tokens": ["without"]
+               },
+               {
+                 "SyntaxType": "mod",
+                 "LexMatch": "osteopoikilosis",
+                 "InputMatch": "osteopoikilosis",
+                 "LexCat": "noun",
+                 "Tokens": ["osteopoikilosis"]
+               }],
+             "PhraseStartPos": "0",
+             "PhraseLength": "41",
+             "Candidates": [],
+             "Mappings": [
+               {
+                 "MappingScore": "-783",
+                 "MappingCandidates": [
+                   {
+                     "CandidateScore": "-833",
+                     "CandidateCUI": "C3495371",
+                     "CandidateMatched": "Juvenile elastoma",
+                     "CandidatePreferred": "Juvenile elastoma",
+                     "MatchedWords": ["juvenile","elastoma"],
+                     "SemTypes": ["neop"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "1",
+                         "TextMatchEnd": "2",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "2",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "yes",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "0",
+                         "Length": "17"
+                       }],
+                     "Status": "0",
+                     "Negated": "1"
+                   },
+                   {
+                     "CandidateScore": "-604",
+                     "CandidateCUI": "C0029455",
+                     "CandidateMatched": "Osteopoikilosis (disorder)",
+                     "CandidatePreferred": "Osteopoikilosis (disorder)",
+                     "MatchedWords": ["osteopoikilosis"],
+                     "SemTypes": ["dsyn"],
+                     "MatchMaps": [
+                       {
+                         "TextMatchStart": "4",
+                         "TextMatchEnd": "4",
+                         "ConcMatchStart": "1",
+                         "ConcMatchEnd": "1",
+                         "LexVariation": "0"
+                       }],
+                     "IsHead": "no",
+                     "IsOverMatch": "no",
+                     "Sources": ["SNOMEDCT_US"],
+                     "ConceptPIs": [
+                       {
+                         "StartPos": "26",
+                         "Length": "15"
+                       }],
+                     "Status": "0",
+                     "Negated": "1"
+                   }]
+               }]
+           }]
+       }]
+   }
+ }
+]}
