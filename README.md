@@ -1,6 +1,6 @@
 # G4003-ORDO-SNOMED
 Public repo for BINF G4003 final project: Mapping Disease Representations from Orphanet Rare Disease Ontology to SNOMED-CT
-Group: Janice Yang, Liangyu Zhao, Rong Ma, Zhenyu Zhang
+*Janice Yang, Liangyu Zhao, Rong Ma, Zhenyu Zhang*
 
 ## Automated mapping
 Full code is found in ORDO_to_SNOMED.ipynb notebook file. The sequential steps in our mapping method:
