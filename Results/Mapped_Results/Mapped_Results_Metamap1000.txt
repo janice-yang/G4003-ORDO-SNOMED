@@ -1,396 +1,395 @@
 	ORDO_ID	Concept	Mapped_Term	SNOMED_ID	SNOMED_Term	Score
-289	538931	X-linked lymphoproliferative disease due to SH2D1A deficiency	XLP1	77121009	X-linked lymphoproliferative syndrome (disorder)	1000
-347	536545	Kyphoscoliotic Ehlers-Danlos syndrome	Ehlers-Danlos syndrome type 6	25606004	Ehlers-Danlos syndrome, hydroxylysine-deficient (disorder)	1000
+288	538931	X-linked lymphoproliferative disease due to SH2D1A deficiency	XLP1	77121009	X-linked lymphoproliferative syndrome (disorder)	1000
+346	536545	Kyphoscoliotic Ehlers-Danlos syndrome	Ehlers-Danlos syndrome type 6	25606004	Ehlers-Danlos syndrome, hydroxylysine-deficient (disorder)	1000
 134	530995	Mixed phenotype acute leukemia	Mixed phenotype acute leukemia	450913003	Mixed phenotype acute leukemia (morphologic abnormality)	1000
 26	530792	RELA fusion-positive ependymoma	RELA fusion-positive ependymoma	733868000	RELA fusion-positive ependymoma (morphologic abnormality)	1000
 39	519410	Terrien marginal degeneration	Terrien marginal degeneration	27971006	Terrien's marginal degeneration of cornea (disorder)	1000
 20	519408	Mooren ulcer	Mooren ulcer	22440001	Mooren's ulcer (disorder)	1000
-330	506098	Neuroendocrine carcinoma of pancreas	Pancreatic neuroendocrine carcinoma	254612002	Carcinoma of endocrine pancreas (disorder)	1000
+329	506098	Neuroendocrine carcinoma of pancreas	Pancreatic neuroendocrine carcinoma	254612002	Carcinoma of endocrine pancreas (disorder)	1000
 135	502499	Erythema multiforme major	Erythema multiforme major	73442001	Stevens-Johnson syndrome (disorder)	1000
 12	502366	Squamous cell carcinoma of the lip	Squamous cell carcinoma of the lip	255071008	Squamous cell carcinoma of lip (disorder)	1000
 128	502363	Squamous cell carcinoma of the oral cavity	Squamous cell carcinoma of the oral cavity	307502000	Squamous cell carcinoma of mouth (disorder)	1000
 8	500478	Squamous cell carcinoma of the oropharynx	Squamous cell carcinoma of the oropharynx	423464009	Squamous cell carcinoma of oropharynx (disorder)	1000
-345	500062	Infantile-onset periodic fever-panniculitis-dermatosis syndrome	OTULIN-related autoinflammatory syndrome	765435009	OTU deubiquitinase with linear linkage specificity related autoinflammatory syndrome (disorder)	1000
+343	500062	Infantile-onset periodic fever-panniculitis-dermatosis syndrome	Otulipenia	765435009	OTU deubiquitinase with linear linkage specificity related autoinflammatory syndrome (disorder)	1000
 24	499182	Pilomatrix carcinoma	Pilomatrix carcinoma	24762001	Pilomatrix carcinoma (morphologic abnormality)	1000
 61	498474	Hyaline fibromatosis syndrome	Hyaline fibromatosis syndrome	238867003	Infantile systemic hyalinosis (disorder)	1000
-268	497737	Epidermolytic nevus	Epidermolytic epidermal nevus	787086003	Epidermolytic epidermal nevus (morphologic abnormality)	1000
+267	497737	Epidermolytic nevus	Epidermolytic epidermal nevus	787086003	Epidermolytic epidermal nevus (morphologic abnormality)	1000
 126	494550	Squamous cell carcinoma of the larynx	Squamous cell carcinoma of the larynx	405822008	Squamous cell carcinoma of larynx (disorder)	1000
-304	494418	Vulvar carcinoma	Carcinoma of vulva	447882007	Malignant epithelial neoplasm of vulva (disorder)	1000
-328	480512	Idiopathic ductopenia	IAD	80599001	Isolated corticotropin deficiency (disorder)	1000
+303	494418	Vulvar carcinoma	Carcinoma of vulva	447882007	Malignant epithelial neoplasm of vulva (disorder)	1000
+327	480512	Idiopathic ductopenia	IAD	80599001	Isolated corticotropin deficiency (disorder)	1000
 47	464318	Verrucous hemangioma	Verrucous hemangioma	20985003	Verrucous keratotic hemangioma (morphologic abnormality)	1000
-159	459353	C1 inhibitor deficiency	C1 inhibitor deficiency	82966003	Hereditary angioedema (disorder)	1000
-351	458768	Primary intralymphatic angioendothelioma	Dabska tumor	128768006	Endovascular papillary angioendothelioma (morphologic abnormality)	1000
+158	459353	C1 inhibitor deficiency	C1 inhibitor deficiency	82966003	Hereditary angioedema (disorder)	1000
+350	458768	Primary intralymphatic angioendothelioma	Dabska tumor	128768006	Endovascular papillary angioendothelioma (morphologic abnormality)	1000
 21	457246	Clear cell sarcoma of kidney	Clear cell sarcoma of kidney	24007003	Clear cell sarcoma of kidney (morphologic abnormality)	1000
 45	454742	Variably protease-sensitive prionopathy	Variably protease-sensitive prionopathy	721165001	Variably protease sensitive prionopathy (disorder)	1000
-271	449432	IgG4-related submandibular gland disease	Kuttner tumor	448131008	Chronic sclerosing sialadenitis (disorder)	1000
-369	449427	IgG4-related pachymeningitis	Idiopathic hypertrophic pachymeningitis	762282007	Idiopathic hypertrophic pachymeningitis (disorder)	1000
-392	443197	X-linked erythropoietic protoporphyria	XLP	77121009	X-linked lymphoproliferative syndrome (disorder)	1000
-154	440233	Congenital abducens nerve palsy	Congenital abducens nerve palsy	400945000	Congenital sixth nerve palsy (disorder)	1000
+270	449432	IgG4-related submandibular gland disease	Kuttner tumor	448131008	Chronic sclerosing sialadenitis (disorder)	1000
+368	449427	IgG4-related pachymeningitis	Idiopathic hypertrophic pachymeningitis	762282007	Idiopathic hypertrophic pachymeningitis (disorder)	1000
+391	443197	X-linked erythropoietic protoporphyria	XLP	77121009	X-linked lymphoproliferative syndrome (disorder)	1000
+153	440233	Congenital abducens nerve palsy	Congenital abducens nerve palsy	400945000	Congenital sixth nerve palsy (disorder)	1000
 60	424982	Biliary cystadenocarcinoma	Biliary cystadenocarcinoma	50422007	Bile duct cystadenocarcinoma (morphologic abnormality)	1000
 3	424261	Autosomal recessive limb-girdle muscular dystrophy type 2Y	Autosomal recessive limb-girdle muscular dystrophy type 2Y	725907002	Autosomal recessive limb girdle muscular dystrophy type 2Y (disorder)	1000
 101	424016	Adenocarcinoma of the anal canal	Adenocarcinoma of the anal canal	764845008	Adenocarcinoma of anal canal (disorder)	1000
-168	423994	Squamous cell carcinoma of the colon	Squamous cell carcinoma of the colon	766981007	Squamous cell carcinoma of colon (disorder)	1000
-366	423454	Nail and teeth abnormalities-marginal palmoplantar keratoderma-oral hyperpigmentation syndrome	Ectodermal dysplasia-short stature syndrome	764995008	Nail and tooth abnormalities, marginal palmoplantar keratoderma, oral hyperpigmentation syndrome (disorder)	1000
-260	420686	Woolly hair-palmoplantar keratoderma syndrome	Keratoderma with woolly hair type IV	764108000	Wooly hair with palmoplantar keratoderma syndrome (disorder)	1000
+167	423994	Squamous cell carcinoma of the colon	Squamous cell carcinoma of the colon	766981007	Squamous cell carcinoma of colon (disorder)	1000
+365	423454	Nail and teeth abnormalities-marginal palmoplantar keratoderma-oral hyperpigmentation syndrome	Ectodermal dysplasia-short stature syndrome	764995008	Nail and tooth abnormalities, marginal palmoplantar keratoderma, oral hyperpigmentation syndrome (disorder)	1000
+259	420686	Woolly hair-palmoplantar keratoderma syndrome	Keratoderma with woolly hair type IV	764108000	Wooly hair with palmoplantar keratoderma syndrome (disorder)	1000
 88	420573	Severe combined immunodeficiency due to CTPS1 deficiency	Severe combined immunodeficiency due to CTPS1 deficiency	763623001	Severe combined immunodeficiency due to cytidine 5-prime triphosphate synthetase 1 deficiency (disorder)	1000
 112	418959	Squamous cell carcinoma of the stomach	Squamous cell carcinoma of the stomach	766980008	Squamous cell carcinoma of stomach (disorder)	1000
 18	411777	Generalized eruptive keratoacanthoma	Generalized eruptive keratoacanthoma	254664008	Eruptive keratoacanthoma (disorder)	1000
 31	411602	Hereditary late-onset Parkinson disease	Hereditary late-onset Parkinson disease	716662004	Autosomal dominant late onset Parkinson disease (disorder)	1000
-427	404560	Familial atypical multiple mole melanoma syndrome	B-K mole syndrome	254819008	Atypical mole syndrome (disorder)	1000
-163	404546	DITRA	DITRA	238612002	Generalized pustular psoriasis (disorder)	1000
+426	404560	Familial atypical multiple mole melanoma syndrome	B-K mole syndrome	254819008	Atypical mole syndrome (disorder)	1000
+162	404546	DITRA	DITRA	238612002	Generalized pustular psoriasis (disorder)	1000
 85	404454	Alacrimia-choreoathetosis-liver dysfunction syndrome	Alacrimia-choreoathetosis-liver dysfunction syndrome	768846004	N-glycanase 1 congenital disorder of deglycosylation (disorder)	1000
 64	401945	Moyamoya disease with early-onset achalasia	Moyamoya disease with early-onset achalasia	718551002	Moyamoya disease with early onset achalasia (disorder)	1000
 114	399307	Idiopathic avascular necrosis	Idiopathic avascular necrosis	82562007	Osteochondritis dissecans (disorder)	1000
-175	399086	Finnish upper limb-onset distal myopathy	Finnish upper limb-onset distal myopathy	763718009	Finnish upper limb onset distal myopathy (disorder)	1000
+174	399086	Finnish upper limb-onset distal myopathy	Finnish upper limb-onset distal myopathy	763718009	Finnish upper limb onset distal myopathy (disorder)	1000
 136	398987	Malignant teratoma of ovary	Malignant teratoma of ovary	254871000	Immature teratoma of ovary (disorder)	1000
 76	398980	Primary peritoneal serous/papillary carcinoma	Primary peritoneal serous/papillary carcinoma	15674004	Serous surface papillary carcinoma (morphologic abnormality)	1000
-281	398971	Clear cell adenocarcinoma of the ovary	Ovarian clear cell adenocarcinoma	763131005	Clear cell adenocarcinoma of ovary (disorder)	1000
-349	398053	Adenocarcinoma of the penis	Penile adenocarcinoma	764846009	Adenocarcinoma of penis (disorder)	1000
-386	397941	MAN1B1-CDG	Carbohydrate deficient glycoprotein syndrome type II due to MAN1B1 deficiency	733450008	Carbohydrate deficient glycoprotein syndrome type 2 due to deficiency of mannosidase alpha class 1B member 1 (disorder)	1000
+280	398971	Clear cell adenocarcinoma of the ovary	Ovarian clear cell adenocarcinoma	763131005	Clear cell adenocarcinoma of ovary (disorder)	1000
+348	398053	Adenocarcinoma of the penis	Penile adenocarcinoma	764846009	Adenocarcinoma of penis (disorder)	1000
+385	397941	MAN1B1-CDG	Carbohydrate deficient glycoprotein syndrome type II due to MAN1B1 deficiency	733450008	Carbohydrate deficient glycoprotein syndrome type 2 due to deficiency of mannosidase alpha class 1B member 1 (disorder)	1000
 41	397685	Familial  hyperprolactinemia	Familial  hyperprolactinemia	763715007	Familial hyperprolactinemia (disorder)	1000
-370	397606	PrP systemic amyloidosis	Prion protein systemic amyloidosis	733422008	Prion protein systemic amyloidosis (disorder)	1000
-187	391417	HSD10 disease	HSD10 disease	801000124108	2-Methyl-3-hydroxybutyryl-CoA dehydrogenase deficiency (disorder)	1000
+370	397606	PrP systemic amyloidosis	Chronic diarrhea with hereditary sensory and autonomic neuropathy	733422008	Prion protein systemic amyloidosis (disorder)	1000
+186	391417	HSD10 disease	HSD10 disease	801000124108	2-Methyl-3-hydroxybutyryl-CoA dehydrogenase deficiency (disorder)	1000
 97	391351	SURF1-related Charcot-Marie-Tooth disease type 4	SURF1-related Charcot-Marie-Tooth disease type 4	765047006	SURF1, cytochrome c oxidase assembly factor related Charcot-Marie-Tooth disease type 4 (disorder)	1000
 9	371428	Multicentric osteolysis-nodulosis-arthropathy spectrum	Multicentric osteolysis-nodulosis-arthropathy spectrum	716868003	Multicentric osteolysis nodulosis arthropathy spectrum (disorder)	1000
 53	370943	Autism spectrum disorder-epilepsy-arthrogryposis syndrome	Autism spectrum disorder-epilepsy-arthrogryposis syndrome	733623005	Autism spectrum disorder, epilepsy, arthrogryposis syndrome (disorder)	1000
-308	370927	SSR4-CDG	Congenital disorder of glycosylation type Iy	733115009	Congenital disorder of glycosylation type 1y (disorder)	1000
-356	370921	STT3A-CDG	CDG1W	733111000	Congenital disorder of glycosylation type 1w (disorder)	1000
-273	370022	Ataxia-intellectual disability-oculomotor apraxia-cerebellar cysts syndrome	Poretti-Boltshauser syndrome	763344007	Cerebellar ataxia, intellectual disability, oculomotor apraxia, cerebellar cysts syndrome (disorder)	1000
+305	370927	SSR4-CDG	Congenital disorder of glycosylation type 1y	733115009	Congenital disorder of glycosylation type 1y (disorder)	1000
+358	370921	STT3A-CDG	CDG-Iw	733111000	Congenital disorder of glycosylation type 1w (disorder)	1000
+272	370022	Ataxia-intellectual disability-oculomotor apraxia-cerebellar cysts syndrome	Poretti-Boltshauser syndrome	763344007	Cerebellar ataxia, intellectual disability, oculomotor apraxia, cerebellar cysts syndrome (disorder)	1000
 111	369840	Autosomal recessive limb-girdle muscular dystrophy type 2S	Autosomal recessive limb-girdle muscular dystrophy type 2S	732929002	Autosomal recessive limb girdle muscular dystrophy type 2S (disorder)	1000
-245	364055	Severe early-childhood-onset retinal dystrophy	Severe early-childhood-onset retinal dystrophy	716663009	Severe early childhood onset retinal dystrophy (disorder)	1000
-157	364043	ALK-positive large B-cell lymphoma	ALK-positive large B-cell lymphoma	450910000	Anaplastic lymphoma kinase positive large B-cell lymphoma (morphologic abnormality)	1000
+244	364055	Severe early-childhood-onset retinal dystrophy	Severe early-childhood-onset retinal dystrophy	716663009	Severe early childhood onset retinal dystrophy (disorder)	1000
+156	364043	ALK-positive large B-cell lymphoma	ALK-positive large B-cell lymphoma	450910000	Anaplastic lymphoma kinase positive large B-cell lymphoma (morphologic abnormality)	1000
 25	364033	Systemic Epstein-Barr virus-positive T-cell lymphoproliferative disease of childhood	Systemic Epstein-Barr virus-positive T-cell lymphoproliferative disease of childhood	450906003	Systemic Epstein Barr virus positive T-cell lymphoproliferative disease of childhood (morphologic abnormality)	1000
 58	363623	Autosomal recessive limb-girdle muscular dystrophy type 2T	Autosomal recessive limb-girdle muscular dystrophy type 2T	732930007	Autosomal recessive limb girdle muscular dystrophy type 2T (disorder)	1000
 38	363543	Autosomal recessive limb-girdle muscular dystrophy type 2R	Autosomal recessive limb-girdle muscular dystrophy type 2R	732931006	Autosomal recessive limb girdle muscular dystrophy type 2R (disorder)	1000
 68	363494	Non-seminomatous germ cell tumor of testis	Non-seminomatous germ cell tumor of testis	107691000119101	Non-seminomatous germ cell neoplasm of testis (disorder)	1000
 13	363489	Sex cord-stromal tumor of testis	Sex cord-stromal tumor of testis	702406000	Sex cord stromal tumor of testis (disorder)	1000
-317	363409	Fetal akinesia-cerebral and retinal hemorrhage syndrome	Lethal congenital contracture syndrome type 5	763346009	Fetal akinesia, cerebral and retinal hemorrhage syndrome (disorder)	1000
+316	363409	Fetal akinesia-cerebral and retinal hemorrhage syndrome	Lethal congenital contracture syndrome type 5	763346009	Fetal akinesia, cerebral and retinal hemorrhage syndrome (disorder)	1000
 32	353220	Familial primary localized cutaneous amyloidosis	Familial primary localized cutaneous amyloidosis	111390002	Dominant primary localized cutaneous amyloidosis (disorder)	1000
 130	352328	MEGDEL syndrome	MEGDEL syndrome	711409002	3-methylglutaconic aciduria type IV with sensorineural deafness, encephalopathy and Leigh-like syndrome (disorder)	1000
 66	330041	Hemoglobin M disease	Hemoglobin M disease	267550008	Congenital methemoglobinemia (disorder)	1000
-334	330001	Wild type ATTR amyloidosis	Senile systemic amyloidosis	237877004	Senile systemic amyloidosis (disorder)	1000
+333	330001	Wild type ATTR amyloidosis	Senile systemic amyloidosis	237877004	Senile systemic amyloidosis (disorder)	1000
 43	329967	Intermittent hydrarthrosis	Intermittent hydrarthrosis	711286009	Intermittent effusion of joint (disorder)	1000
 80	329942	Transient neonatal multiple acyl-CoA dehydrogenase deficiency	Transient neonatal multiple acyl-CoA dehydrogenase deficiency	723552005	Transient neonatal multiple acyl-coenzyme A dehydrogenase deficiency (disorder)	1000
 94	329314	Adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency	Adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency	733599009	Adult-onset multiple mitochondrial deoxyribonucleic acid deletion syndrome due to deoxyguanosine kinase deficiency (disorder)	1000
-403	324737	SRD5A3-CDG	CDG1Q	733601006	Congenital disorder of glycosylation type 1q (disorder)	1000
+403	324737	SRD5A3-CDG	CDG-Iq	733601006	Congenital disorder of glycosylation type 1q (disorder)	1000
 82	324611	Autosomal dominant Charcot-Marie-Tooth disease type 2 due to KIF5A mutation	Autosomal dominant Charcot-Marie-Tooth disease type 2 due to KIF5A mutation	764730007	Autosomal dominant Charcot-Marie-Tooth disease type 2 due to kinesin family member 5A mutation (disorder)	1000
 142	324575	Hyperinsulinism due to HNF1A deficiency	Hyperinsulinism due to HNF1A deficiency	721234004	Hyperinsulinism due to hepatocyte nuclear factor 1-alpha deficiency (disorder)	1000
-329	324561	Hypopigmentation-punctate palmoplantar keratoderma syndrome	Cole disease	711154007	Guttate hypopigmentation and punctate palmoplantar keratoderma with or without ectopic calcification (disorder)	1000
-378	324422	ALG13-CDG	CDG1S	733451007	Congenital disorder of glycosylation type 1s (disorder)	1000
-364	319667	Primary lymphoma of the conjunctiva	Primary lymphoid conjunctival tumor	763477007	Primary lymphoma of conjunctiva (disorder)	1000
-413	319651	Constitutional megaloblastic anemia with severe neurologic disease	Dihydrofolate reductase deficiency	124178006	Deficiency of dihydrofolate reductase (disorder)	1000
+328	324561	Hypopigmentation-punctate palmoplantar keratoderma syndrome	Cole disease	711154007	Guttate hypopigmentation and punctate palmoplantar keratoderma with or without ectopic calcification (disorder)	1000
+377	324422	ALG13-CDG	CDG1S	733451007	Congenital disorder of glycosylation type 1s (disorder)	1000
+363	319667	Primary lymphoma of the conjunctiva	Primary lymphoid conjunctival tumor	763477007	Primary lymphoma of conjunctiva (disorder)	1000
+412	319651	Constitutional megaloblastic anemia with severe neurologic disease	Dihydrofolate reductase deficiency	124178006	Deficiency of dihydrofolate reductase (disorder)	1000
 71	319480	Acute myeloid leukemia with CEBPA somatic mutations	Acute myeloid leukemia with CEBPA somatic mutations	764855007	Acute myeloid leukemia with CCAAT/enhancer binding protein alpha somatic mutation (disorder)	1000
-235	319340	Carney complex-trismus-pseudocamptodactyly syndrome	Carney complex-trismus-pseudocamptodactyly syndrome	766881008	Carney complex, trismus, pseudocamptodactyly syndrome (disorder)	1000
+234	319340	Carney complex-trismus-pseudocamptodactyly syndrome	Carney complex-trismus-pseudocamptodactyly syndrome	766881008	Carney complex, trismus, pseudocamptodactyly syndrome (disorder)	1000
 74	319244	Chapare hemorrhagic fever	Chapare hemorrhagic fever	716584007	Hemorrhagic fever caused by Chapare virus (disorder)	1000
 83	319213	Lujo hemorrhagic fever	Lujo hemorrhagic fever	716585008	Hemorrhagic fever caused by Lujo virus (disorder)	1000
 86	319189	Familial cortical myoclonus	Familial cortical myoclonus	763770005	Familial myoclonus of cerebral cortex (disorder)	1000
 127	317425	Severe combined immunodeficiency due to DNA-PKcs deficiency	Severe combined immunodeficiency due to DNA-PKcs deficiency	716871006	Severe combined immunodeficiency due to deoxyribonucleic acid dependent protein kinase catalytic subunit deficiency (disorder)	1000
 125	314811	Short stature due to GHSR deficiency	Short stature due to GHSR deficiency	766817004	Short stature due to growth hormone secretagogue receptor deficiency (disorder)	1000
-312	314667	TMEM165-CDG	Congenital disorder of glycosylation type IIk	732252005	Carbohydrate deficient glycoprotein syndrome type 2k (disorder)	1000
+314	314667	TMEM165-CDG	Carbohydrate deficient glycoprotein syndrome type IIk	732252005	Carbohydrate deficient glycoprotein syndrome type 2k (disorder)	1000
 73	314652	Variant ABeta2M amyloidosis	Variant ABeta2M amyloidosis	722292000	Autosomal dominant beta2-microglobulinic amyloidosis (disorder)	1000
-156	314478	Ovarian fibrothecoma	Ovarian fibrothecoma	765190005	Fibrothecoma of ovary (disorder)	1000
-266	314376	Intestinal obstruction in the newborn due to guanylate cyclase 2C deficiency	Meconium ileus due to guanylate cyclase 2C deficiency	733447005	Intestinal obstruction in newborn due to guanylate cyclase 2C deficiency (disorder)	1000
-383	314051	Leukoencephalopathy-thalamus and brainstem anomalies-high lactate syndrome	Combined oxidative phosphorylation defect type 12	763366000	Leukoencephalopathy, thalamus and brainstem anomalies, high lactate syndrome (disorder)	1000
+155	314478	Ovarian fibrothecoma	Ovarian fibrothecoma	765190005	Fibrothecoma of ovary (disorder)	1000
+265	314376	Intestinal obstruction in the newborn due to guanylate cyclase 2C deficiency	Meconium ileus due to guanylate cyclase 2C deficiency	733447005	Intestinal obstruction in newborn due to guanylate cyclase 2C deficiency (disorder)	1000
+382	314051	Leukoencephalopathy-thalamus and brainstem anomalies-high lactate syndrome	Combined oxidative phosphorylation defect type 12	763366000	Leukoencephalopathy, thalamus and brainstem anomalies, high lactate syndrome (disorder)	1000
 52	313920	Epstein-Barr virus-associated gastric carcinoma	Epstein-Barr virus-associated gastric carcinoma	716586009	Carcinoma of stomach due to Epstein-Barr virus disease (disorder)	1000
-234	308425	Methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency	Methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency	765137006	Methylmalonic acidemia due to methylmalonyl-coenzyme A epimerase deficiency (disorder)	1000
+233	308425	Methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency	Methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency	765137006	Methylmalonic acidemia due to methylmalonyl-coenzyme A epimerase deficiency (disorder)	1000
 107	306741	Hemidystonia-hemiatrophy syndrome	Hemidystonia-hemiatrophy syndrome	724383002	Hemidystonia hemiatrophy syndrome (disorder)	1000
-167	306669	Hemiparkinsonism-hemiatrophy syndrome	Hemiparkinsonism-hemiatrophy syndrome	737582007	Hemiparkinsonism hemiatrophy syndrome (disorder)	1000
+166	306669	Hemiparkinsonism-hemiatrophy syndrome	Hemiparkinsonism-hemiatrophy syndrome	737582007	Hemiparkinsonism hemiatrophy syndrome (disorder)	1000
 124	306550	FADD-related immunodeficiency	FADD-related immunodeficiency	723334006	Immunodeficiency due to mutation of FAS-associated protein with death domain gene (disorder)	1000
-353	300536	DDOST-CDG	Congenital disorder of glycosylation type 1r	733083006	Congenital disorder of glycosylation type 1r (disorder)	1000
+353	300536	DDOST-CDG	Carbohydrate deficient glycoprotein syndrome type Ir	733083006	Congenital disorder of glycosylation type 1r (disorder)	1000
 84	293936	EDICT syndrome	EDICT syndrome	722439009	Endothelial dystrophy, iris hypoplasia, congenital cataract, stromal thinning syndrome (disorder)	1000
 19	293375	Grayson-Wilbrandt corneal dystrophy	Grayson-Wilbrandt corneal dystrophy	717286002	Grayson Wilbrandt dystrophy of cornea (disorder)	1000
 92	289661	Epstein-Barr virus-positive diffuse large B-cell lymphoma of the elderly	Epstein-Barr virus-positive diffuse large B-cell lymphoma of the elderly	716788007	Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly (disorder)	1000
 106	289596	Juvenile nasopharyngeal angiofibroma	Juvenile nasopharyngeal angiofibroma	716590006	Juvenile angiofibroma of nasopharynx (disorder)	1000
-339	289560	Mitochondrial membrane protein-associated neurodegeneration	NBIA4	709415008	Mitochondrial membrane protein associated neurodegeneration (disorder)	1000
-144	289390	Primary Sjogren syndrome	Primary Sjogren syndrome	239912009	Primary Sjögren's syndrome (disorder)	1000
+337	289560	Mitochondrial membrane protein-associated neurodegeneration	MPAN	709415008	Mitochondrial membrane protein associated neurodegeneration (disorder)	1000
+143	289390	Primary Sjogren syndrome	Primary Sjogren syndrome	239912009	Primary Sjögren's syndrome (disorder)	1000
 57	282166	Inherited Creutzfeldt-Jakob disease	Inherited Creutzfeldt-Jakob disease	715807002	Familial Creutzfeldt-Jakob (disorder)	1000
 115	280333	Autosomal recessive limb-girdle muscular dystrophy type 2P	Autosomal recessive limb-girdle muscular dystrophy type 2P	726614009	Autosomal recessive limb girdle muscular dystrophy type 2P (disorder)	1000
-342	280071	ALG11-CDG	Carbohydrate deficient glycoprotein syndrome type Ip	733085004	Congenital disorder of glycosylation type 1p (disorder)	1000
+341	280071	ALG11-CDG	Carbohydrate deficient glycoprotein syndrome type Ip	733085004	Congenital disorder of glycosylation type 1p (disorder)	1000
 49	279922	Infectious anterior uveitis	Infectious anterior uveitis	89114005	Infectious secondary iridocyclitis (disorder)	1000
 132	276608	Adult-onset non-insulinoma persistent hyperinsulinemic hypoglycemia	Adult-onset non-insulinoma persistent hyperinsulinemic hypoglycemia	717044000	Adult onset non-insulinoma persistent hyperinsulinemic hypoglycemia (disorder)	1000
-164	276575	Autosomal dominant hyperinsulinism due to SUR1 deficiency	Autosomal dominant hyperinsulinism due to SUR1 deficiency	717046003	Autosomal dominant hyperinsulinism due to sulfonylurea receptor 1 deficiency (disorder)	1000
+163	276575	Autosomal dominant hyperinsulinism due to SUR1 deficiency	Autosomal dominant hyperinsulinism due to SUR1 deficiency	717046003	Autosomal dominant hyperinsulinism due to sulfonylurea receptor 1 deficiency (disorder)	1000
 109	276556	Hyperinsulinism due to UCP2 deficiency	Hyperinsulinism due to UCP2 deficiency	721834007	Hyperinsulinism due to uncoupling protein 2 deficiency (disorder)	1000
 138	276402	Limbic encephalitis with caspr2 antibodies	Limbic encephalitis with caspr2 antibodies	763793004	Limbic encephalitis with contactin-associated protein-like 2 antibodies (disorder)	1000
-393	275517	Autoimmune lymphoproliferative syndrome with recurrent viral infections	Caspase 8 deficiency syndrome	722290008	Autoimmune lymphoproliferative syndrome with recurrent viral infection (disorder)	1000
+392	275517	Autoimmune lymphoproliferative syndrome with recurrent viral infections	Caspase 8 deficiency syndrome	722290008	Autoimmune lymphoproliferative syndrome with recurrent viral infection (disorder)	1000
 140	268249	Mycophenolate mofetil embryopathy	Mycophenolate mofetil embryopathy	723406000	Embryopathy caused by mycophenolate mofetil (disorder)	1000
 54	263665	NK-cell enteropathy	NK-cell enteropathy	723496007	Natural killer cell enteropathy (disorder)	1000
-365	263501	COG4-CDG	Carbohydrate deficient glycoprotein syndrome type IIj	718751000	Component of oligomeric golgi complex 4 congenital disorder of glycosylation (disorder)	1000
-437	263494	DPM3-CDG	Congenital disorder of glycosylation type 1o	725044000	Carbohydrate deficient glycoprotein syndrome type 1o (disorder)	1000
-264	263487	COG5-CDG	CDG-IIi	721100009	Component of oligomeric golgi complex 5 congenital disorder of glycosylation (disorder)	1000
+364	263501	COG4-CDG	Carbohydrate deficient glycoprotein syndrome type IIj	718751000	Component of oligomeric golgi complex 4 congenital disorder of glycosylation (disorder)	1000
+436	263494	DPM3-CDG	Congenital disorder of glycosylation type 1o	725044000	Carbohydrate deficient glycoprotein syndrome type 1o (disorder)	1000
+261	263487	COG5-CDG	CDG2I	721100009	Component of oligomeric golgi complex 5 congenital disorder of glycosylation (disorder)	1000
 1	263455	Hyperinsulinism due to HNF4A deficiency	Hyperinsulinism due to HNF4A deficiency	717048002	Hyperinsulinism due to hepatocyte nuclear factor 4-alpha deficiency (disorder)	1000
-298	261476	Xp21 microdeletion syndrome	Glycerol kinase deficiency-contiguous gene syndrome	297257004	Glycerol kinase deficiency - contiguous gene syndrome (disorder)	1000
-247	254881	Spinocerebellar ataxia with epilepsy	Spinocerebellar ataxia with epilepsy	699328003	Myoclonic epilepsy myopathy sensory ataxia (disorder)	1000
+297	261476	Xp21 microdeletion syndrome	Glycerol kinase deficiency-contiguous gene syndrome	297257004	Glycerol kinase deficiency - contiguous gene syndrome (disorder)	1000
+246	254881	Spinocerebellar ataxia with epilepsy	Spinocerebellar ataxia with epilepsy	699328003	Myoclonic epilepsy myopathy sensory ataxia (disorder)	1000
 131	254361	Autosomal recessive limb-girdle muscular dystrophy type 2Q	Autosomal recessive limb-girdle muscular dystrophy type 2Q	726615005	Autosomal recessive limb girdle muscular dystrophy type 2Q (disorder)	1000
-251	252164	Benign schwannoma	Benign schwannoma	985004	Schwannoma (morphologic abnormality)	1000
-301	252050	Primary melanoma of the central nervous system	Malignant melanoma of meninges	277530005	Malignant melanoma of meninges (disorder)	1000
-323	251975	Rosette-forming glioneuronal tumor	RGNT	733906003	Rosette-forming glioneuronal neoplasm (morphologic abnormality)	1000
+250	252164	Benign schwannoma	Benign schwannoma	985004	Schwannoma (morphologic abnormality)	1000
+300	252050	Primary melanoma of the central nervous system	Malignant melanoma of meninges	277530005	Malignant melanoma of meninges (disorder)	1000
+322	251975	Rosette-forming glioneuronal tumor	RGNT	733906003	Rosette-forming glioneuronal neoplasm (morphologic abnormality)	1000
 102	251937	Gangliocytoma	Gangliocytoma	128919000	Gangliocytoma (morphologic abnormality)	1000
 62	251274	Familial hyperaldosteronism type III	Familial hyperaldosteronism type III	703234002	Familial hyperaldosteronism type 3 (disorder)	1000
-411	250977	AICA-ribosiduria	5-amino-4-imidazole carboxamide ribosiduria	725289009	5-amino-4-imidazole carboxamide ribosiduria (disorder)	1000
-185	247525	Citrullinemia type I	Citrullinemia type I	398680004	Citrullinemia (disorder)	1000
-291	238670	Isolated thyrotropin-releasing hormone deficiency	Isolated TRH deficiency	10736002	Isolated thyroliberin deficiency (disorder)	1000
-399	238593	IgG4-related mesenteritis	Sclerosing mesenteritis	86422009	Retractile mesenteritis (disorder)	1000
+410	250977	AICA-ribosiduria	5-amino-4-imidazole carboxamide ribosiduria	725289009	5-amino-4-imidazole carboxamide ribosiduria (disorder)	1000
+184	247525	Citrullinemia type I	Citrullinemia type I	398680004	Citrullinemia (disorder)	1000
+289	238670	Isolated thyrotropin-releasing hormone deficiency	Isolated thyroliberin deficiency	10736002	Isolated thyroliberin deficiency (disorder)	1000
+398	238593	IgG4-related mesenteritis	Sclerosing mesenteritis	86422009	Retractile mesenteritis (disorder)	1000
 103	231393	Beta-thalassemia-X-linked thrombocytopenia syndrome	Beta-thalassemia-X-linked thrombocytopenia syndrome	718196002	Beta thalassemia X-linked thrombocytopenia syndrome (disorder)	1000
-250	231154	Combined immunodeficiency due to partial RAG1 deficiency	Combined immunodeficiency due to partial RAG1 deficiency	725290000	Combined immunodeficiency due to partial recombination-activating gene 1 deficiency (disorder)	1000
-203	228379	Virus-associated trichodysplasia spinulosa	Virus-associated trichodysplasia spinulosa	723544007	Trichodysplasia spinulosa caused by Polyomavirus (disorder)	1000
-337	228277	Familial anetoderma	Hereditary macular atrophy	733467001	Hereditary anetoderma (disorder)	1000
-269	228264	Papular elastorrhexis	Nevus anelasticus	239141004	Nevus anelasticus (disorder)	1000
-272	228254	Elastoma	Nevus elasticus	239140003	Nevus elasticus (disorder)	1000
+249	231154	Combined immunodeficiency due to partial RAG1 deficiency	Combined immunodeficiency due to partial RAG1 deficiency	725290000	Combined immunodeficiency due to partial recombination-activating gene 1 deficiency (disorder)	1000
+202	228379	Virus-associated trichodysplasia spinulosa	Virus-associated trichodysplasia spinulosa	723544007	Trichodysplasia spinulosa caused by Polyomavirus (disorder)	1000
+336	228277	Familial anetoderma	Hereditary macular atrophy	733467001	Hereditary anetoderma (disorder)	1000
+269	228264	Papular elastorrhexis	Eruptive collagenoma	239138008	Eruptive collagenoma (disorder)	1000
+271	228254	Elastoma	Nevus elasticus	239140003	Nevus elasticus (disorder)	1000
 55	228243	Elastofibroma dorsi	Elastofibroma dorsi	9671003	Elastofibroma (morphologic abnormality)	1000
 27	228116	Hughes-Stovin syndrome	Hughes-Stovin syndrome	721226005	Hughes Stovin syndrome (disorder)	1000
-360	227990	Autoimmune polyendocrinopathy type 4	Autoimmune polyendocrine syndrome type 4	449730005	Autoimmune polyendocrine syndrome type 4 (disorder)	1000
-408	227982	Autoimmune polyendocrinopathy type 3	Autoimmune polyglandular syndrome type 3	449731009	Autoimmune polyendocrine syndrome type 3 (disorder)	1000
-297	217253	Limbic encephalitis with NMDA receptor antibodies	Limbic encephalitis with N-methyl-D-aspartate receptor antibodies	716684004	Limbic encephalitis with N-methyl-D-aspartate receptor antibodies (disorder)	1000
-350	213828	Adenoid basal carcinoma of the cervix uteri	Cervical adenoid basal carcinoma	763063001	Adenoid basal carcinoma of cervix uteri (disorder)	1000
-146	213823	Adenoid cystic carcinoma of the cervix uteri	Adenoid cystic carcinoma of the cervix uteri	763064007	Adenoid cystic carcinoma of cervix uteri (disorder)	1000
-321	213807	Leiomyosarcoma of the cervix uteri	Cervical leiomyosarcoma	763771009	Leiomyosarcoma of cervix uteri (disorder)	1000
-375	213802	Rhabdomyosarcoma of the cervix uteri	Cervical rhabdomyosarcoma	763408003	Rhabdomyosarcoma of cervix uteri (disorder)	1000
-318	213792	Adenosarcoma of the cervix uteri	Cervical adenosarcoma	764847000	Adenosarcoma of cervix uteri (disorder)	1000
-292	213787	Carcinosarcoma of the cervix uteri	Cervical carcinosarcoma	764951002	Carcinosarcoma of cervix uteri (disorder)	1000
-288	213721	Undifferentiated carcinoma of the corpus uteri	Endometrial undifferentiated carcinoma	733360000	Primary undifferentiated carcinoma of endometrium (disorder)	1000
-382	213716	Squamous cell carcinoma of the corpus uteri	Endometrial squamous cell carcinoma	733359005	Primary squamous cell carcinoma of endometrium (disorder)	1000
+359	227990	Autoimmune polyendocrinopathy type 4	Autoimmune polyendocrine syndrome type 4	449730005	Autoimmune polyendocrine syndrome type 4 (disorder)	1000
+406	227982	Autoimmune polyendocrinopathy type 3	Autoimmune polyendocrine syndrome type 3	449731009	Autoimmune polyendocrine syndrome type 3 (disorder)	1000
+296	217253	Limbic encephalitis with NMDA receptor antibodies	Limbic encephalitis with N-methyl-D-aspartate receptor antibodies	716684004	Limbic encephalitis with N-methyl-D-aspartate receptor antibodies (disorder)	1000
+349	213828	Adenoid basal carcinoma of the cervix uteri	Cervical adenoid basal carcinoma	763063001	Adenoid basal carcinoma of cervix uteri (disorder)	1000
+145	213823	Adenoid cystic carcinoma of the cervix uteri	Adenoid cystic carcinoma of the cervix uteri	763064007	Adenoid cystic carcinoma of cervix uteri (disorder)	1000
+320	213807	Leiomyosarcoma of the cervix uteri	Cervical leiomyosarcoma	763771009	Leiomyosarcoma of cervix uteri (disorder)	1000
+374	213802	Rhabdomyosarcoma of the cervix uteri	Cervical rhabdomyosarcoma	763408003	Rhabdomyosarcoma of cervix uteri (disorder)	1000
+317	213792	Adenosarcoma of the cervix uteri	Cervical adenosarcoma	764847000	Adenosarcoma of cervix uteri (disorder)	1000
+291	213787	Carcinosarcoma of the cervix uteri	Cervical carcinosarcoma	764951002	Carcinosarcoma of cervix uteri (disorder)	1000
+287	213721	Undifferentiated carcinoma of the corpus uteri	Endometrial undifferentiated carcinoma	733360000	Primary undifferentiated carcinoma of endometrium (disorder)	1000
+381	213716	Squamous cell carcinoma of the corpus uteri	Endometrial squamous cell carcinoma	733359005	Primary squamous cell carcinoma of endometrium (disorder)	1000
 133	213610	Carcinosarcoma of the corpus uteri	Carcinosarcoma of the corpus uteri	764952009	Carcinosarcoma of corpus uteri (disorder)	1000
 104	210576	Congenital temporomandibular joint ankylosis	Congenital temporomandibular joint ankylosis	763215008	Congenital ankylosis of temporomandibular joint (disorder)	1000
 90	209908	Childhood apraxia of speech	Childhood apraxia of speech	229703009	Developmental verbal dyspraxia (disorder)	1000
-372	209886	Familial juvenile hyperuricemic nephropathy type 1	Familial juvenile gouty nephropathy	46785007	Familial juvenile gout (disorder)	1000
-149	206994	Bacterial myositis	Bacterial myositis	30330001	Purulent myositis (disorder)	1000
-280	206594	Subacute inflammatory demyelinating polyneuropathy	Subacute inflammatory demyelinating polyradiculoneuropathy	277189006	Subacute inflammatory demyelinating polyradiculoneuropathy (disorder)	1000
-325	206572	Overlap myositis	Non-specific myositis	26889001	Myositis (disorder)	1000
+371	209886	Familial juvenile hyperuricemic nephropathy type 1	Familial juvenile gouty nephropathy	46785007	Familial juvenile gout (disorder)	1000
+148	206994	Bacterial myositis	Bacterial myositis	30330001	Purulent myositis (disorder)	1000
+279	206594	Subacute inflammatory demyelinating polyneuropathy	Subacute inflammatory demyelinating polyradiculoneuropathy	277189006	Subacute inflammatory demyelinating polyradiculoneuropathy (disorder)	1000
+324	206572	Overlap myositis	Non-specific myositis	26889001	Myositis (disorder)	1000
 11	206564	Autosomal recessive limb-girdle muscular dystrophy type 2O	Autosomal recessive limb-girdle muscular dystrophy type 2O	725043006	Autosomal recessive limb girdle muscular dystrophy type 2O (disorder)	1000
 141	206559	Autosomal recessive limb-girdle muscular dystrophy type 2N	Autosomal recessive limb-girdle muscular dystrophy type 2N	726617002	Autosomal recessive limb girdle muscular dystrophy type 2N (disorder)	1000
-243	206554	Autosomal recessive limb-girdle muscular dystrophy type 2M	Autosomal recessive limb-girdle muscular dystrophy type 2M	726618007	Autosomal recessive limb girdle muscular dystrophy type 2M (disorder)	1000
-215	206549	Autosomal recessive limb-girdle muscular dystrophy type 2L	Autosomal recessive limb-girdle muscular dystrophy type 2L	726616006	Autosomal recessive limb girdle muscular dystrophy type 2L (disorder)	1000
+242	206554	Autosomal recessive limb-girdle muscular dystrophy type 2M	Autosomal recessive limb-girdle muscular dystrophy type 2M	726618007	Autosomal recessive limb girdle muscular dystrophy type 2M (disorder)	1000
+214	206549	Autosomal recessive limb-girdle muscular dystrophy type 2L	Autosomal recessive limb-girdle muscular dystrophy type 2L	726616006	Autosomal recessive limb girdle muscular dystrophy type 2L (disorder)	1000
 119	206492	Vulvovaginal rhabdomyosarcoma	Vulvovaginal rhabdomyosarcoma	766759009	Rhabdomyosarcoma of vulva and vagina (disorder)	1000
-155	206484	Gonadoblastoma	Gonadoblastoma	74751003	Gonadoblastoma (morphologic abnormality)	1000
+154	206484	Gonadoblastoma	Gonadoblastoma	74751003	Gonadoblastoma (morphologic abnormality)	1000
 98	189427	Cushing syndrome due to macronodular adrenal hyperplasia	Cushing syndrome due to macronodular adrenal hyperplasia	720459002	Hypercortisolism due to macronodular adrenal hyperplasia (disorder)	1000
-166	178533	Primary cutaneous gamma/delta-positive T-cell lymphoma	Primary cutaneous gamma/delta-positive T-cell lymphoma	733627006	Primary cutaneous gamma-delta-positive T-cell lymphoma (disorder)	1000
-327	178528	Primary cutaneous aggressive epidermotropic CD8+ T-cell lymphoma	Berti lymphoma	765136002	Primary cutaneous CD8 positive aggressive epidermotropic cytotoxic T-cell lymphoma (disorder)	1000
-211	178333	Aland Islands eye disease	Aland Islands eye disease	725168006	Aland Islands eye disease (disorder)	1000
-275	178315	Undifferentiated embryonal sarcoma of the liver	Embryonal sarcoma of the liver	716648006	Embryonal sarcoma of liver (disorder)	1000
-225	171848	Polyneuropathy-hearing loss-ataxia-retinitis pigmentosa-cataract syndrome	Polyneuropathy-hearing loss-ataxia-retinitis pigmentosa-cataract syndrome	723452007	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, cataract syndrome (disorder)	1000
-300	169142	Recurrent infection due to specific granule deficiency	Neutrophil-specific granule deficiency	234588005	Neutrophil secondary granule deficiency (disorder)	1000
+165	178533	Primary cutaneous gamma/delta-positive T-cell lymphoma	Primary cutaneous gamma/delta-positive T-cell lymphoma	733627006	Primary cutaneous gamma-delta-positive T-cell lymphoma (disorder)	1000
+326	178528	Primary cutaneous aggressive epidermotropic CD8+ T-cell lymphoma	Berti lymphoma	765136002	Primary cutaneous CD8 positive aggressive epidermotropic cytotoxic T-cell lymphoma (disorder)	1000
+210	178333	Aland Islands eye disease	Aland Islands eye disease	725168006	Aland Islands eye disease (disorder)	1000
+273	178315	Undifferentiated embryonal sarcoma of the liver	UES	59583009	Embryonal sarcoma (morphologic abnormality)	1000
+224	171848	Polyneuropathy-hearing loss-ataxia-retinitis pigmentosa-cataract syndrome	Polyneuropathy-hearing loss-ataxia-retinitis pigmentosa-cataract syndrome	723452007	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, cataract syndrome (disorder)	1000
+299	169142	Recurrent infection due to specific granule deficiency	Neutrophil-specific granule deficiency	234588005	Neutrophil secondary granule deficiency (disorder)	1000
 46	169095	Alymphoid cystic thymic dysgenesis	Alymphoid cystic thymic dysgenesis	720345008	Severe T-cell immunodeficiency, congenital alopecia, nail dystrophy syndrome (disorder)	1000
 34	169090	Combined immunodeficiency due to CRAC channel dysfunction	Combined immunodeficiency due to CRAC channel dysfunction	717811007	Combined immunodeficiency due to calcium release activated calcium channel dysfunction (disorder)	1000
-151	169079	Cernunnos-XLF deficiency	Cernunnos-XLF deficiency	720853005	Severe combined immunodeficiency, microcephaly, growth retardation, sensitivity to ionizing radiation syndrome (disorder)	1000
-286	168829	Primary peritoneal carcinoma	Serous surface papillary carcinoma	716649003	Extraovarian primary peritoneal carcinoma (disorder)	1000
-152	166424	Thinking seizures	Thinking seizures	763622006	Thinking epilepsy (disorder)	1000
-217	165994	Pituitary resistance to thyroid hormone	Pituitary resistance to thyroid hormone	360348000	Pituitary thyroid hormone resistance (disorder)	1000
+150	169079	Cernunnos-XLF deficiency	Cernunnos-XLF deficiency	720853005	Severe combined immunodeficiency, microcephaly, growth retardation, sensitivity to ionizing radiation syndrome (disorder)	1000
+285	168829	Primary peritoneal carcinoma	Serous surface papillary carcinoma	716649003	Extraovarian primary peritoneal carcinoma (disorder)	1000
+151	166424	Thinking seizures	Thinking seizures	763622006	Thinking epilepsy (disorder)	1000
+216	165994	Pituitary resistance to thyroid hormone	Pituitary resistance to thyroid hormone	360348000	Pituitary thyroid hormone resistance (disorder)	1000
 33	165958	Cavitary myiasis	Cavitary myiasis	764811001	Infestation of body cavity caused by fly larvae (disorder)	1000
 121	163908	Limbic encephalitis with LGI1 antibodies	Limbic encephalitis with LGI1 antibodies	763794005	Limbic encephalitis with leucine-rich glioma-inactivated 1 antibodies (disorder)	1000
-205	163746	Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease	Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease	765325002	Peripheral demyelinating neuropathy, central dysmyelinating leukodystrophy, Waardenburg syndrome, Hirschsprung disease (disorder)	1000
+204	163746	Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease	Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease	765325002	Peripheral demyelinating neuropathy, central dysmyelinating leukodystrophy, Waardenburg syndrome, Hirschsprung disease (disorder)	1000
 122	163703	Febrile infection-related epilepsy syndrome	Febrile infection-related epilepsy syndrome	725413002	Febrile infection related epilepsy syndrome (disorder)	1000
 79	158019	Indeterminate cell histiocytosis	Indeterminate cell histiocytosis	721313009	Indeterminate dendritic cell neoplasm (disorder)	1000
 108	158014	Rosai-Dorfman disease	Rosai-Dorfman disease	34287003	Sinus histiocytosis with massive lymphadenopathy (disorder)	1000
-279	157991	Generalized eruptive histiocytosis	Generalized eruptive histiocytoma	110980006	Generalized eruptive histiocytoma (disorder)	1000
+278	157991	Generalized eruptive histiocytosis	Generalized eruptive histiocytoma	110980006	Generalized eruptive histiocytoma (disorder)	1000
 36	140941	Short stature due to primary acid-labile subunit deficiency	Short stature due to primary acid-labile subunit deficiency	721074002	Short stature due to primary acid labile subunit deficiency (disorder)	1000
-171	140922	Autosomal recessive limb-girdle muscular dystrophy type 2J	Autosomal recessive limb-girdle muscular dystrophy type 2J	725042001	Autosomal recessive limb girdle muscular dystrophy type 2J (disorder)	1000
-287	140905	Hyperlipidemia due to hepatic triacylglycerol lipase deficiency	Hyperlipidemia due to hepatic triglyceride lipase deficiency	720940008	Hepatic lipase deficiency (disorder)	1000
+170	140922	Autosomal recessive limb-girdle muscular dystrophy type 2J	Autosomal recessive limb-girdle muscular dystrophy type 2J	725042001	Autosomal recessive limb girdle muscular dystrophy type 2J (disorder)	1000
+286	140905	Hyperlipidemia due to hepatic triacylglycerol lipase deficiency	Hyperlipidemia due to hepatic triglyceride lipase deficiency	720940008	Hepatic lipase deficiency (disorder)	1000
 6	139512	Neuropathy with hearing impairment	Neuropathy with hearing impairment	723497003	Peripheral neuropathy with sensorineural hearing impairment syndrome (disorder)	1000
 72	137935	Laryngotracheal angioma	Laryngotracheal angioma	703199001	Laryngotracheal hemangioma (disorder)	1000
-400	137908	Hypotonia with lactic acidemia and hyperammonemia	Combined oxidative phosphorylation defect type 5	724279004	Combined oxidative phosphorylation defect type 5 (disorder)	1000
-402	137831	X-linked intellectual disability-cerebellar hypoplasia syndrome	Oligophrenin-1 syndrome	719136005	X-linked intellectual disability with cerebellar hypoplasia syndrome (disorder)	1000
-397	137810	Nodular cutaneous amyloidosis	Primary localized cutaneous nodular amyloidosis	716704007	Primary localized cutaneous nodular amyloidosis (disorder)	1000
-361	137625	Glycogen storage disease due to muscle and heart glycogen synthase deficiency	Glycogen storage disease type 0b	725027004	Muscle and heart glycogen synthase deficiency (disorder)	1000
+399	137908	Hypotonia with lactic acidemia and hyperammonemia	Combined oxidative phosphorylation defect type 5	724279004	Combined oxidative phosphorylation defect type 5 (disorder)	1000
+401	137831	X-linked intellectual disability-cerebellar hypoplasia syndrome	Oligophrenin-1 syndrome	719136005	X-linked intellectual disability with cerebellar hypoplasia syndrome (disorder)	1000
+396	137810	Nodular cutaneous amyloidosis	Primary localized cutaneous nodular amyloidosis	716704007	Primary localized cutaneous nodular amyloidosis (disorder)	1000
+360	137625	Glycogen storage disease due to muscle and heart glycogen synthase deficiency	Glycogen storage disease type 0b	725027004	Muscle and heart glycogen synthase deficiency (disorder)	1000
 123	103920	Undetermined colitis	Undetermined colitis	235746007	Indeterminate colitis (disorder)	1000
-443	103918	Tropical pancreatitis	Tropical calcific chronic pancreatitis	724540009	Tropical calcific chronic pancreatitis (disorder)	1000
-320	100924	Porphyria due to ALA dehydratase deficiency	ALAD porphyria	64081000	Porphobilinogen synthase deficiency (disorder)	1000
+442	103918	Tropical pancreatitis	Tropical calcific chronic pancreatitis	724540009	Tropical calcific chronic pancreatitis (disorder)	1000
+319	100924	Porphyria due to ALA dehydratase deficiency	ALAD porphyria	64081000	Porphobilinogen synthase deficiency (disorder)	1000
 56	100083	Laryngeal neuroendocrine tumor	Laryngeal neuroendocrine tumor	707625001	Neuroendocrine neoplasm of larynx (disorder)	1000
-449	99908	Pigeon-breeder lung disease	Bird fancier lung	69339004	Bird-fanciers' lung (disorder)	1000
+448	99908	Pigeon-breeder lung disease	Bird fancier lung	69339004	Bird-fanciers' lung (disorder)	1000
 15	99869	Thymic neuroendocrine carcinoma	Thymic neuroendocrine carcinoma	716653001	Neuroendocrine carcinoma of thymus (disorder)	1000
 50	99852	Ravine syndrome	Ravine syndrome	715794009	Progressive encephalopathy with severe infantile anorexia (disorder)	1000
-147	99832	Resistance to thyrotropin-releasing hormone syndrome	Resistance to thyrotropin-releasing hormone syndrome	725462002	Congenital central hypothyroidism due to thyrotropin-releasing hormone receptor deficiency (disorder)	1000
+146	99832	Resistance to thyrotropin-releasing hormone syndrome	Resistance to thyrotropin-releasing hormone syndrome	725462002	Congenital central hypothyroidism due to thyrotropin-releasing hormone receptor deficiency (disorder)	1000
 37	99736	Acetazolamide-responsive myotonia	Acetazolamide-responsive myotonia	715793003	Acetazolamide responsive myotonia (disorder)	1000
-253	99015	Spastic paraplegia type 2	Spastic paraplegia type 2	723622007	X-linked spastic paraplegia type 2 (disorder)	1000
+252	99015	Spastic paraplegia type 2	Spastic paraplegia type 2	723622007	X-linked spastic paraplegia type 2 (disorder)	1000
 42	99003	Multifocal pattern dystrophy simulating fundus flavimaculatus	Multifocal pattern dystrophy simulating fundus flavimaculatus	723408004	Multifocal pattern dystrophy of retinal pigment epithelium simulating fundus flavimaculatus (disorder)	1000
 23	99001	Butterfly-shaped pigment dystrophy	Butterfly-shaped pigment dystrophy	725590001	Butterfly-shaped pigmentary macular dystrophy (disorder)	1000
-335	98917	Acute motor and sensory axonal neuropathy	Acute motor-sensory axonal Guillain-Barre syndrome	716722005	Acute motor sensory axonal Guillain-Barré syndrome (disorder)	1000
-233	98916	Acute inflammatory demyelinating polyradiculoneuropathy	Acute inflammatory demyelinating polyradiculoneuropathy	26261000119109	Acute inflammatory demyelinating polyneuropathy (disorder)	1000
+334	98917	Acute motor and sensory axonal neuropathy	Acute motor-sensory axonal Guillain-Barre syndrome	716722005	Acute motor sensory axonal Guillain-Barré syndrome (disorder)	1000
+232	98916	Acute inflammatory demyelinating polyradiculoneuropathy	Acute inflammatory demyelinating polyradiculoneuropathy	26261000119109	Acute inflammatory demyelinating polyneuropathy (disorder)	1000
 100	98839	Intravascular large B-cell lymphoma	Intravascular large B-cell lymphoma	255102004	Angioendotheliomatosis (disorder)	1000
-186	98838	Primary mediastinal large B-cell lymphoma	Primary mediastinal large B-cell lymphoma	444910004	Primary mediastinal (thymic) large B-cell lymphoma (disorder)	1000
-150	98808	Autosomal dominant dopa-responsive dystonia	Autosomal dominant dopa-responsive dystonia	715768000	Autosomal dominant dopa responsive dystonia (disorder)	1000
-431	98807	Primary dystonia, DYT13 type	Primary dystonia with mixed phenotype	719278006	Primary dystonia type 13 (disorder)	1000
-417	98805	Primary dystonia, DYT4 type	Hereditary whispering dysphonia	719276005	Primary dystonia type 4 (disorder)	1000
-278	98673	Autosomal dominant optic atrophy, classic form	Optic atrophy type 1	717336005	Autosomal dominant optic atrophy classic form (disorder)	1000
+185	98838	Primary mediastinal large B-cell lymphoma	Primary mediastinal large B-cell lymphoma	444910004	Primary mediastinal (thymic) large B-cell lymphoma (disorder)	1000
+149	98808	Autosomal dominant dopa-responsive dystonia	Autosomal dominant dopa-responsive dystonia	715768000	Autosomal dominant dopa responsive dystonia (disorder)	1000
+430	98807	Primary dystonia, DYT13 type	Primary dystonia with mixed phenotype	719278006	Primary dystonia type 13 (disorder)	1000
+416	98805	Primary dystonia, DYT4 type	Hereditary whispering dysphonia	719276005	Primary dystonia type 4 (disorder)	1000
+277	98673	Autosomal dominant optic atrophy, classic form	Optic atrophy type 1	717336005	Autosomal dominant optic atrophy classic form (disorder)	1000
 30	97566	Non-amyloid fibrillary glomerulopathy	Non-amyloid fibrillary glomerulopathy	718192000	Non-amyloid fibrillary glomerulonephritis (disorder)	1000
 96	97336	Panner disease	Panner disease	203382004	Juvenile osteochondrosis of head of humerus (disorder)	1000
-158	97287	Bronchial neuroendocrine tumor	Bronchial neuroendocrine tumor	707594002	Neuroendocrine neoplasm of lung (disorder)	1000
-379	97278	PPoma	Pancreatic polypeptidoma	255039001	Pancreatic polypeptidoma (disorder)	1000
+157	97287	Bronchial neuroendocrine tumor	Bronchial neuroendocrine tumor	707594002	Neuroendocrine neoplasm of lung (disorder)	1000
+378	97278	PPoma	Pancreatic polypeptidoma	255039001	Pancreatic polypeptidoma (disorder)	1000
 99	97244	Rigid spine syndrome	Rigid spine syndrome	240063002	Eichsfeld type congenital muscular dystrophy (disorder)	1000
-299	95494	Combined pituitary hormone deficiencies, genetic forms	Familial congenital hypopituitarism	718182008	Combined pituitary hormone deficiency genetic form (disorder)	1000
-246	95159	Hepatoerythropoietic porphyria	Hepatoerythropoietic porphyria	111386004	Homozygous porphyria cutanea tarda (disorder)	1000
-148	92050	Congenital tufting enteropathy	Congenital tufting enteropathy	715669000	Congenital epithelial dysplasia of intestine (disorder)	1000
-376	91136	Acquired monoclonal Ig light chain-associated Fanconi syndrome	Acquired monoclonal immunoglobulin light chain-associated Fanconi syndrome	724099000	Acquired monoclonal immunoglobulin light chain-associated Fanconi syndrome (disorder)	1000
-170	91135	Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency	Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency	717941005	Body skin hyperlaxity due to vitamin K dependent coagulation factor deficiency (disorder)	1000
-410	91131	DK1-CDG	Carbohydrate deficient glycoprotein syndrome type Im	718712005	Carbohydrate deficient glycoprotein syndrome type 1m (disorder)	1000
-332	90674	Isolated thyroid-stimulating hormone deficiency	Isolated TSH deficiency	89261000	Isolated thyrotropin deficiency (disorder)	1000
-257	90658	Charcot-Marie-Tooth disease type 1E	Charcot-Marie-Tooth disease type 1E	715666007	Charcot-Marie-Tooth disease type IE (disorder)	1000
-180	90280	Chilblain lupus	Chilblain lupus	238928005	Chilblain lupus erythematosus (disorder)	1000
+298	95494	Combined pituitary hormone deficiencies, genetic forms	Familial congenital hypopituitarism	718182008	Combined pituitary hormone deficiency genetic form (disorder)	1000
+245	95159	Hepatoerythropoietic porphyria	Hepatoerythropoietic porphyria	111386004	Homozygous porphyria cutanea tarda (disorder)	1000
+147	92050	Congenital tufting enteropathy	Congenital tufting enteropathy	715669000	Congenital epithelial dysplasia of intestine (disorder)	1000
+375	91136	Acquired monoclonal Ig light chain-associated Fanconi syndrome	Acquired monoclonal immunoglobulin light chain-associated Fanconi syndrome	724099000	Acquired monoclonal immunoglobulin light chain-associated Fanconi syndrome (disorder)	1000
+169	91135	Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency	Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency	717941005	Body skin hyperlaxity due to vitamin K dependent coagulation factor deficiency (disorder)	1000
+409	91131	DK1-CDG	Carbohydrate deficient glycoprotein syndrome type Im	718712005	Carbohydrate deficient glycoprotein syndrome type 1m (disorder)	1000
+331	90674	Isolated thyroid-stimulating hormone deficiency	Isolated TSH deficiency	89261000	Isolated thyrotropin deficiency (disorder)	1000
+256	90658	Charcot-Marie-Tooth disease type 1E	Charcot-Marie-Tooth disease type 1E	715666007	Charcot-Marie-Tooth disease type IE (disorder)	1000
+179	90280	Chilblain lupus	Chilblain lupus	238928005	Chilblain lupus erythematosus (disorder)	1000
 137	90118	Severe early-onset axonal neuropathy due to MFN2 deficiency	Severe early-onset axonal neuropathy due to MFN2 deficiency	766977007	Severe early-onset axonal neuropathy due to mitofusin 2 deficiency (disorder)	1000
-436	90023	Primary immunodeficiency syndrome due to LAMTOR2 deficiency	Primary immunodeficiency syndrome due to p14 deficiency	718717004	Primary immunodeficiency syndrome due to p14 deficiency (disorder)	1000
+434	90023	Primary immunodeficiency syndrome due to LAMTOR2 deficiency	Primary immunodeficiency syndrome with short stature	718717004	Primary immunodeficiency syndrome due to p14 deficiency (disorder)	1000
 75	90021	Radiation myelitis	Radiation myelitis	763869003	Myelitis caused by ionizing radiation following radiotherapy (disorder)	1000
-284	90003	IgG4-related hepatopathy	Inflammatory pseudotumor of the liver	717329009	Inflammatory pseudotumor of liver (disorder)	1000
-193	89936	X-linked hypophosphatemia	X-linked hypophosphatemia	82236004	Familial x-linked hypophosphatemic vitamin D refractory rickets (disorder)	1000
-422	88660	Hypertension due to gain-of-function mutations in the mineralocorticoid receptor	Pseudohyperaldosteronism type 2	766937004	Hypertension due to gain-of-function mutation in mineralocorticoid receptor (disorder)	1000
+283	90003	IgG4-related hepatopathy	Inflammatory pseudotumor of the liver	717329009	Inflammatory pseudotumor of liver (disorder)	1000
+192	89936	X-linked hypophosphatemia	X-linked hypophosphatemia	82236004	Familial x-linked hypophosphatemic vitamin D refractory rickets (disorder)	1000
+421	88660	Hypertension due to gain-of-function mutations in the mineralocorticoid receptor	Pseudohyperaldosteronism type 2	766937004	Hypertension due to gain-of-function mutation in mineralocorticoid receptor (disorder)	1000
 129	86870	CD4+/CD56+ hematodermic neoplasm	CD4+/CD56+ hematodermic neoplasm	445030005	Blastic plasmacytoid dendritic cell neoplasm (morphologic abnormality)	1000
-396	86841	Myelodysplastic syndrome associated with isolated del(5q) chromosome abnormality	5q- syndrome	277597005	Myelodysplastic syndrome with isolated del(5q) (disorder)	1000
+395	86841	Myelodysplastic syndrome associated with isolated del(5q) chromosome abnormality	5q- syndrome	277597005	Myelodysplastic syndrome with isolated del(5q) (disorder)	1000
 87	86820	Familial avascular necrosis of femoral head	Familial avascular necrosis of femoral head	715657008	Familial avascular necrosis of head of femur (disorder)	1000
-241	86812	Autosomal recessive limb-girdle muscular dystrophy type 2K	Autosomal recessive limb-girdle muscular dystrophy type 2K	720523006	Autosomal recessive limb girdle muscular dystrophy type 2K (disorder)	1000
+240	86812	Autosomal recessive limb-girdle muscular dystrophy type 2K	Autosomal recessive limb-girdle muscular dystrophy type 2K	720523006	Autosomal recessive limb girdle muscular dystrophy type 2K (disorder)	1000
 110	85451	ATTRV122I amyloidosis	ATTRV122I amyloidosis	715655000	Transthyretin related familial amyloid cardiomyopathy (disorder)	1000
-311	85450	Hereditary amyloidosis with primary renal involvement	Familial renal amyloidosis	66451004	Familial visceral amyloidosis, Ostertag type (disorder)	1000
-391	85436	Psoriasis-related juvenile idiopathic arthritis	Juvenile psoriatic arthritis	239802003	Juvenile psoriatic arthritis (disorder)	1000
-326	85162	Facial onset sensory and motor neuronopathy	FOSMN syndrome	723306004	Facial onset sensory and motor neuronopathy syndrome (disorder)	1000
-373	84132	Desmin-related myopathy with Mallory body-like inclusions	Early-onset desmin-related myopathy	715646003	Desmin related myopathy with Mallory body-like inclusions (disorder)	1000
-294	84087	Collagen type III glomerulopathy	Collagenofibrotic glomerulopathy	708127008	Collagenofibrotic glomerulopathy (disorder)	1000
+310	85450	Hereditary amyloidosis with primary renal involvement	Familial renal amyloidosis	66451004	Familial visceral amyloidosis, Ostertag type (disorder)	1000
+390	85436	Psoriasis-related juvenile idiopathic arthritis	Juvenile psoriatic arthritis	239802003	Juvenile psoriatic arthritis (disorder)	1000
+325	85162	Facial onset sensory and motor neuronopathy	FOSMN syndrome	723306004	Facial onset sensory and motor neuronopathy syndrome (disorder)	1000
+372	84132	Desmin-related myopathy with Mallory body-like inclusions	Early-onset desmin-related myopathy	715646003	Desmin related myopathy with Mallory body-like inclusions (disorder)	1000
+293	84087	Collagen type III glomerulopathy	Collagenofibrotic glomerulopathy	708127008	Collagenofibrotic glomerulopathy (disorder)	1000
 14	84085	Hinman syndrome	Hinman syndrome	429233001	Nonneurogenic neurogenic bladder dysfunction (disorder)	1000
-367	84081	Senior-Boichis syndrome	Nephronophthisis-hepatic fibrosis syndrome	717187000	Nephronophthisis hepatic fibrosis syndrome (disorder)	1000
-169	83620	Enteric anendocrinosis	Enteric anendocrinosis	722392003	Congenital malabsorptive diarrhea due to paucity of enteroendocrine cells (disorder)	1000
-276	83465	Narcolepsy type 2	Narcolepsy without cataplexy	91521000119104	Narcolepsy without cataplexy (disorder)	1000
+366	84081	Senior-Boichis syndrome	Nephronophthisis-hepatic fibrosis syndrome	717187000	Nephronophthisis hepatic fibrosis syndrome (disorder)	1000
+168	83620	Enteric anendocrinosis	Enteric anendocrinosis	722392003	Congenital malabsorptive diarrhea due to paucity of enteroendocrine cells (disorder)	1000
+275	83465	Narcolepsy type 2	Narcolepsy without cataplexy	91521000119104	Narcolepsy without cataplexy (disorder)	1000
 93	83316	Pseudotyphus of California	Pseudotyphus of California	764104003	Infection caused by Rickettsia felis (disorder)	1000
-267	79492	Pili gemini	Pili multigemini	717360009	Pili bifurcati (disorder)	1000
-432	79433	Oculocutaneous albinism type 3	OCA3	63450009	Rufous albinism (disorder)	1000
-398	79326	ALG2-CDG	Carbohydrate deficient glycoprotein syndrome type Ii	277894008	Carbohydrate-deficient glycoprotein syndrome type II (disorder)	1000
+266	79492	Pili gemini	Pili multigemini	717360009	Pili bifurcati (disorder)	1000
+432	79433	Oculocutaneous albinism type 3	Rufous oculocutaneous albinism	63450009	Rufous albinism (disorder)	1000
+397	79326	ALG2-CDG	Carbohydrate deficient glycoprotein syndrome type Ii	277894008	Carbohydrate-deficient glycoprotein syndrome type II (disorder)	1000
 16	79299	Hyperinsulinism due to glucokinase deficiency	Hyperinsulinism due to glucokinase deficiency	717182006	Hyperinsulinism due to deficiency of glucokinase (disorder)	1000
-239	79237	Galactokinase deficiency	Galactokinase deficiency	124302001	Deficiency of galactokinase (disorder)	1000
-424	79144	Isolated congenital onychodysplasia	Iso-Kikuchi syndrome	403281007	Congenital onychodysplasia of index fingers (disorder)	1000
-214	79134	DEND syndrome	DEND syndrome	721088003	Developmental delay, epilepsy, neonatal diabetes syndrome (disorder)	1000
-395	79124	Hepatic veno-occlusive disease-immunodeficiency syndrome	VODI syndrome	724361001	Hepatic veno-occlusive disease with immunodeficiency syndrome (disorder)	1000
+238	79237	Galactokinase deficiency	Galactokinase deficiency	124302001	Deficiency of galactokinase (disorder)	1000
+422	79144	Isolated congenital onychodysplasia	COIF syndrome	403281007	Congenital onychodysplasia of index fingers (disorder)	1000
+213	79134	DEND syndrome	DEND syndrome	721088003	Developmental delay, epilepsy, neonatal diabetes syndrome (disorder)	1000
+394	79124	Hepatic veno-occlusive disease-immunodeficiency syndrome	VODI syndrome	724361001	Hepatic veno-occlusive disease with immunodeficiency syndrome (disorder)	1000
 29	79097	Folinic acid-responsive seizures	Folinic acid-responsive seizures	717276003	Folinic acid responsive seizure syndrome (disorder)	1000
-387	79095	Congenital bile acid synthesis defect type 4	AMACR deficiency	700463002	Alpha-methylacyl-CoA racemase deficiency disorder (disorder)	1000
-296	79091	Hereditary inclusion body myopathy-joint contractures-ophthalmoplegia syndrome	Inclusion body myopathy type 3	724349009	Hereditary inclusion body myopathy, joint contracture, ophthalmoplegia syndrome (disorder)	1000
+386	79095	Congenital bile acid synthesis defect type 4	AMACR deficiency	700463002	Alpha-methylacyl-CoA racemase deficiency disorder (disorder)	1000
+294	79091	Hereditary inclusion body myopathy-joint contractures-ophthalmoplegia syndrome	Hereditary inclusion body myopathy type 3	724349009	Hereditary inclusion body myopathy, joint contracture, ophthalmoplegia syndrome (disorder)	1000
 65	75563	X-linked sideroblastic anemia	X-linked sideroblastic anemia	48983004	X chromosome-linked sideroblastic anemia (disorder)	1000
-363	75391	Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency	Primary immunodeficiency due to MCM4 deficiency	724275005	Primary immunodeficiency with natural killer cell deficiency and adrenal insufficiency (disorder)	1000
+362	75391	Primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency	Primary immunodeficiency due to MCM4 deficiency	724275005	Primary immunodeficiency with natural killer cell deficiency and adrenal insufficiency (disorder)	1000
 120	75381	Cystoid macular dystrophy	Cystoid macular dystrophy	193387007	Cystoid macular edema (disorder)	1000
-390	75376	Familial drusen	Dominant drusen	193411004	Dominant drusen (disorder)	1000
+389	75376	Familial drusen	Dominant drusen	193411004	Dominant drusen (disorder)	1000
 48	75326	Retinal arterial tortuosity	Retinal arterial tortuosity	247123003	Retinal arterial tortuosity (finding)	1000
 118	71274	Disseminated peritoneal leiomyomatosis	Disseminated peritoneal leiomyomatosis	62557001	Leiomyomatosis peritonealis disseminata (disorder)	1000
 2	70596	Congenital Epstein-Barr virus infection	Congenital Epstein-Barr virus infection	716660007	Congenital infection caused by Epstein-Barr virus (disorder)	1000
 69	70590	Infantile apnea	Infantile apnea	724229002	Apnea of infancy (disorder)	1000
 0	69735	Hypotrichosis-lymphedema-telangiectasia-renal defect syndrome	Hypotrichosis-lymphedema-telangiectasia-renal defect syndrome	723363009	Hypotrichosis, lymphedema, telangiectasia, renal defect syndrome (disorder)	1000
-458	66634	Dilated cardiomyopathy with ataxia	3-methylglutaconic aciduria type 5	711412004	3-methylglutaconic aciduria type 5 (disorder)	1000
+457	66634	Dilated cardiomyopathy with ataxia	3-methylglutaconic aciduria type 5	711412004	3-methylglutaconic aciduria type 5 (disorder)	1000
 22	64753	Spinocerebellar ataxia with axonal neuropathy type 2	Spinocerebellar ataxia with axonal neuropathy type 2	725408001	Autosomal recessive cerebellar ataxia with oculomotor apraxia type 2 (disorder)	1000
 139	60026	Pulmonary nodular lymphoid hyperplasia	Pulmonary nodular lymphoid hyperplasia	718097008	Nodular lymphoid hyperplasia of lung (disorder)	1000
-162	57777	Cirrhotic cardiomyopathy	Cirrhotic cardiomyopathy	725416005	Cardiomyopathy co-occurrent and due to cirrhosis of liver (disorder)	1000
-220	55881	Adamantinoma	Adamantinoma	20462008	Ameloblastoma (morphologic abnormality)	1000
-236	55596	Autosomal dominant limb-girdle muscular dystrophy type 1G	Autosomal dominant limb-girdle muscular dystrophy type 1G	719990003	Autosomal dominant limb girdle muscular dystrophy type 1G (disorder)	1000
-206	55595	Autosomal dominant limb-girdle muscular dystrophy type 1F	Autosomal dominant limb-girdle muscular dystrophy type 1F	719989007	Autosomal dominant limb girdle muscular dystrophy type 1F (disorder)	1000
+161	57777	Cirrhotic cardiomyopathy	Cirrhotic cardiomyopathy	725416005	Cardiomyopathy co-occurrent and due to cirrhosis of liver (disorder)	1000
+219	55881	Adamantinoma	Adamantinoma	20462008	Ameloblastoma (morphologic abnormality)	1000
+235	55596	Autosomal dominant limb-girdle muscular dystrophy type 1G	Autosomal dominant limb-girdle muscular dystrophy type 1G	719990003	Autosomal dominant limb girdle muscular dystrophy type 1G (disorder)	1000
+205	55595	Autosomal dominant limb-girdle muscular dystrophy type 1F	Autosomal dominant limb-girdle muscular dystrophy type 1F	719989007	Autosomal dominant limb girdle muscular dystrophy type 1F (disorder)	1000
 77	54251	Corticosteroid-sensitive aseptic abscess syndrome	Corticosteroid-sensitive aseptic abscess syndrome	720751000	Corticosteroid sensitive aseptic abscess syndrome (disorder)	1000
 4	54247	Posterior cortical atrophy	Posterior cortical atrophy	715574002	Posterior cortical atrophy syndrome (disorder)	1000
-161	52994	Orbital leiomyoma	Orbital leiomyoma	719045009	Leiomyoma of orbit (disorder)	1000
-143	51084	Torsade-de-pointes syndrome with short coupling interval	Torsade-de-pointes syndrome with short coupling interval	718104007	Torsade de pointes with short coupling interval syndrome (disorder)	1000
+160	52994	Orbital leiomyoma	Orbital leiomyoma	719045009	Leiomyoma of orbit (disorder)	1000
 78	51083	Familial short QT syndrome	Familial short QT syndrome	698273002	Genetic short QT syndrome (disorder)	1000
 95	50817	Duane anomaly-myopathy-scoliosis syndrome	Duane anomaly-myopathy-scoliosis syndrome	722432000	Duane anomaly, myopathy, scoliosis syndrome (disorder)	1000
-374	50812	Zellweger-like syndrome without peroxisomal anomalies	Ahn-Lerman-Sagie syndrome	718880003	Zellweger-like syndrome without peroxisomal anomaly (disorder)	1000
-178	50811	Lipodystrophy-intellectual disability-deafness syndrome	Lipodystrophy-intellectual disability-deafness syndrome	721973006	Lipodystrophy, intellectual disability, deafness syndrome (disorder)	1000
-227	50251	Pleural mesothelioma	Pleural mesothelioma	254645002	Malignant mesothelioma of pleura (disorder)	1000
-394	48918	Focal myositis	Focal nodular myositis	240119009	Focal nodular myositis (disorder)	1000
-153	48435	Postinfectious vasculitis	Postinfectious vasculitis	724063005	Post-infectious vasculitis (disorder)	1000
-324	48372	Nodular regenerative hyperplasia of the liver	Non-cirrhotic nodulation	65860006	Liver regeneration (disorder)	1000
-191	42642	PFAPA syndrome	PFAPA syndrome	717231003	Periodic fever and aphthous stomatitis with pharyngitis and cervical lymphadenitis syndrome (disorder)	1000
-322	40366	Acitretin/etretinate embryopathy	Retinoid embryopathy	725287006	Embryopathy caused by retinoid (disorder)	1000
-388	39044	Uveal melanoma	Choroidal melanoma	255021005	Malignant melanoma of choroid (disorder)	1000
-412	38874	Dihydropyrimidinuria	Dihydropyrimidinase deficiency	238014002	Dihydropyrimidinase deficiency (disorder)	1000
-183	37202	Interstitial cystitis	Interstitial cystitis	197834003	Chronic interstitial cystitis (disorder)	1000
+373	50812	Zellweger-like syndrome without peroxisomal anomalies	Ahn-Lerman-Sagie syndrome	718880003	Zellweger-like syndrome without peroxisomal anomaly (disorder)	1000
+177	50811	Lipodystrophy-intellectual disability-deafness syndrome	Lipodystrophy-intellectual disability-deafness syndrome	721973006	Lipodystrophy, intellectual disability, deafness syndrome (disorder)	1000
+226	50251	Pleural mesothelioma	Pleural mesothelioma	254645002	Malignant mesothelioma of pleura (disorder)	1000
+393	48918	Focal myositis	Focal nodular myositis	240119009	Focal nodular myositis (disorder)	1000
+152	48435	Postinfectious vasculitis	Postinfectious vasculitis	724063005	Post-infectious vasculitis (disorder)	1000
+323	48372	Nodular regenerative hyperplasia of the liver	Non-cirrhotic nodulation	65860006	Liver regeneration (disorder)	1000
+190	42642	PFAPA syndrome	PFAPA syndrome	717231003	Periodic fever and aphthous stomatitis with pharyngitis and cervical lymphadenitis syndrome (disorder)	1000
+321	40366	Acitretin/etretinate embryopathy	Retinoid embryopathy	725287006	Embryopathy caused by retinoid (disorder)	1000
+388	39044	Uveal melanoma	Iris melanoma	255012009	Malignant melanoma of iris (disorder)	1000
+411	38874	Dihydropyrimidinuria	Dihydropyrimidinase deficiency	238014002	Dihydropyrimidinase deficiency (disorder)	1000
+182	37202	Interstitial cystitis	Interstitial cystitis	197834003	Chronic interstitial cystitis (disorder)	1000
 70	36238	Staphylococcal necrotizing pneumonia	Staphylococcal necrotizing pneumonia	763888005	Necrotizing pneumonia caused by Panton-Valentine leukocidin producing Staphylococcus aureus (disorder)	1000
 67	36235	Staphylococcal scarlet fever	Staphylococcal scarlet fever	240450004	Staphylococcal toxic shock syndrome (disorder)	1000
-248	35701	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	725286002	Deficiency of 3-hydroxy-3-methylglutaryl-coenzyme A synthase (disorder)	1000
-224	34517	Autosomal dominant limb-girdle muscular dystrophy type 1E	Autosomal dominant limb-girdle muscular dystrophy type 1E	719988004	Autosomal dominant limb girdle muscular dystrophy type 1E (disorder)	1000
-201	34515	Autosomal recessive limb-girdle muscular dystrophy type 2I	Autosomal recessive limb-girdle muscular dystrophy type 2I	718180000	Autosomal recessive limb girdle muscular dystrophy type 2I (disorder)	1000
-184	34514	Autosomal recessive limb-girdle muscular dystrophy type 2G	Autosomal recessive limb-girdle muscular dystrophy type 2G	720522001	Autosomal recessive limb girdle muscular dystrophy type 2G (disorder)	1000
+247	35701	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	3-hydroxy-3-methylglutaryl-CoA synthase deficiency	725286002	Deficiency of 3-hydroxy-3-methylglutaryl-coenzyme A synthase (disorder)	1000
+223	34517	Autosomal dominant limb-girdle muscular dystrophy type 1E	Autosomal dominant limb-girdle muscular dystrophy type 1E	719988004	Autosomal dominant limb girdle muscular dystrophy type 1E (disorder)	1000
+200	34515	Autosomal recessive limb-girdle muscular dystrophy type 2I	Autosomal recessive limb-girdle muscular dystrophy type 2I	718180000	Autosomal recessive limb girdle muscular dystrophy type 2I (disorder)	1000
+183	34514	Autosomal recessive limb-girdle muscular dystrophy type 2G	Autosomal recessive limb-girdle muscular dystrophy type 2G	720522001	Autosomal recessive limb girdle muscular dystrophy type 2G (disorder)	1000
 91	26792	Short chain acyl-CoA dehydrogenase deficiency	Short chain acyl-CoA dehydrogenase deficiency	787412002	Short chain acyl-coenzyme A dehydrogenase deficiency (disorder)	1000
-199	26791	Multiple acyl-CoA dehydrogenase deficiency	Multiple acyl-CoA dehydrogenase deficiency	22886006	Glutaric aciduria, type 2 (disorder)	1000
-202	3453	Autoimmune polyendocrinopathy type 1	Autoimmune polyendocrinopathy type 1	11244009	Polyglandular autoimmune syndrome, type 1 (disorder)	1000
+198	26791	Multiple acyl-CoA dehydrogenase deficiency	Multiple acyl-CoA dehydrogenase deficiency	22886006	Glutaric aciduria, type 2 (disorder)	1000
+201	3453	Autoimmune polyendocrinopathy type 1	Autoimmune polyendocrinopathy type 1	11244009	Polyglandular autoimmune syndrome, type 1 (disorder)	1000
 10	3406	Ulerythema ophryogenesis	Ulerythema ophryogenesis	400059005	Keratosis pilaris atrophicans (disorder)	1000
 116	3337	Primary Fanconi syndrome	Primary Fanconi syndrome	236466005	Congenital Fanconi syndrome (disorder)	1000
 7	3240	Central nervous system calcification-deafness-tubular acidosis-anemia syndrome	Central nervous system calcification-deafness-tubular acidosis-anemia syndrome	726669007	Central nervous system calcification, deafness, tubular acidosis, anemia syndrome (disorder)	1000
-229	3221	Generalized resistance to thyroid hormone	Generalized resistance to thyroid hormone	111567006	Refetoff syndrome (disorder)	1000
-192	2971	Peroxisomal acyl-CoA oxidase deficiency	Peroxisomal acyl-CoA oxidase deficiency	238069004	Acyl-coenzyme A oxidase deficiency (disorder)	1000
-232	2968	Leukocyte adhesion deficiency	Leukocyte adhesion deficiency	77358003	Congenital leukocyte adherence deficiency (disorder)	1000
-195	2966	Properdin deficiency	Properdin deficiency	81166004	Properdin deficiency disease (disorder)	1000
+228	3221	Generalized resistance to thyroid hormone	Generalized resistance to thyroid hormone	111567006	Refetoff syndrome (disorder)	1000
+191	2971	Peroxisomal acyl-CoA oxidase deficiency	Peroxisomal acyl-CoA oxidase deficiency	238069004	Acyl-coenzyme A oxidase deficiency (disorder)	1000
+231	2968	Leukocyte adhesion deficiency	Leukocyte adhesion deficiency	77358003	Congenital leukocyte adherence deficiency (disorder)	1000
+194	2966	Properdin deficiency	Properdin deficiency	81166004	Properdin deficiency disease (disorder)	1000
 63	2828	Young-onset Parkinson disease	Young-onset Parkinson disease	715345007	Young onset Parkinson disease (disorder)	1000
-244	2821	Spastic paraplegia-neuropathy-poikiloderma syndrome	Spastic paraplegia-neuropathy-poikiloderma syndrome	763402002	Spastic paraplegia, neuropathy, poikiloderma syndrome (disorder)	1000
-198	2677	Neuroepithelioma	Neuroepithelioma	55045006	Neuroepithelioma (morphologic abnormality)	1000
-219	2414	Congenital pulmonary lymphangiectasia	Congenital pulmonary lymphangiectasia	45142002	Congenital pulmonary lymphangiectasis (disorder)	1000
-207	2398	Multiple symmetric lipomatosis	Multiple symmetric lipomatosis	238902007	Multiple symmetrical lipomatosis (disorder)	1000
-265	2364	Glycogen storage disease due to lactate dehydrogenase deficiency	LDH deficiency	124115002	Deficiency of L-lactate dehydrogenase (disorder)	1000
-177	2337	Non-epidermolytic palmoplantar keratoderma	Non-epidermolytic palmoplantar keratoderma	716105001	Autosomal dominant diffuse palmoplantar keratoderma Norrbotten type (disorder)	1000
-416	2314	Autosomal dominant hyper-IgE syndrome	Hyperimmunoglobulin E-recurrent infection syndrome	50926003	Job's syndrome (disorder)	1000
-293	2266	Hypotrichosis-intellectual disability, Lopes type	Lopes-Marques de Faria syndrome	723365002	Hypotrichosis and intellectual disability syndrome Lopes type (disorder)	1000
-302	2250	Hyposmia-nasal and ocular hypoplasia-hypogonadotropic hypogonadism syndrome	Bosma arhinia-microphthalmia syndrome	720511000	Arrhinia with choanal atresia and microphthalmia syndrome (disorder)	1000
-319	2230	Hypogonadotropic hypogonadism-frontoparietal alopecia syndrome	Salti-Salem syndrome	721842008	Hypogonadotropic hypogonadism with frontoparietal alopecia syndrome (disorder)	1000
-409	2199	Epidermolytic palmoplantar keratoderma	Epidermolytic palmoplantar keratoderma of Vorner	239071005	Epidermolytic palmoplantar keratoderma of Vorner (disorder)	1000
-213	2089	Glycogen storage disease due to hepatic glycogen synthase deficiency	Glycogen storage disease due to hepatic glycogen synthase deficiency	725026008	Hepatic glycogen synthase deficiency (disorder)	1000
-230	1951	Epilepsy-telangiectasia syndrome	Epilepsy-telangiectasia syndrome	733032006	Epilepsy telangiectasia syndrome (disorder)	1000
-440	1945	Rolandic epilepsy	BRE	44145005	Benign Rolandic epilepsy (disorder)	1000
-310	1544	Benign focal seizures of adolescence	Adolescent benign focal crisis	715425000	Benign focal seizure of adolescence (disorder)	1000
+243	2821	Spastic paraplegia-neuropathy-poikiloderma syndrome	Spastic paraplegia-neuropathy-poikiloderma syndrome	763402002	Spastic paraplegia, neuropathy, poikiloderma syndrome (disorder)	1000
+197	2677	Neuroepithelioma	Neuroepithelioma	55045006	Neuroepithelioma (morphologic abnormality)	1000
+218	2414	Congenital pulmonary lymphangiectasia	Congenital pulmonary lymphangiectasia	45142002	Congenital pulmonary lymphangiectasis (disorder)	1000
+206	2398	Multiple symmetric lipomatosis	Multiple symmetric lipomatosis	238902007	Multiple symmetrical lipomatosis (disorder)	1000
+264	2364	Glycogen storage disease due to lactate dehydrogenase deficiency	LDH deficiency	124115002	Deficiency of L-lactate dehydrogenase (disorder)	1000
+176	2337	Non-epidermolytic palmoplantar keratoderma	Non-epidermolytic palmoplantar keratoderma	716105001	Autosomal dominant diffuse palmoplantar keratoderma Norrbotten type (disorder)	1000
+415	2314	Autosomal dominant hyper-IgE syndrome	Hyperimmunoglobulin E-recurrent infection syndrome	50926003	Job's syndrome (disorder)	1000
+292	2266	Hypotrichosis-intellectual disability, Lopes type	Lopes-Marques de Faria syndrome	723365002	Hypotrichosis and intellectual disability syndrome Lopes type (disorder)	1000
+301	2250	Hyposmia-nasal and ocular hypoplasia-hypogonadotropic hypogonadism syndrome	Bosma arhinia-microphthalmia syndrome	720511000	Arrhinia with choanal atresia and microphthalmia syndrome (disorder)	1000
+318	2230	Hypogonadotropic hypogonadism-frontoparietal alopecia syndrome	Salti-Salem syndrome	721842008	Hypogonadotropic hypogonadism with frontoparietal alopecia syndrome (disorder)	1000
+408	2199	Epidermolytic palmoplantar keratoderma	Epidermolytic palmoplantar keratoderma of Vorner	239071005	Epidermolytic palmoplantar keratoderma of Vorner (disorder)	1000
+212	2089	Glycogen storage disease due to hepatic glycogen synthase deficiency	Glycogen storage disease due to hepatic glycogen synthase deficiency	725026008	Hepatic glycogen synthase deficiency (disorder)	1000
+229	1951	Epilepsy-telangiectasia syndrome	Epilepsy-telangiectasia syndrome	733032006	Epilepsy telangiectasia syndrome (disorder)	1000
+438	1945	Rolandic epilepsy	Benign rolandic epilepsy	44145005	Benign Rolandic epilepsy (disorder)	1000
+309	1544	Benign focal seizures of adolescence	Adolescent benign focal crisis	715425000	Benign focal seizure of adolescence (disorder)	1000
 81	1467	Cogan syndrome	Cogan syndrome	405810005	Cogan's syndrome (disorder)	1000
-223	1333	Familial pancreatic carcinoma	Familial pancreatic carcinoma	715414009	Familial malignant neoplasm of pancreas (disorder)	1000
-420	1303	Bronchiolitis obliterans with obstructive pulmonary disease	Obliterative bronchiolitis	40100001	Obliterative bronchiolitis (disorder)	1000
-237	1194	TMEM70-related mitochondrial encephalo-cardio-myopathy	TMEM70-related mitochondrial encephalo-cardio-myopathy	718212006	Mitochondrial encephalocardiomyopathy due to transmembrane protein 70 mutation (disorder)	1000
-181	1185	Spinocerebellar ataxia-dysmorphism syndrome	Spinocerebellar ataxia-dysmorphism syndrome	733033001	Spinocerebellar ataxia dysmorphism syndrome (disorder)	1000
-249	1168	Ataxia-oculomotor apraxia type 1	Ataxia-oculomotor apraxia type 1	715366004	Autosomal recessive cerebellar ataxia with oculomotor apraxia type 1 (disorder)	1000
-421	1117	Aplasia cutis-myopia syndrome	Gershoni-Baruch-Leibo syndrome	720499004	Aplasia cutis with myopia syndrome (disorder)	1000
-457	1116	Aplasia cutis congenita-intestinal lymphangiectasia syndrome	Bronspiegel-Zelnick syndrome	720500008	Aplasia cutis congenita with intestinal lymphangiectasia syndrome (disorder)	1000
-179	1021	Amaurosis-hypertrichosis syndrome	Amaurosis-hypertrichosis syndrome	720983002	Amaurosis hypertrichosis syndrome (disorder)	1000
-450	1014	Alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome	Devriendt-Vandenberghe-Fryns syndrome	720981000	Alopecia and intellectual disability with hypergonadotropic hypogonadism syndrome (disorder)	1000
-240	898	Wagner disease	Wagner disease	232064001	Wagner syndrome (disorder)	1000
-282	874	Primary adult heart tumor	Adult heart tumor	715403006	Adult heart tumor (disorder)	1000
-226	868	Triose phosphate-isomerase deficiency	Triose phosphate-isomerase deficiency	234405009	Triose phosphate isomerase deficiency (disorder)	1000
-426	853	Fetal and neonatal alloimmune thrombocytopenia	NAIT	240305000	Neonatal thrombocytopenia due to platelet alloimmunization (disorder)	1000
-210	841	Sebocystomatosis	Sebocystomatosis	109433009	Steatocystoma multiplex (disorder)	1000
-209	827	Stargardt disease	Stargardt disease	47673003	Fundus flavimaculatus (disorder)	1000
+222	1333	Familial pancreatic carcinoma	Familial pancreatic carcinoma	715414009	Familial malignant neoplasm of pancreas (disorder)	1000
+419	1303	Bronchiolitis obliterans with obstructive pulmonary disease	Obliterative bronchiolitis	40100001	Obliterative bronchiolitis (disorder)	1000
+236	1194	TMEM70-related mitochondrial encephalo-cardio-myopathy	TMEM70-related mitochondrial encephalo-cardio-myopathy	718212006	Mitochondrial encephalocardiomyopathy due to transmembrane protein 70 mutation (disorder)	1000
+180	1185	Spinocerebellar ataxia-dysmorphism syndrome	Spinocerebellar ataxia-dysmorphism syndrome	733033001	Spinocerebellar ataxia dysmorphism syndrome (disorder)	1000
+248	1168	Ataxia-oculomotor apraxia type 1	Ataxia-oculomotor apraxia type 1	715366004	Autosomal recessive cerebellar ataxia with oculomotor apraxia type 1 (disorder)	1000
+420	1117	Aplasia cutis-myopia syndrome	Gershoni-Baruch-Leibo syndrome	720499004	Aplasia cutis with myopia syndrome (disorder)	1000
+456	1116	Aplasia cutis congenita-intestinal lymphangiectasia syndrome	Bronspiegel-Zelnick syndrome	720500008	Aplasia cutis congenita with intestinal lymphangiectasia syndrome (disorder)	1000
+178	1021	Amaurosis-hypertrichosis syndrome	Amaurosis-hypertrichosis syndrome	720983002	Amaurosis hypertrichosis syndrome (disorder)	1000
+449	1014	Alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome	Devriendt-Vandenberghe-Fryns syndrome	720981000	Alopecia and intellectual disability with hypergonadotropic hypogonadism syndrome (disorder)	1000
+239	898	Wagner disease	Wagner disease	232064001	Wagner syndrome (disorder)	1000
+281	874	Primary adult heart tumor	Adult heart tumor	715403006	Adult heart tumor (disorder)	1000
+225	868	Triose phosphate-isomerase deficiency	Triose phosphate-isomerase deficiency	234405009	Triose phosphate isomerase deficiency (disorder)	1000
+425	853	Fetal and neonatal alloimmune thrombocytopenia	NAIT	240305000	Neonatal thrombocytopenia due to platelet alloimmunization (disorder)	1000
+209	841	Sebocystomatosis	Sebocystomatosis	109433009	Steatocystoma multiplex (disorder)	1000
+208	827	Stargardt disease	Stargardt disease	47673003	Fundus flavimaculatus (disorder)	1000
 28	785	Estrogen resistance syndrome	Estrogen resistance syndrome	724555000	Puberty disorder due to estrogen resistance (disorder)	1000
-429	761	Immunoglobulin A vasculitis	Purpura rheumatica	86074002	Purpura rheumatica (disorder)	1000
-189	756	Pseudohypoaldosteronism type 1	Pseudohypoaldosteronism type 1	43941006	Pseudohypoaldosteronism, type 1 (disorder)	1000
-212	742	Prolidase deficiency	Prolidase deficiency	360969006	Deficiency of imidodipeptidase (disorder)	1000
-231	727	Microscopic polyangiitis	Microscopic polyangiitis	239928004	Microscopic polyarteritis nodosa (disorder)	1000
-252	684	Paramyotonia congenita of Von Eulenburg	Paramyotonia congenita of Von Eulenburg	41574007	Paramyotonia congenita (disorder)	1000
-204	676	Hereditary chronic pancreatitis	Hereditary chronic pancreatitis	235956004	Familial chronic pancreatitis (disorder)	1000
-255	618	Familial melanoma	Familial melanoma	93655004	Malignant melanoma of skin (disorder)	1000
-438	614	Thomsen and Becker disease	Myotonia congenita	726051002	Myotonia congenita (disorder)	1000
-380	600	Vocal cord and pharyngeal distal myopathy	VCPDM	702383005	Distal myopathy 2 (disorder)	1000
-221	580	Mucopolysaccharidosis type 2	Mucopolysaccharidosis type 2	70737009	Mucopolysaccharidosis type II (disorder)	1000
-160	529	Roch-Leri mesosomatous lipomatosis	Roch-Leri mesosomatous lipomatosis	716772007	Roch Leri mesosomatous lipomatosis (disorder)	1000
+428	761	Immunoglobulin A vasculitis	Purpura rheumatica	86074002	Purpura rheumatica (disorder)	1000
+188	756	Pseudohypoaldosteronism type 1	Pseudohypoaldosteronism type 1	43941006	Pseudohypoaldosteronism, type 1 (disorder)	1000
+211	742	Prolidase deficiency	Prolidase deficiency	360969006	Deficiency of imidodipeptidase (disorder)	1000
+230	727	Microscopic polyangiitis	Microscopic polyangiitis	239928004	Microscopic polyarteritis nodosa (disorder)	1000
+251	684	Paramyotonia congenita of Von Eulenburg	Paramyotonia congenita of Von Eulenburg	41574007	Paramyotonia congenita (disorder)	1000
+203	676	Hereditary chronic pancreatitis	Hereditary chronic pancreatitis	235956004	Familial chronic pancreatitis (disorder)	1000
+254	618	Familial melanoma	Familial melanoma	93655004	Malignant melanoma of skin (disorder)	1000
+437	614	Thomsen and Becker disease	Myotonia congenita	726051002	Myotonia congenita (disorder)	1000
+379	600	Vocal cord and pharyngeal distal myopathy	VCPDM	702383005	Distal myopathy 2 (disorder)	1000
+220	580	Mucopolysaccharidosis type 2	Mucopolysaccharidosis type 2	70737009	Mucopolysaccharidosis type II (disorder)	1000
+159	529	Roch-Leri mesosomatous lipomatosis	Roch-Leri mesosomatous lipomatosis	716772007	Roch Leri mesosomatous lipomatosis (disorder)	1000
 59	505	Graham Little-Piccardi-Lassueur syndrome	Graham Little-Piccardi-Lassueur syndrome	718215008	Graham Little Piccardi Lassueur syndrome (disorder)	1000
-197	481	Kennedy disease	Kennedy disease	230253001	Bulbospinal neuronopathy (disorder)	1000
+196	481	Kennedy disease	Kennedy disease	230253001	Bulbospinal neuronopathy (disorder)	1000
 51	427	Familial hypoaldosteronism	Familial hypoaldosteronism	715343000	Familial aldosterone deficiency (disorder)	1000
-385	424	Familial hyperthyroidism due to mutations in TSH receptor	Resistance to thyroid stimulating hormone	111567006	Refetoff syndrome (disorder)	1000
-172	404	Familial hyperaldosteronism type II	Familial hyperaldosteronism type II	703233008	Familial hyperaldosteronism type 2 (disorder)	1000
-425	395	Homocystinuria due to methylene tetrahydrofolate reductase deficiency	Methylene tetrahydrofolate reductase deficiency	41797007	5,10-Methylenetetrahydrofolate reductase deficiency (disorder)	1000
+383	424	Familial hyperthyroidism due to mutations in TSH receptor	Familial non-immune hyperthyroidism	716743006	Familial hyperthyroidism due to mutation in thyroid stimulating hormone receptor (disorder)	1000
+171	404	Familial hyperaldosteronism type II	Familial hyperaldosteronism type II	703233008	Familial hyperaldosteronism type 2 (disorder)	1000
+424	395	Homocystinuria due to methylene tetrahydrofolate reductase deficiency	Methylene tetrahydrofolate reductase deficiency	41797007	5,10-Methylenetetrahydrofolate reductase deficiency (disorder)	1000
 89	381	Griscelli syndrome	Griscelli syndrome	37548006	Hypopigmentation-immunodeficiency disease (disorder)	1000
-448	368	Glycogen storage disease due to muscle glycogen phosphorylase deficiency	Myophosphorylase deficiency	55912009	Glycogen storage disease, type V (disorder)	1000
+445	368	Glycogen storage disease due to muscle glycogen phosphorylase deficiency	Glycogen storage disease type V	55912009	Glycogen storage disease, type V (disorder)	1000
 44	345	Dissecting cellulitis of the scalp	Dissecting cellulitis of the scalp	77333008	Perifolliculitis capitis abscedens et suffodiens (disorder)	1000
-176	340	Hemorrhagic fever-renal syndrome	Hemorrhagic fever-renal syndrome	716864001	Hemorrhagic fever with renal syndrome (disorder)	1000
-228	332	Congenital intrinsic factor deficiency	Congenital intrinsic factor deficiency	234361004	Congenital deficiency of intrinsic factor (disorder)	1000
-454	325	Congenital factor II deficiency	Prothrombin deficiency	73975000	Factor II deficiency (disorder)	1000
-145	316	Progressive symmetric erythrokeratodermia	Progressive symmetric erythrokeratodermia	70041004	Erythrokeratodermia variabilis (disorder)	1000
+175	340	Hemorrhagic fever-renal syndrome	Hemorrhagic fever-renal syndrome	716864001	Hemorrhagic fever with renal syndrome (disorder)	1000
+227	332	Congenital intrinsic factor deficiency	Congenital intrinsic factor deficiency	234361004	Congenital deficiency of intrinsic factor (disorder)	1000
+455	325	Congenital factor II deficiency	Hypoprothrombinemia	73975000	Factor II deficiency (disorder)	1000
+144	316	Progressive symmetric erythrokeratodermia	Progressive symmetric erythrokeratodermia	70041004	Erythrokeratodermia variabilis (disorder)	1000
 40	315	Erythrokeratoderma ''en cocardes''	Erythrokeratoderma ''en cocardes''	400171002	Malignant atrophic papulosis (disorder)	1000
 5	314	Erythroderma desquamativum	Erythroderma desquamativum	263661007	Complement 5 dysfunction (disorder)	1000
-165	293	Congenital herpes simplex virus infection	Congenital herpes simplex virus infection	91576008	Congenital herpes simplex (disorder)	1000
+164	293	Congenital herpes simplex virus infection	Congenital herpes simplex virus infection	91576008	Congenital herpes simplex (disorder)	1000
 117	292	Congenital enterovirus infection	Congenital enterovirus infection	716865000	Congenital infection caused by enterovirus (disorder)	1000
-256	284	Alveolar echinococcosis	Alveolar echinococcosis	21009004	Echinococcus multilocularis infection (disorder)	1000
-434	283	Demodicidosis	Demodicosis	240894003	Demodex folliculitis (disorder)	1000
-196	276	T-B+ severe combined immunodeficiency due to gamma chain deficiency	T-B+ severe combined immunodeficiency due to gamma chain deficiency	765145001	T cell negative B cell positive severe combined immunodeficiency due to gamma chain deficiency (disorder)	1000
-200	275	Severe combined immunodeficiency due to DCLRE1C deficiency	Severe combined immunodeficiency due to DCLRE1C deficiency	715982006	Severe combined immunodeficiency due to deoxyribonucleic acid cross-link repair protein 1c deficiency (disorder)	1000
-258	273	Steinert myotonic dystrophy	Steinert myotonic dystrophy	77956009	Steinert myotonic dystrophy syndrome (disorder)	1000
-173	268	Autosomal recessive limb-girdle muscular dystrophy type 2B	Autosomal recessive limb-girdle muscular dystrophy type 2B	718179003	Autosomal recessive limb girdle muscular dystrophy type 2B (disorder)	1000
-194	266	Autosomal dominant limb-girdle muscular dystrophy type 1A	Autosomal dominant limb-girdle muscular dystrophy type 1A	719985001	Autosomal dominant limb girdle muscular dystrophy type 1A (disorder)	1000
-222	265	Autosomal dominant limb-girdle muscular dystrophy type 1C	Autosomal dominant limb-girdle muscular dystrophy type 1C	719986000	Autosomal dominant limb girdle muscular dystrophy type 1C (disorder)	1000
-208	264	Autosomal dominant limb-girdle muscular dystrophy type 1B	Autosomal dominant limb-girdle muscular dystrophy type 1B	718178006	Autosomal dominant limb girdle muscular dystrophy type 1B (disorder)	1000
-419	256	Early-onset generalized limb-onset dystonia	Dystonia musculorum deformans	698279003	X-linked dystonia parkinsonism (disorder)	1000
-254	219	Autosomal recessive limb-girdle muscular dystrophy type 2F	Autosomal recessive limb-girdle muscular dystrophy type 2F	718177001	Autosomal recessive limb girdle muscular dystrophy type 2F (disorder)	1000
+255	284	Alveolar echinococcosis	Alveolar echinococcosis	21009004	Echinococcus multilocularis infection (disorder)	1000
+433	283	Demodicidosis	Demodicosis	240894003	Demodex folliculitis (disorder)	1000
+195	276	T-B+ severe combined immunodeficiency due to gamma chain deficiency	T-B+ severe combined immunodeficiency due to gamma chain deficiency	765145001	T cell negative B cell positive severe combined immunodeficiency due to gamma chain deficiency (disorder)	1000
+199	275	Severe combined immunodeficiency due to DCLRE1C deficiency	Severe combined immunodeficiency due to DCLRE1C deficiency	715982006	Severe combined immunodeficiency due to deoxyribonucleic acid cross-link repair protein 1c deficiency (disorder)	1000
+257	273	Steinert myotonic dystrophy	Steinert myotonic dystrophy	77956009	Steinert myotonic dystrophy syndrome (disorder)	1000
+172	268	Autosomal recessive limb-girdle muscular dystrophy type 2B	Autosomal recessive limb-girdle muscular dystrophy type 2B	718179003	Autosomal recessive limb girdle muscular dystrophy type 2B (disorder)	1000
+193	266	Autosomal dominant limb-girdle muscular dystrophy type 1A	Autosomal dominant limb-girdle muscular dystrophy type 1A	719985001	Autosomal dominant limb girdle muscular dystrophy type 1A (disorder)	1000
+221	265	Autosomal dominant limb-girdle muscular dystrophy type 1C	Autosomal dominant limb-girdle muscular dystrophy type 1C	719986000	Autosomal dominant limb girdle muscular dystrophy type 1C (disorder)	1000
+207	264	Autosomal dominant limb-girdle muscular dystrophy type 1B	Autosomal dominant limb-girdle muscular dystrophy type 1B	718178006	Autosomal dominant limb girdle muscular dystrophy type 1B (disorder)	1000
+417	256	Early-onset generalized limb-onset dystonia	Idiopathic torsion dystonia	22451001	Idiopathic torsion dystonia (disorder)	1000
+253	219	Autosomal recessive limb-girdle muscular dystrophy type 2F	Autosomal recessive limb-girdle muscular dystrophy type 2F	718177001	Autosomal recessive limb girdle muscular dystrophy type 2F (disorder)	1000
 17	210	Cyclosporosis	Cyclosporosis	716860005	Infection of intestine caused by cyclospora cayetanensis (disorder)	1000
-190	141	Canavan disease	Canavan disease	80544005	Spongy degeneration of central nervous system (disorder)	1000
-188	119	Autosomal recessive limb-girdle muscular dystrophy type 2E	Autosomal recessive limb-girdle muscular dystrophy type 2E	718850008	Autosomal recessive limb girdle muscular dystrophy type 2E (disorder)	1000
-182	118	Beta-mannosidosis	Beta-mannosidosis	238047006	Beta-D-mannosidosis (disorder)	1000
-242	91	Aromatase deficiency	Aromatase deficiency	427627006	Maternal virilization due to placental aromatase deficiency (disorder)	1000
+189	141	Canavan disease	Canavan disease	80544005	Spongy degeneration of central nervous system (disorder)	1000
+187	119	Autosomal recessive limb-girdle muscular dystrophy type 2E	Autosomal recessive limb-girdle muscular dystrophy type 2E	718850008	Autosomal recessive limb girdle muscular dystrophy type 2E (disorder)	1000
+181	118	Beta-mannosidosis	Beta-mannosidosis	238047006	Beta-D-mannosidosis (disorder)	1000
+241	91	Aromatase deficiency	Aromatase deficiency	427627006	Maternal virilization due to placental aromatase deficiency (disorder)	1000
 105	79	Congenital alpha2-antiplasmin deficiency	Congenital alpha2-antiplasmin deficiency	716746003	Congenital alpha-2-antiplasmin deficiency (disorder)	1000
-218	76	Strongyloidiasis	Strongyloidiasis	1214006	Infection caused by Strongyloides (disorder)	1000
-216	74	Angiostrongyliasis	Angiostrongyliasis	61750000	Infection caused by Angiostrongylus (disorder)	1000
-333	70	Proximal spinal muscular atrophy	SMA	5262007	Spinal muscular atrophy (disorder)	1000
-259	62	Autosomal recessive limb-girdle muscular dystrophy type 2D	Autosomal recessive limb-girdle muscular dystrophy type 2D	715340002	Autosomal recessive limb girdle muscular dystrophy type 2D (disorder)	1000
+217	76	Strongyloidiasis	Strongyloidiasis	1214006	Infection caused by Strongyloides (disorder)	1000
+215	74	Angiostrongyliasis	Angiostrongyliasis	61750000	Infection caused by Angiostrongylus (disorder)	1000
+332	70	Proximal spinal muscular atrophy	SMA	5262007	Spinal muscular atrophy (disorder)	1000
+258	62	Autosomal recessive limb-girdle muscular dystrophy type 2D	Autosomal recessive limb-girdle muscular dystrophy type 2D	715340002	Autosomal recessive limb girdle muscular dystrophy type 2D (disorder)	1000
 113	28	Vitamin B12-responsive methylmalonic acidemia	Vitamin B12-responsive methylmalonic acidemia	69614003	Adenosylcobalamin synthesis defect (disorder)	1000
-452	27	Vitamin B12-unresponsive methylmalonic acidemia	Methylmalonyl-Coenzyme A mutase deficiency	124680001	Deficiency of methylmalonyl-coenzyme A mutase (disorder)	1000
-451	24	Fumaric aciduria	Fumarase deficiency	124616002	Deficiency of fumarate hydratase (disorder)	1000
+451	27	Vitamin B12-unresponsive methylmalonic acidemia	Methylmalonyl-Coenzyme A mutase deficiency	124680001	Deficiency of methylmalonyl-coenzyme A mutase (disorder)	1000
+450	24	Fumaric aciduria	Fumarase deficiency	124616002	Deficiency of fumarate hydratase (disorder)	1000
 35	17	Fatal infantile lactic acidosis with methylmalonic aciduria	Fatal infantile lactic acidosis with methylmalonic aciduria	715338007	Fatal infantile lactic acidosis co-occurrent with methylmalonic aciduria (disorder)	1000
-174	16	Blue cone monochromatism	Blue cone monochromatism	24704003	Cone monochromatism (disorder)	1000
-238	5	Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency	Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency	237999008	Mitochondrial trifunctional protein deficiency (disorder)	1000
+173	16	Blue cone monochromatism	Blue cone monochromatism	24704003	Cone monochromatism (disorder)	1000
+237	5	Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency	Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency	237999008	Mitochondrial trifunctional protein deficiency (disorder)	1000

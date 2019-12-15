@@ -34,7 +34,7 @@
 93	171436	Typical nemaline myopathy	Typical nemaline myopathy	75072002	Nemaline myopathy	81
 94	210133	Leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome	Leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome	773700005	Leukonychia totalis, acanthosis-nigricans-like lesions, abnormal hair syndrome	100
 95	89842	Recessive dystrophic epidermolysis bullosa, generalized intermediate	Recessive dystrophic epidermolysis bullosa, non-Hallopeau-Siemens type	725407006	Recessive dystrophic epidermolysis bullosa non-Hallopeau Siemens type	100
-99	466722	Autosomal recessive spastic paraplegia type 77	Autosomal recessive spastic paraplegia type 77	766767001	Autosomal recessive spastic paraplegia type 67	98
+99	466722	Autosomal recessive spastic paraplegia type 77	Autosomal recessive spastic paraplegia type 77	778030005	Autosomal recessive spastic paraplegia type 27	98
 100	209989	Non-papillary transitional cell carcinoma of the bladder	Non-papillary transitional cell carcinoma of the bladder	255109008	TCC - Transitional cell carcinoma of bladder	82
 106	319569	Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR1 deficiency	Autosomal recessive mendelian susceptibility to mycobacterial diseases due to partial interferon gamma receptor 1 deficiency	725431001	Autosomal recessive mendelian susceptibility to mycobacterial disease due to partial interferon gamma receptor 1 deficiency	100
 116	210163	Congenital lethal myopathy, Compton-North type	Congenital lethal myopathy, Compton-North type	773306002	Congenital lethal myopathy Compton North type	100
@@ -105,7 +105,7 @@
 291	319563	Mendelian susceptibility to mycobacterial diseases due to complete ISG15 deficiency	Mendelian susceptibility to mycobacterial diseases due to complete ISG15 deficiency	723384004	Mendelian susceptibility to mycobacterial disease due to complete ISG15 deficiency	99
 294	319195	Chondroectodermal dysplasia with night blindness	Chondroectodermal dysplasia with night blindness	763134002	Chondroectodermal dysplasia with night blindness syndrome	91
 297	95427	Secondary short bowel syndrome	Secondary short bowel syndrome	26629001	Short bowel syndrome (disorder)	85
-302	458803	Spinocerebellar ataxia type 42	Spinocerebellar ataxia type 42	734020000	Spinocerebellar ataxia type 40	97
+302	458803	Spinocerebellar ataxia type 42	Spinocerebellar ataxia type 42	719210007	Spinocerebellar ataxia type 14	97
 304	464370	Neonatal alloimmune neutropenia	Neonatal alloimmune neutropenia	14333004	Alloimmune neonatal neutropenia	100
 315	238305	Infundibulo-neurohypophysitis	Infundibulo-neurohypophysitis	783158009	Infundibulo neurohypophysitis	100
 318	183666	Hyper-IgM syndrome without susceptibility to opportunistic infections	Hyper-IgM syndrome without susceptibility to opportunistic infections	783249007	Hyper-IgM syndrome without susceptibility to opportunistic infections	100
@@ -129,10 +129,10 @@
 357	448010	CAD-CDG	Carbohydrate deficient glycoprotein syndrome type Iz	277893002	Carbohydrate-deficient glycoprotein syndrome type I	99
 359	168448	Spondyloepimetaphyseal dysplasia, Bieganski type	Spondyloepimetaphyseal dysplasia, Bieganski type	773301007	Spondyloepimetaphyseal dysplasia Bieganski type	100
 360	324294	T-cell immunodeficiency with epidermodysplasia verruciformis	T-cell immunodeficiency due to RHOH deficiency	770785002	T-cell immunodeficiency due to RHOH deficiency	100
-361	435998	Autosomal recessive intermediate Charcot-Marie-Tooth disease type D	Autosomal recessive intermediate Charcot-Marie-Tooth disease type D	773414009	Autosomal recessive intermediate Charcot-Marie-Tooth disease type C	97
+361	435998	Autosomal recessive intermediate Charcot-Marie-Tooth disease type D	Autosomal recessive intermediate Charcot-Marie-Tooth disease type D	773330000	Autosomal recessive intermediate Charcot-Marie-Tooth disease type B	97
 367	88635	Vacuolar myopathy with sarcoplasmic reticulum protein aggregates	Myopathy due to calsequestrin and SERCA1 protein overload	724095006	Myopathy due to calsequestrin and SERCA1 protein overload	100
 368	284282	Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to WWOX deficiency	Autosomal recessive spinocerebellar ataxia type 12	770898002	Autosomal recessive spinocerebellar ataxia type 12	100
-374	435387	Autosomal dominant Charcot-Marie-Tooth disease type 2Y	Autosomal dominant Charcot-Marie-Tooth disease type 2Y	719514002	Autosomal dominant Charcot-Marie-Tooth disease type 2M	98
+374	435387	Autosomal dominant Charcot-Marie-Tooth disease type 2Y	Autosomal dominant Charcot-Marie-Tooth disease type 2Y	717010007	Autosomal dominant Charcot-Marie-Tooth disease type 2C	98
 380	90791	Congenital adrenal hyperplasia due to 3-beta-hydroxysteroid dehydrogenase deficiency	CAH due to 3-beta-hydroxysteroid dehydrogenase deficiency	124136000	Deficiency of 3beta-hydroxysteroid dehydrogenase	90
 383	280142	Severe combined immunodeficiency due to LCK deficiency	Severe combined immunodeficiency due to lymphocyte-specific protein tyrosine kinase deficiency	783617001	Severe combined immunodeficiency due to lymphocyte-specific protein-tyrosine kinase deficiency	100
 384	91350	Pituitary deficiency due to Rathke's cleft cysts	Pituitary deficiency due to Rathke's cleft cysts	783009008	Pituitary deficiency due to Rathke's cleft cysts	100
@@ -145,10 +145,10 @@
 403	329466	Autosomal dominant focal dystonia, DYT25 type	Autosomal dominant focal dystonia, DYT25 type	719516000	Autosomal dominant focal dystonia DYT25 type	100
 404	424991	Adenocarcinoma of the gallbladder and extrahepatic biliary tract	Adenocarcinoma of the gallbladder and extrahepatic biliary tract	765741003	Adenocarcinoma of gallbladder and extrahepatic biliary tract	97
 413	319600	Mendelian susceptibility to mycobacterial diseases due to partial IRF8 deficiency	Mendelian susceptibility to mycobacterial diseases due to partial interferon regulatory factor 8 deficiency	723385003	Mendelian susceptibility to mycobacterial disease due to partial interferon regulatory factor 8 deficiency	100
-425	314381	Hereditary sensory and autonomic neuropathy type 6	Hereditary sensory and autonomic neuropathy type VI	128206006	Hereditary sensory and autonomic neuropathy type V	99
+425	314381	Hereditary sensory and autonomic neuropathy type 6	Hereditary sensory and autonomic neuropathy type VI	783550006	Hereditary sensory and autonomic neuropathy type VII	99
 426	217390	Combined immunodeficiency due to DOCK8 deficiency	Combined immunodeficiency due to DOCK8 deficiency	783617001	Severe combined immunodeficiency due to LCK deficiency	83
 428	331190	Immunodeficiency due to ficolin3 deficiency	Immunodeficiency due to ficolin3 deficiency	771078002	Immunodeficiency due to MASP-2 deficiency	81
-429	442582	AH amyloidosis	AH amyloidosis	23132008	AL amyloidosis	93
+429	442582	AH amyloidosis	AH amyloidosis	274945004	AA amyloidosis	93
 430	306734	Primary dystonia, DYT21 type	Primary dystonia, DYT21 type	716664003	Primary dystonia DYT21 type	100
 440	300359	PLCG2-associated antibody deficiency and immune dysregulation	Familial cold urticaria with common variable immunodeficiency	773646003	Familial cold urticaria with common variable immunodeficiency	100
 441	293165	Skin fragility-woolly hair-palmoplantar keratoderma syndrome	Skin fragility-woolly hair-palmoplantar keratoderma syndrome	778010006	Skin fragility, wooly hair, palmoplantar keratoderma syndrome	99
@@ -169,110 +169,110 @@
 482	166105	FASTKD2-related infantile mitochondrial encephalomyopathy	FASTKD2-related infantile mitochondrial encephalomyopathy	778029000	FASTKD2-related infantile mitochondrial encephalomyopathy	100
 485	319605	X-linked mendelian susceptibility to mycobacterial diseases	X-linked mendelian susceptibility to mycobacterial diseases	719814009	X-linked mendelian susceptibility to mycobacterial disease	99
 490	213817	Papillary carcinoma of the cervix uteri	Papillary carcinoma of the cervix uteri	184781000119102	Primary adenocarcinoma of cervix uteri	81
-493	369861	Congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome	Congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome	765327005	Congenital sideroblastic anemia, B-cell immunodeficiency, periodic fever, developmental delay syndrome	100
-499	420492	Adult-onset cervical dystonia, DYT23 type	Dystonia 23	783242003	Dystonia 23	100
-500	213605	Carcinofibroma of the corpus uteri	Carcinofibroma of the corpus uteri	764952009	Carcinosarcoma of corpus uteri	84
-501	456318	Hereditary sensory neuropathy-deafness-dementia syndrome	HSAN1E	128205005	HSAN	80
-503	254343	Autosomal recessive spastic ataxia-optic atrophy-dysarthria syndrome	Autosomal recessive spastic ataxia type 4	770720005	Autosomal recessive spastic ataxia type 2	98
-506	306692	Cyanide-induced parkinsonism	Cyanide-induced parkinsonism	766872002	Cyanide-induced parkinsonism	100
-508	206489	Malignant germ cell tumor of the vagina	Vaginal germ cell malignant tumor	770686005	Vaginal germ cell malignant tumor	100
-510	248340	Isolated delta-storage pool disease	Isolated delta-storage pool disease	9417000	Delta storage pool disease	85
-513	330032	Hemoglobin Lepore-beta-thalassemia syndrome	Hemoglobin Lepore-beta-thalassemia syndrome	127041004	Hemoglobin S/beta thalassemia	81
-515	420566	Bleeding disorder due to CalDAG-GEFI deficiency	Bleeding disorder due to calcium- and DAG-regulated guanine exchange factor-1 deficiency	725105006	Bleeding disorder due to calcium and DAG-regulated guanine exchange factor-1 deficiency	100
-518	221043	Hereditary fibrosing poikiloderma-tendon contractures-myopathy-pulmonary fibrosis syndrome	POIKTMP syndrome	771306007	POIKTMP syndrome	100
-520	447964	Autosomal dominant Charcot-Marie-Tooth disease type 2V	Autosomal dominant Charcot-Marie-Tooth disease type 2V	719514002	Autosomal dominant Charcot-Marie-Tooth disease type 2M	98
-524	97927	Peripheral resistance to thyroid hormones	Peripheral resistance to thyroid hormones	718193005	Peripheral resistance to thyroid hormone	99
-527	314637	Mitochondrial hypertrophic cardiomyopathy with lactic acidosis due to MTO1 deficiency	Combined oxidative phosphorylation defect type 10	771478008	Combined oxidative phosphorylation defect type 10	100
-529	444490	Familial chylomicronemia syndrome	Familial chylomicronemia syndrome	402786009	Chylomicronemia syndrome	84
-530	447760	Autosomal recessive spastic paraplegia type 9B	Autosomal recessive spastic paraplegia type 9B	719103009	Autosomal recessive spastic paraplegia type 39	98
-533	86830	Chronic myeloproliferative disease, unclassifiable	Undifferentiated myeloproliferative disease	780817000	Undifferentiated myeloproliferative disease	100
-535	435988	Chronic atrial and intestinal dysrhythmia syndrome	Chronic atrial and intestinal dysrhythmia syndrome	720507006	CAID (chronic atrial and intestinal dysrhythmia) syndrome	95
-537	404499	Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to RUBCN deficiency	Autosomal recessive spinocerebellar ataxia type 15	782721009	Autosomal recessive spinocerebellar ataxia type 15	100
-538	401901	Huntington disease-like syndrome due to C9ORF72 expansions	C9ORF72-related Huntington disease phenocopy	782743001	C9ORF72-related Huntington disease phenocopy	100
-539	210159	Adult hepatocellular carcinoma	Adult hepatocellular carcinoma	109841003	Hepatocellular carcinoma	89
-541	90036	Mixed-type autoimmune hemolytic anemia	Mixed-type autoimmune hemolytic anemia	718716008	Autoimmune hemolytic anemia mixed type	100
-543	423894	Microcephaly-complex motor and sensory axonal neuropathy syndrome	Microcephaly-complex motor and sensory axonal neuropathy syndrome	763798008	Microcephaly, complex motor and sensory axonal neuropathy syndrome	100
-544	238505	Combined immunodeficiency due to CD27 deficiency	Autosomal recessive lymphoproliferative disease due to CD27 deficiency	771309000	Autosomal recessive lymphoproliferative disease	80
-547	95715	Congenital hypothyroidism due to transplacental passage of TSH-binding inhibitory antibodies	Congenital hypothyroidism due to transplacental passage of TSH-binding inhibitory antibodies	717333002	Congenital hypothyroidism due to transplacental passage of maternal TSH-binding inhibitory antibody	93
-550	435934	COG2-CDG	COG2-related congenital disorder of glycosylation	783717008	PGM1-related congenital disorder of glycosylation	90
-554	411703	Pulmonary non-tuberculous mycobacterial infection	Non-tuberculous mycobacterial lung disease	1731000119106	Nontuberculous mycobacterial lung disease	99
-558	98902	Amish nemaline myopathy	Amish nemaline myopathy	702349003	Nemaline myopathy 3	86
-559	352662	Corneal intraepithelial dyskeratosis-palmoplantar hyperkeratosis-laryngeal dyskeratosis syndrome	Corneal intraepithelial dyskeratosis-palmoplantar hyperkeratosis-laryngeal dyskeratosis syndrome	773577009	Corneal intraepithelial dyskeratosis, palmoplantar hyperkeratosis, laryngeal dyskeratosis syndrome	100
-560	158676	Dominant dystrophic epidermolysis bullosa, nails only	Dominant dystrophic epidermolysis bullosa, nails only	722436002	Nails only DEB (dystrophic epidermolysis bullosa)	91
-563	443811	PGM3-CDG	PGM3-related congenital disorder of glycosylation	783717008	PGM1-related congenital disorder of glycosylation	98
-566	99825	Nipah virus disease	Nipah virus disease	74581008	Ganjam virus disease	82
-569	79643	Autosomal recessive hyperinsulinism due to SUR1 deficiency	Autosomal recessive hyperinsulinemic hypoglycemia due to SUR1 deficiency	783767001	Autosomal recessive hyperinsulinemic hypoglycemia due to SUR1 deficiency	100
-570	213746	Transitional cell carcinoma of the corpus uteri	Endometrial transitional cell carcinoma	722682001	Primary endometrial small cell carcinoma	81
-577	183713	Pyogenic bacterial infections due to MyD88 deficiency	Pyogenic bacterial infections due to MyD88 deficiency	718232007	Pyogenic bacterial infection due to MyD88 deficiency	99
-583	79147	Familial reactive perforating collagenosis	Familial reactive perforating collagenosis	64036004	Reactive perforating collagenosis	88
-585	659	Mutilating palmoplantar keratoderma with periorificial keratotic plaques	Olmsted syndrome	2298005	Goltz syndrome	80
-587	314422	Ameloblastic carcinoma	Ameloblastic carcinoma	773624006	Primary ameloblastic carcinoma	85
-588	79319	MPI-CDG	Carbohydrate deficient glycoprotein syndrome type Ib	277893002	Carbohydrate-deficient glycoprotein syndrome type I	99
-589	86919	Keratosis palmaris et plantaris-clinodactyly syndrome	Palmoplantar keratoderma-clinodactyly syndrome	724224007	Palmoplantar keratoderma with clinodactyly syndrome	95
-591	79141	Hereditary painful callosities	Plamoplantar keratoderma nummularis	239073008	Localised palmoplantar keratoderma	81
-595	99792	Dentin dysplasia-sclerotic bones syndrome	Dentin dysplasia-sclerotic bones syndrome	770943008	Dentin dysplasia, sclerotic bones syndrome	100
-599	834	Free sialic acid storage disease	Free sialic acid storage disease	34566007	Infantile sialic acid storage disease	87
-600	495	Transgrediens et progrediens palmoplantar keratoderma	Progressive diffuse palmoplantar keratoderma	239070006	Progressive palmoplantar keratoderma	90
-605	1366	Autosomal recessive palmoplantar keratoderma and congenital alopecia	Autosomal recessive palmoplantar keratoderma and congenital alopecia	719104003	Autosomal recessive palmoplantar keratoderma and congenital alopecia syndrome	94
-606	95433	Autosomal recessive spinocerebellar ataxia-blindness-deafness syndrome	Autosomal recessive spinocerebellar ataxia type 3	785301002	Autosomal recessive spinocerebellar ataxia type 7	98
-607	93358	Spondyloepimetaphyseal dysplasia-short limb-abnormal calcification syndrome	Spondyloepimetaphyseal dysplasia-short limb-abnormal calcification syndrome	766821006	Spondyloepimetaphyseal dysplasia, short limb, abnormal calcification syndrome	100
-608	2481	Neurocutaneous melanocytosis	Neurocutaneous melanocytosis	254817005	Oculocutaneous melanocytic nevus	80
-610	320406	Spastic paraplegia-optic atrophy-neuropathy syndrome	Spastic paraplegia-optic atrophy-neuropathy syndrome	725139005	Spastic paraplegia, optic atrophy, neuropathy syndrome	100
-613	2134	Atypical hemolytic-uremic syndrome	Atypical hemolytic-uremic syndrome	722721004	Familial hemolytic uremic syndrome	88
-618	1259	Blepharoptosis-myopia-ectopia lentis syndrome	Blepharoptosis-myopia-ectopia lentis syndrome	717915004	Blepharoptosis, myopia, ectopia lentis syndrome	100
-620	443180	Spontaneous intracranial hypotension	Spontaneous cerebrospinal fluid leak	213210005	Postoperative cerebrospinal fluid leak	81
-621	171442	Adult-onset nemaline myopathy	Adult-onset nemaline myopathy	129622008	Nemaline myopathy, late onset type	84
-622	79403	Junctional epidermolysis bullosa-pyloric atresia syndrome	Junctional epidermolysis bullosa-pyloric atresia syndrome	53748002	Congenital junctional epidermolysis bullosa-pyloric atresia syndrome	91
-623	69088	Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome	Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome	720986005	Anhidrotic ectodermal dysplasia, immunodeficiency, osteopetrosis, lymphedema syndrome	100
-624	94089	Pseudohypoparathyroidism type 1B	Pseudohypoparathyroidism type 1B	717792007	Pseudohypoparathyroidism type 1C	97
-628	156728	Spondyloepimetaphyseal dysplasia, matrilin-3 type	Spondyloepimetaphyseal dysplasia, matrilin-3 type	719166003	Spondyloepimetaphyseal dysplasia matrilin-3 type	100
-631	75840	Congenital muscular dystrophy, Ullrich type	Congenital muscular dystrophy, Ullrich type	240062007	Ullrich congenital muscular dystrophy	94
-632	169157	T-B+ severe combined immunodeficiency due to CD45 deficiency	T-B+ severe combined immunodeficiency due to CD45 deficiency	765145001	T-B+ severe combined immunodeficiency due to gamma chain deficiency	90
-635	75566	Loeffler endocarditis	Loeffler endocarditis	33258008	Löffler's endocarditis	90
-636	284332	Infantile-onset autosomal recessive nonprogressive cerebellar ataxia	Autosomal recessive spinocerebellar ataxia type 6	715369006	SCAR2 (spinocerebellar ataxia autosomal recessive 2)	87
-638	163662	Spondyloepiphyseal dysplasia, Reardon type	Spondyloepiphyseal dysplasia, Reardon type	718764004	Spondyloepiphyseal dysplasia Reardon type	100
-639	79396	Epidermolysis bullosa simplex, generalized severe	Epidermolysis bullosa simplex, herpetiformis	254179000	Epidermolysis bullosa simplex herpetiformis	100
-642	171439	Childhood-onset nemaline myopathy	Mild nemaline myopathy	702349003	Nemaline myopathy 3	88
-645	331187	Immunodeficiency due to MASP-2 deficiency	Immunodeficiency due to MASP-2 deficiency	771078002	Immunodeficiency due to MASP-2 deficiency	100
-646	2802	X-linked sideroblastic anemia and spinocerebellar ataxia	X-linked sideroblastic anemia and spinocerebellar ataxia	719816006	X-linked sideroblastic anaemia with spinocerebellar ataxia	93
-647	443098	Hyperostosis cranialis interna	Hyperostosis cranialis interna	82054006	Hyperostosis interna frontalis	90
-648	79405	Junctional epidermolysis bullosa inversa	Junctional epidermolysis bullosa inversa	254192002	Inverse junctional epidermolysis bullosa	98
-656	168451	Spondyloepimetaphyseal dysplasia-abnormal dentition syndrome	Spondyloepimetaphyseal dysplasia-abnormal dentition syndrome	773302000	Spondyloepimetaphyseal dysplasia, abnormal dentition syndrome	100
-657	79083	PPARG-related familial partial lipodystrophy	Familial partial lipodystrophy type 3	725035001	Familial partial lipodystrophy type 1	97
-658	91130	Cardiomyopathy-hypotonia-lactic acidosis syndrome	Cardiomyopathy-hypotonia-lactic acidosis syndrome	718713000	Hypertrophic cardiomyopathy with hypotonia and lactic acidosis syndrome	82
-660	137675	Histiocytoid cardiomyopathy	Oncocytic cardiomyopathy	725416005	Cirrhotic cardiomyopathy	83
-661	163937	X-linked intellectual disability, Najm type	X-linked intellectual disability, Najm type	770604006	X-linked intellectual disability Kroes type	87
-662	254875	Mitochondrial DNA depletion syndrome, myopathic form	Mitochondrial DNA depletion syndrome, myopathic form	703527003	TK2-related mitochondrial DNA depletion syndrome myopathic form	89
-665	90342	Xeroderma pigmentosum variant	Xeroderma pigmentosum variant	88877002	Xeroderma pigmentosum XP variant	95
-667	89839	Epidermolysis bullosa simplex superficialis	Epidermolysis bullosa simplex superficialis	254181003	Epidermolysis simplex superficialis	90
-668	935	Short-limb skeletal dysplasia with severe combined immunodeficiency	Short-limb skeletal dysplasia with severe combined immunodeficiency	25109007	Severe combined immunodeficiency with short-limbed dwarfism	83
-669	86923	Hereditary palmoplantar keratoderma, Gamborg-Nielsen type	Hereditary palmoplantar keratoderma, Gamborg-Nielsen type	717228004	Hereditary palmoplantar keratoderma Gamborg Nielsen type	100
-671	91132	Ichthyosis-hypotrichosis syndrome	Ichthyosis-follicular atrophoderma-hypotrichosis syndrome	724277002	Ichthyosis, follicular atrophoderma, hypotrichosis syndrome	100
-674	330054	Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome	Congenital cataract-progressive muscular hypotonia-deafness-developmental delay syndrome	773398005	Congenital cataract, progressive muscular hypotonia, deafness, developmental delay syndrome	100
-675	1240	Metaphyseal acroscyphodysplasia	Metaphyseal acroscyphodysplasia	27837003	Metaphyseal dysplasia	81
-679	99898	Mendelian susceptibility to mycobacterial diseases due to complete IFNgammaR1 deficiency	Mendelian susceptibility to mycobacterial diseases due to complete interferon gamma receptor 1 deficiency	718230004	Mendelian susceptibility to mycobacterial disease due to complete interferon gamma receptor 1 deficiency	100
-683	70595	Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome	Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome	717266001	SANDO (sensory ataxic neuropathy dysarthria ophthalmoparesis) syndrome	95
-687	163681	Cortical dysplasia-focal epilepsy syndrome	Cortical dysplasia-focal epilepsy syndrome	771142009	Cortical dysplasia with focal epilepsy syndrome	94
-688	163665	Spondyloepiphyseal dysplasia tarda, Kohn type	Spondyloepiphyseal dysplasia tarda, Kohn type	719202006	Spondyloepiphyseal dysplasia tarda Kohn type	100
-694	357158	Mandibulofacial dysostosis-macroblepharon-macrostomia syndrome	Macroblepharon-ectropion-hypertelorism-macrostomia syndrome	773557002	Macroblepharon, ectropion, hypertelorism, macrostomia syndrome	100
-697	331206	Severe combined immunodeficiency due to complete RAG1/2 deficiency	Severe combined immunodeficiency due to complete RAG1/2 deficiency	765188009	SCID (severe combined immunodeficiency) due to complete RAG1/2 deficiency	96
-700	85164	Camptodactyly-tall stature-scoliosis-hearing loss syndrome	Camptodactyly-tall stature-scoliosis-hearing loss syndrome	720601000	CATSHL (camptodactyly, tall stature, scoliosis, hearing loss) syndrome	94
-701	163649	Spondyloepiphyseal dysplasia, Nishimura type	Spondyloepiphyseal dysplasia, Nishimura type	718766002	Spondyloepiphyseal dysplasia Nishimura type	100
-702	88628	Posterior column ataxia-retinitis pigmentosa syndrome	Autosomal recessive posterior column ataxia and retinitis pigmentosa	724065003	Autosomal recessive posterior column ataxia and retinitis pigmentosa	100
-703	178389	Osteopetrosis-hypogammaglobulinemia syndrome	Autosomal recessive osteoclast-poor osteopetrosis with hypogammaglobulinemia	773730002	Autosomal recessive osteoclast-poor osteopetrosis with hypogammaglobulinemia	100
-705	90349	Autosomal recessive cutis laxa type 1	Autosomal recessive cutis laxa type 1	784349004	Autosomal recessive cutis laxa type 1C	99
-716	391723	Mucinous adenocarcinoma of the appendix	Mucinous adenocarcinoma of the appendix	721672004	Primary mucinous adenocarcinoma of appendix	88
-717	35120	Hemolytic anemia due to pyrimidine 5' nucleotidase deficiency	Hemolytic anemia due to pyrimidine 5' nucleotidase deficiency	34194007	HNSHA due to pyrimidine-5'-nucleotidase deficiency	83
-720	139578	Mutilating hereditary sensory neuropathy with spastic paraplegia	Mutilating hereditary sensory neuropathy with spastic paraplegia	717827000	HSAN (hereditary sensory and autonomic neuropathy) with spastic paraplegia	82
-721	99877	Familial parathyroid adenoma	Familial parathyroid adenoma	702378002	Familial cystic parathyroid adenomatosis	82
-723	88644	Autosomal recessive ataxia, Beauce type	Autosomal recessive cerebellar ataxia type 1	725433003	ARCA1 - autosomal recessive cerebellar ataxia type 1	94
-725	87876	Sialidosis type 2	Sialidosis type 2	52186006	Sialidosis, type 2	100
-726	220436	Quebec platelet disorder	Quebec platelet disorder	22716005	Platelet disorder	83
-727	2597	Mitochondrial myopathy-lactic acidosis-deafness syndrome	Mitochondrial myopathy-lactic acidosis-hearing loss syndrome	732951005	Mitochondrial myopathy, lactic acidosis, hearing loss syndrome	100
-730	169154	T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency	T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency	765145001	T-B+ severe combined immunodeficiency due to gamma chain deficiency	85
-731	280671	Megaconial congenital muscular dystrophy	Megaconial congenital muscular dystrophy	240059009	Congenital muscular dystrophy	84
-733	26349	Protein S acquired deficiency	Protein S acquired deficiency	191298004	Acquired prothrombin deficiency	87
-734	26106	Hereditary diffuse gastric cancer	Familial diffuse gastric cancer	716859000	Familial diffuse gastric cancer	100
-735	231556	Late-onset localized junctional epidermolysis bullosa-intellectual disability syndrome	Late-onset localized junctional epidermolysis bullosa-intellectual disability syndrome	773692000	Late-onset localized junctional epidermolysis bullosa, intellectual disability syndrome	100
-739	444	Marie Unna hereditary hypotrichosis	Marie Unna congenital hypotrichosis	56558005	Congenital hypotrichosis	81
-740	84090	Fibronectin glomerulopathy	Glomerulopathy with fibronectin deposits	722759007	Glomerulopathy with fibronectin deposits 2	98
+494	369861	Congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome	Congenital sideroblastic anemia-B-cell immunodeficiency-periodic fever-developmental delay syndrome	765327005	Congenital sideroblastic anemia, B-cell immunodeficiency, periodic fever, developmental delay syndrome	100
+500	420492	Adult-onset cervical dystonia, DYT23 type	Dystonia 23	783242003	Dystonia 23	100
+501	213605	Carcinofibroma of the corpus uteri	Carcinofibroma of the corpus uteri	764952009	Carcinosarcoma of corpus uteri	84
+502	456318	Hereditary sensory neuropathy-deafness-dementia syndrome	HSAN1E	128205005	HSAN	80
+504	254343	Autosomal recessive spastic ataxia-optic atrophy-dysarthria syndrome	Autosomal recessive spastic ataxia type 4	770720005	Autosomal recessive spastic ataxia type 2	98
+507	306692	Cyanide-induced parkinsonism	Cyanide-induced parkinsonism	766872002	Cyanide-induced parkinsonism	100
+509	206489	Malignant germ cell tumor of the vagina	Vaginal germ cell malignant tumor	770686005	Vaginal germ cell malignant tumor	100
+511	248340	Isolated delta-storage pool disease	Isolated delta-storage pool disease	9417000	Delta storage pool disease	85
+514	330032	Hemoglobin Lepore-beta-thalassemia syndrome	Hemoglobin Lepore-beta-thalassemia syndrome	127041004	Hemoglobin S/beta thalassemia	81
+516	420566	Bleeding disorder due to CalDAG-GEFI deficiency	Bleeding disorder due to calcium- and DAG-regulated guanine exchange factor-1 deficiency	725105006	Bleeding disorder due to calcium and DAG-regulated guanine exchange factor-1 deficiency	100
+519	221043	Hereditary fibrosing poikiloderma-tendon contractures-myopathy-pulmonary fibrosis syndrome	POIKTMP syndrome	771306007	POIKTMP syndrome	100
+521	447964	Autosomal dominant Charcot-Marie-Tooth disease type 2V	Autosomal dominant Charcot-Marie-Tooth disease type 2V	717010007	Autosomal dominant Charcot-Marie-Tooth disease type 2C	98
+525	97927	Peripheral resistance to thyroid hormones	Peripheral resistance to thyroid hormones	718193005	Peripheral resistance to thyroid hormone	99
+528	314637	Mitochondrial hypertrophic cardiomyopathy with lactic acidosis due to MTO1 deficiency	Combined oxidative phosphorylation defect type 10	771478008	Combined oxidative phosphorylation defect type 10	100
+530	444490	Familial chylomicronemia syndrome	Familial chylomicronemia syndrome	402786009	Chylomicronemia syndrome	84
+531	447760	Autosomal recessive spastic paraplegia type 9B	Autosomal recessive spastic paraplegia type 9B	719103009	Autosomal recessive spastic paraplegia type 39	98
+534	86830	Chronic myeloproliferative disease, unclassifiable	Undifferentiated myeloproliferative disease	780817000	Undifferentiated myeloproliferative disease	100
+536	435988	Chronic atrial and intestinal dysrhythmia syndrome	Chronic atrial and intestinal dysrhythmia syndrome	720507006	CAID (chronic atrial and intestinal dysrhythmia) syndrome	95
+538	404499	Autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to RUBCN deficiency	Autosomal recessive spinocerebellar ataxia type 15	782721009	Autosomal recessive spinocerebellar ataxia type 15	100
+539	401901	Huntington disease-like syndrome due to C9ORF72 expansions	C9ORF72-related Huntington disease phenocopy	782743001	C9ORF72-related Huntington disease phenocopy	100
+540	210159	Adult hepatocellular carcinoma	Adult hepatocellular carcinoma	109841003	Hepatocellular carcinoma	89
+542	90036	Mixed-type autoimmune hemolytic anemia	Mixed-type autoimmune hemolytic anemia	718716008	Autoimmune hemolytic anemia mixed type	100
+544	423894	Microcephaly-complex motor and sensory axonal neuropathy syndrome	Microcephaly-complex motor and sensory axonal neuropathy syndrome	763798008	Microcephaly, complex motor and sensory axonal neuropathy syndrome	100
+545	238505	Combined immunodeficiency due to CD27 deficiency	Autosomal recessive lymphoproliferative disease due to CD27 deficiency	771309000	Autosomal recessive lymphoproliferative disease	80
+548	95715	Congenital hypothyroidism due to transplacental passage of TSH-binding inhibitory antibodies	Congenital hypothyroidism due to transplacental passage of TSH-binding inhibitory antibodies	717333002	Congenital hypothyroidism due to transplacental passage of maternal TSH-binding inhibitory antibody	93
+551	435934	COG2-CDG	COG2-related congenital disorder of glycosylation	783717008	PGM1-related congenital disorder of glycosylation	90
+555	411703	Pulmonary non-tuberculous mycobacterial infection	Non-tuberculous mycobacterial lung disease	1731000119106	Nontuberculous mycobacterial lung disease	99
+559	98902	Amish nemaline myopathy	Amish nemaline myopathy	702349003	Nemaline myopathy 3	86
+560	352662	Corneal intraepithelial dyskeratosis-palmoplantar hyperkeratosis-laryngeal dyskeratosis syndrome	Corneal intraepithelial dyskeratosis-palmoplantar hyperkeratosis-laryngeal dyskeratosis syndrome	773577009	Corneal intraepithelial dyskeratosis, palmoplantar hyperkeratosis, laryngeal dyskeratosis syndrome	100
+561	158676	Dominant dystrophic epidermolysis bullosa, nails only	Dominant dystrophic epidermolysis bullosa, nails only	722436002	Nails only DEB (dystrophic epidermolysis bullosa)	91
+564	443811	PGM3-CDG	PGM3-related congenital disorder of glycosylation	783717008	PGM1-related congenital disorder of glycosylation	98
+567	99825	Nipah virus disease	Nipah virus disease	74581008	Ganjam virus disease	82
+570	79643	Autosomal recessive hyperinsulinism due to SUR1 deficiency	Autosomal recessive hyperinsulinemic hypoglycemia due to SUR1 deficiency	783767001	Autosomal recessive hyperinsulinemic hypoglycemia due to SUR1 deficiency	100
+571	213746	Transitional cell carcinoma of the corpus uteri	Endometrial transitional cell carcinoma	722682001	Primary endometrial small cell carcinoma	81
+578	183713	Pyogenic bacterial infections due to MyD88 deficiency	Pyogenic bacterial infections due to MyD88 deficiency	718232007	Pyogenic bacterial infection due to MyD88 deficiency	99
+584	79147	Familial reactive perforating collagenosis	Familial reactive perforating collagenosis	64036004	Reactive perforating collagenosis	88
+586	659	Mutilating palmoplantar keratoderma with periorificial keratotic plaques	Olmsted syndrome	2298005	Goltz syndrome	80
+588	314422	Ameloblastic carcinoma	Ameloblastic carcinoma	773624006	Primary ameloblastic carcinoma	85
+589	79319	MPI-CDG	Carbohydrate deficient glycoprotein syndrome type Ib	277893002	Carbohydrate-deficient glycoprotein syndrome type I	99
+590	86919	Keratosis palmaris et plantaris-clinodactyly syndrome	Palmoplantar keratoderma-clinodactyly syndrome	724224007	Palmoplantar keratoderma with clinodactyly syndrome	95
+592	79141	Hereditary painful callosities	Plamoplantar keratoderma nummularis	239073008	Localised palmoplantar keratoderma	81
+596	99792	Dentin dysplasia-sclerotic bones syndrome	Dentin dysplasia-sclerotic bones syndrome	770943008	Dentin dysplasia, sclerotic bones syndrome	100
+600	834	Free sialic acid storage disease	Free sialic acid storage disease	34566007	Infantile sialic acid storage disease	87
+601	495	Transgrediens et progrediens palmoplantar keratoderma	Progressive diffuse palmoplantar keratoderma	239070006	Progressive palmoplantar keratoderma	90
+606	1366	Autosomal recessive palmoplantar keratoderma and congenital alopecia	Autosomal recessive palmoplantar keratoderma and congenital alopecia	719104003	Autosomal recessive palmoplantar keratoderma and congenital alopecia syndrome	94
+607	95433	Autosomal recessive spinocerebellar ataxia-blindness-deafness syndrome	Autosomal recessive spinocerebellar ataxia type 3	785301002	Autosomal recessive spinocerebellar ataxia type 7	98
+608	93358	Spondyloepimetaphyseal dysplasia-short limb-abnormal calcification syndrome	Spondyloepimetaphyseal dysplasia-short limb-abnormal calcification syndrome	766821006	Spondyloepimetaphyseal dysplasia, short limb, abnormal calcification syndrome	100
+609	2481	Neurocutaneous melanocytosis	Neurocutaneous melanocytosis	254817005	Oculocutaneous melanocytic nevus	80
+611	320406	Spastic paraplegia-optic atrophy-neuropathy syndrome	Spastic paraplegia-optic atrophy-neuropathy syndrome	725139005	Spastic paraplegia, optic atrophy, neuropathy syndrome	100
+614	2134	Atypical hemolytic-uremic syndrome	Atypical hemolytic-uremic syndrome	722721004	Familial hemolytic uremic syndrome	88
+619	1259	Blepharoptosis-myopia-ectopia lentis syndrome	Blepharoptosis-myopia-ectopia lentis syndrome	717915004	Blepharoptosis, myopia, ectopia lentis syndrome	100
+621	443180	Spontaneous intracranial hypotension	Spontaneous cerebrospinal fluid leak	213210005	Postoperative cerebrospinal fluid leak	81
+622	171442	Adult-onset nemaline myopathy	Adult-onset nemaline myopathy	129622008	Nemaline myopathy, late onset type	84
+623	79403	Junctional epidermolysis bullosa-pyloric atresia syndrome	Junctional epidermolysis bullosa-pyloric atresia syndrome	53748002	Congenital junctional epidermolysis bullosa-pyloric atresia syndrome	91
+624	69088	Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome	Anhidrotic ectodermal dysplasia-immunodeficiency-osteopetrosis-lymphedema syndrome	720986005	Anhidrotic ectodermal dysplasia, immunodeficiency, osteopetrosis, lymphedema syndrome	100
+625	94089	Pseudohypoparathyroidism type 1B	Pseudohypoparathyroidism type 1B	717792007	Pseudohypoparathyroidism type 1C	97
+629	156728	Spondyloepimetaphyseal dysplasia, matrilin-3 type	Spondyloepimetaphyseal dysplasia, matrilin-3 type	719166003	Spondyloepimetaphyseal dysplasia matrilin-3 type	100
+632	75840	Congenital muscular dystrophy, Ullrich type	Congenital muscular dystrophy, Ullrich type	240062007	Ullrich congenital muscular dystrophy	94
+633	169157	T-B+ severe combined immunodeficiency due to CD45 deficiency	T-B+ severe combined immunodeficiency due to CD45 deficiency	765145001	T-B+ severe combined immunodeficiency due to gamma chain deficiency	90
+636	75566	Loeffler endocarditis	Loeffler endocarditis	33258008	Löffler's endocarditis	90
+637	284332	Infantile-onset autosomal recessive nonprogressive cerebellar ataxia	Autosomal recessive spinocerebellar ataxia type 6	715369006	SCAR2 (spinocerebellar ataxia autosomal recessive 2)	87
+639	163662	Spondyloepiphyseal dysplasia, Reardon type	Spondyloepiphyseal dysplasia, Reardon type	718764004	Spondyloepiphyseal dysplasia Reardon type	100
+640	79396	Epidermolysis bullosa simplex, generalized severe	Epidermolysis bullosa simplex, herpetiformis	254179000	Epidermolysis bullosa simplex herpetiformis	100
+643	171439	Childhood-onset nemaline myopathy	Mild nemaline myopathy	702349003	Nemaline myopathy 3	88
+646	331187	Immunodeficiency due to MASP-2 deficiency	Immunodeficiency due to MASP-2 deficiency	771078002	Immunodeficiency due to MASP-2 deficiency	100
+647	2802	X-linked sideroblastic anemia and spinocerebellar ataxia	X-linked sideroblastic anemia and spinocerebellar ataxia	719816006	X-linked sideroblastic anaemia with spinocerebellar ataxia	93
+648	443098	Hyperostosis cranialis interna	Hyperostosis cranialis interna	82054006	Hyperostosis interna frontalis	90
+649	79405	Junctional epidermolysis bullosa inversa	Junctional epidermolysis bullosa inversa	254192002	Inverse junctional epidermolysis bullosa	98
+657	168451	Spondyloepimetaphyseal dysplasia-abnormal dentition syndrome	Spondyloepimetaphyseal dysplasia-abnormal dentition syndrome	773302000	Spondyloepimetaphyseal dysplasia, abnormal dentition syndrome	100
+658	79083	PPARG-related familial partial lipodystrophy	Familial partial lipodystrophy type 3	725035001	Familial partial lipodystrophy type 1	97
+659	91130	Cardiomyopathy-hypotonia-lactic acidosis syndrome	Cardiomyopathy-hypotonia-lactic acidosis syndrome	718713000	Hypertrophic cardiomyopathy with hypotonia and lactic acidosis syndrome	82
+661	137675	Histiocytoid cardiomyopathy	Oncocytic cardiomyopathy	725416005	Cirrhotic cardiomyopathy	83
+662	163937	X-linked intellectual disability, Najm type	X-linked intellectual disability, Najm type	770604006	X-linked intellectual disability Kroes type	87
+663	254875	Mitochondrial DNA depletion syndrome, myopathic form	Mitochondrial DNA depletion syndrome, myopathic form	703527003	TK2-related mitochondrial DNA depletion syndrome myopathic form	89
+666	90342	Xeroderma pigmentosum variant	Xeroderma pigmentosum variant	88877002	Xeroderma pigmentosum XP variant	95
+668	89839	Epidermolysis bullosa simplex superficialis	Epidermolysis bullosa simplex superficialis	254181003	Epidermolysis simplex superficialis	90
+669	935	Short-limb skeletal dysplasia with severe combined immunodeficiency	Short-limb skeletal dysplasia with severe combined immunodeficiency	25109007	Severe combined immunodeficiency with short-limbed dwarfism	83
+670	86923	Hereditary palmoplantar keratoderma, Gamborg-Nielsen type	Hereditary palmoplantar keratoderma, Gamborg-Nielsen type	717228004	Hereditary palmoplantar keratoderma Gamborg Nielsen type	100
+672	91132	Ichthyosis-hypotrichosis syndrome	Ichthyosis-follicular atrophoderma-hypotrichosis syndrome	724277002	Ichthyosis, follicular atrophoderma, hypotrichosis syndrome	100
+675	330054	Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome	Congenital cataract-progressive muscular hypotonia-deafness-developmental delay syndrome	773398005	Congenital cataract, progressive muscular hypotonia, deafness, developmental delay syndrome	100
+676	1240	Metaphyseal acroscyphodysplasia	Metaphyseal acroscyphodysplasia	28681006	Metaphyseal chondrodysplasia	81
+680	99898	Mendelian susceptibility to mycobacterial diseases due to complete IFNgammaR1 deficiency	Mendelian susceptibility to mycobacterial diseases due to complete interferon gamma receptor 1 deficiency	718230004	Mendelian susceptibility to mycobacterial disease due to complete interferon gamma receptor 1 deficiency	100
+684	70595	Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome	Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome	717266001	SANDO (sensory ataxic neuropathy dysarthria ophthalmoparesis) syndrome	95
+688	163681	Cortical dysplasia-focal epilepsy syndrome	Cortical dysplasia-focal epilepsy syndrome	771142009	Cortical dysplasia with focal epilepsy syndrome	94
+689	163665	Spondyloepiphyseal dysplasia tarda, Kohn type	Spondyloepiphyseal dysplasia tarda, Kohn type	719202006	Spondyloepiphyseal dysplasia tarda Kohn type	100
+695	357158	Mandibulofacial dysostosis-macroblepharon-macrostomia syndrome	Macroblepharon-ectropion-hypertelorism-macrostomia syndrome	773557002	Macroblepharon, ectropion, hypertelorism, macrostomia syndrome	100
+698	331206	Severe combined immunodeficiency due to complete RAG1/2 deficiency	Severe combined immunodeficiency due to complete RAG1/2 deficiency	765188009	SCID (severe combined immunodeficiency) due to complete RAG1/2 deficiency	96
+701	85164	Camptodactyly-tall stature-scoliosis-hearing loss syndrome	Camptodactyly-tall stature-scoliosis-hearing loss syndrome	720601000	CATSHL (camptodactyly, tall stature, scoliosis, hearing loss) syndrome	94
+702	163649	Spondyloepiphyseal dysplasia, Nishimura type	Spondyloepiphyseal dysplasia, Nishimura type	718766002	Spondyloepiphyseal dysplasia Nishimura type	100
+703	88628	Posterior column ataxia-retinitis pigmentosa syndrome	Autosomal recessive posterior column ataxia and retinitis pigmentosa	724065003	Autosomal recessive posterior column ataxia and retinitis pigmentosa	100
+704	178389	Osteopetrosis-hypogammaglobulinemia syndrome	Autosomal recessive osteoclast-poor osteopetrosis with hypogammaglobulinemia	773730002	Autosomal recessive osteoclast-poor osteopetrosis with hypogammaglobulinemia	100
+706	90349	Autosomal recessive cutis laxa type 1	Autosomal recessive cutis laxa type 1	784349004	Autosomal recessive cutis laxa type 1C	99
+717	391723	Mucinous adenocarcinoma of the appendix	Mucinous adenocarcinoma of the appendix	721672004	Primary mucinous adenocarcinoma of appendix	88
+718	35120	Hemolytic anemia due to pyrimidine 5' nucleotidase deficiency	Hemolytic anemia due to pyrimidine 5' nucleotidase deficiency	34194007	HNSHA due to pyrimidine-5'-nucleotidase deficiency	83
+721	139578	Mutilating hereditary sensory neuropathy with spastic paraplegia	Mutilating hereditary sensory neuropathy with spastic paraplegia	717827000	HSAN (hereditary sensory and autonomic neuropathy) with spastic paraplegia	82
+722	99877	Familial parathyroid adenoma	Familial parathyroid adenoma	702378002	Familial cystic parathyroid adenomatosis	82
+724	88644	Autosomal recessive ataxia, Beauce type	Autosomal recessive cerebellar ataxia type 1	725433003	ARCA1 - autosomal recessive cerebellar ataxia type 1	94
+726	87876	Sialidosis type 2	Sialidosis type 2	52186006	Sialidosis, type 2	100
+727	220436	Quebec platelet disorder	Quebec platelet disorder	22716005	Platelet disorder	83
+728	2597	Mitochondrial myopathy-lactic acidosis-deafness syndrome	Mitochondrial myopathy-lactic acidosis-hearing loss syndrome	732951005	Mitochondrial myopathy, lactic acidosis, hearing loss syndrome	100
+731	169154	T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency	T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency	765145001	T-B+ severe combined immunodeficiency due to gamma chain deficiency	85
+732	280671	Megaconial congenital muscular dystrophy	Megaconial congenital muscular dystrophy	240059009	Congenital muscular dystrophy	84
+734	26349	Protein S acquired deficiency	Protein S acquired deficiency	191298004	Acquired prothrombin deficiency	87
+735	26106	Hereditary diffuse gastric cancer	Familial diffuse gastric cancer	716859000	Familial diffuse gastric cancer	100
+736	231556	Late-onset localized junctional epidermolysis bullosa-intellectual disability syndrome	Late-onset localized junctional epidermolysis bullosa-intellectual disability syndrome	773692000	Late-onset localized junctional epidermolysis bullosa, intellectual disability syndrome	100
+740	444	Marie Unna hereditary hypotrichosis	Marie Unna congenital hypotrichosis	56558005	Congenital hypotrichosis	81
+741	84090	Fibronectin glomerulopathy	Glomerulopathy with fibronectin deposits	722759007	Glomerulopathy with fibronectin deposits 2	98
